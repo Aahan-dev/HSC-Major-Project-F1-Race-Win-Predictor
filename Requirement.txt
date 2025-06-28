@@ -1,5 +1,5 @@
 #Necessary Libraries to run the code:
 
-Streamlit==1.44.1
-Pandas==2.2.3
-Scikit-learn==1.6.1
+streamlit==1.44.1
+pandas==2.2.3
+scikit-learn==1.6.1
