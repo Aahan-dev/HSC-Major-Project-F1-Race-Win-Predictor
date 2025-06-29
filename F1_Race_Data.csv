@@ -1,0 +1,2339 @@
+,Season,Round,Circuit,Driver,Grid,Constructor,Won,Weather
+0,2020,1,Red Bull Ring,Bottas,1,Mercedes,1,Sunny
+1,2020,1,Red Bull Ring,Leclerc,7,Ferrari,0,Sunny
+2,2020,1,Red Bull Ring,Norris,3,McLaren,0,Sunny
+3,2020,1,Red Bull Ring,Hamilton,5,Mercedes,0,Sunny
+4,2020,1,Red Bull Ring,Sainz,8,McLaren,0,Sunny
+5,2020,1,Red Bull Ring,Perez,6,Racing Point,0,Sunny
+6,2020,1,Red Bull Ring,Gasly,12,AlphaTauri,0,Sunny
+7,2020,1,Red Bull Ring,Ocon,14,Renault,0,Sunny
+8,2020,1,Red Bull Ring,Giovinazzi,18,Alfa Romeo,0,Sunny
+9,2020,1,Red Bull Ring,Vettel,11,Ferrari,0,Sunny
+10,2020,1,Red Bull Ring,Latifi,20,Williams,0,Sunny
+11,2020,1,Red Bull Ring,Kvyat,13,AlphaTauri,0,Sunny
+12,2020,1,Red Bull Ring,Albon,4,Red Bull,0,Sunny
+13,2020,1,Red Bull Ring,Raikkonen,19,Alfa Romeo,0,Sunny
+14,2020,1,Red Bull Ring,Russell,17,Williams,0,Sunny
+15,2020,1,Red Bull Ring,Grosjean,15,Haas F1 Team,0,Sunny
+16,2020,1,Red Bull Ring,Magnussen,16,Haas F1 Team,0,Sunny
+17,2020,1,Red Bull Ring,Stroll,9,Racing Point,0,Sunny
+18,2020,1,Red Bull Ring,Ricciardo,10,Renault,0,Sunny
+19,2020,1,Red Bull Ring,Verstappen,2,Red Bull,0,Sunny
+20,2020,2,Red Bull Ring,Hamilton,1,Mercedes,1,Sunny
+21,2020,2,Red Bull Ring,Bottas,4,Mercedes,0,Sunny
+22,2020,2,Red Bull Ring,Verstappen,2,Red Bull,0,Sunny
+23,2020,2,Red Bull Ring,Albon,6,Red Bull,0,Sunny
+24,2020,2,Red Bull Ring,Norris,9,McLaren,0,Sunny
+25,2020,2,Red Bull Ring,Perez,17,Racing Point,0,Sunny
+26,2020,2,Red Bull Ring,Stroll,12,Racing Point,0,Sunny
+27,2020,2,Red Bull Ring,Ricciardo,8,Renault,0,Sunny
+28,2020,2,Red Bull Ring,Sainz,3,McLaren,0,Sunny
+29,2020,2,Red Bull Ring,Kvyat,13,AlphaTauri,0,Sunny
+30,2020,2,Red Bull Ring,Raikkonen,16,Alfa Romeo,0,Sunny
+31,2020,2,Red Bull Ring,Magnussen,15,Haas F1 Team,0,Sunny
+32,2020,2,Red Bull Ring,Grosjean,0,Haas F1 Team,0,Sunny
+33,2020,2,Red Bull Ring,Giovinazzi,19,Alfa Romeo,0,Sunny
+34,2020,2,Red Bull Ring,Gasly,7,AlphaTauri,0,Sunny
+35,2020,2,Red Bull Ring,Russell,11,Williams,0,Sunny
+36,2020,2,Red Bull Ring,Latifi,18,Williams,0,Sunny
+37,2020,2,Red Bull Ring,Ocon,5,Renault,0,Sunny
+38,2020,2,Red Bull Ring,Leclerc,14,Ferrari,0,Sunny
+39,2020,2,Red Bull Ring,Vettel,10,Ferrari,0,Sunny
+40,2020,3,Hungaroring,Hamilton,1,Mercedes,1,Sunny
+41,2020,3,Hungaroring,Verstappen,7,Red Bull,0,Sunny
+42,2020,3,Hungaroring,Bottas,2,Mercedes,0,Sunny
+43,2020,3,Hungaroring,Stroll,3,Racing Point,0,Sunny
+44,2020,3,Hungaroring,Albon,13,Red Bull,0,Sunny
+45,2020,3,Hungaroring,Vettel,5,Ferrari,0,Sunny
+46,2020,3,Hungaroring,Perez,4,Racing Point,0,Sunny
+47,2020,3,Hungaroring,Ricciardo,11,Renault,0,Sunny
+48,2020,3,Hungaroring,Sainz,9,McLaren,0,Sunny
+49,2020,3,Hungaroring,Magnussen,0,Haas F1 Team,0,Sunny
+50,2020,3,Hungaroring,Leclerc,6,Ferrari,0,Sunny
+51,2020,3,Hungaroring,Kvyat,17,AlphaTauri,0,Sunny
+52,2020,3,Hungaroring,Norris,8,McLaren,0,Sunny
+53,2020,3,Hungaroring,Ocon,14,Renault,0,Sunny
+54,2020,3,Hungaroring,Raikkonen,20,Alfa Romeo,0,Sunny
+55,2020,3,Hungaroring,Grosjean,0,Haas F1 Team,0,Sunny
+56,2020,3,Hungaroring,Giovinazzi,19,Alfa Romeo,0,Sunny
+57,2020,3,Hungaroring,Russell,12,Williams,0,Sunny
+58,2020,3,Hungaroring,Latifi,15,Williams,0,Sunny
+59,2020,3,Hungaroring,Gasly,10,AlphaTauri,0,Sunny
+60,2020,4,Silverstone Circuit,Hamilton,1,Mercedes,1,Sunny
+61,2020,4,Silverstone Circuit,Verstappen,3,Red Bull,0,Sunny
+62,2020,4,Silverstone Circuit,Leclerc,4,Ferrari,0,Sunny
+63,2020,4,Silverstone Circuit,Ricciardo,8,Renault,0,Sunny
+64,2020,4,Silverstone Circuit,Norris,5,McLaren,0,Sunny
+65,2020,4,Silverstone Circuit,Ocon,9,Renault,0,Sunny
+66,2020,4,Silverstone Circuit,Gasly,11,AlphaTauri,0,Sunny
+67,2020,4,Silverstone Circuit,Albon,12,Red Bull,0,Sunny
+68,2020,4,Silverstone Circuit,Stroll,6,Racing Point,0,Sunny
+69,2020,4,Silverstone Circuit,Vettel,10,Ferrari,0,Sunny
+70,2020,4,Silverstone Circuit,Bottas,2,Mercedes,0,Sunny
+71,2020,4,Silverstone Circuit,Russell,20,Williams,0,Sunny
+72,2020,4,Silverstone Circuit,Sainz,7,McLaren,0,Sunny
+73,2020,4,Silverstone Circuit,Giovinazzi,15,Alfa Romeo,0,Sunny
+74,2020,4,Silverstone Circuit,Latifi,18,Williams,0,Sunny
+75,2020,4,Silverstone Circuit,Grosjean,17,Haas F1 Team,0,Sunny
+76,2020,4,Silverstone Circuit,Raikkonen,16,Alfa Romeo,0,Sunny
+77,2020,4,Silverstone Circuit,Kvyat,19,AlphaTauri,0,Sunny
+78,2020,4,Silverstone Circuit,Magnussen,14,Haas F1 Team,0,Sunny
+79,2020,4,Silverstone Circuit,Hulkenberg,13,Racing Point,0,Sunny
+80,2020,5,Silverstone Circuit,Verstappen,4,Red Bull,1,Sunny
+81,2020,5,Silverstone Circuit,Hamilton,2,Mercedes,0,Sunny
+82,2020,5,Silverstone Circuit,Bottas,1,Mercedes,0,Sunny
+83,2020,5,Silverstone Circuit,Leclerc,8,Ferrari,0,Sunny
+84,2020,5,Silverstone Circuit,Albon,9,Red Bull,0,Sunny
+85,2020,5,Silverstone Circuit,Stroll,6,Racing Point,0,Sunny
+86,2020,5,Silverstone Circuit,Hulkenberg,3,Racing Point,0,Sunny
+87,2020,5,Silverstone Circuit,Ocon,14,Renault,0,Sunny
+88,2020,5,Silverstone Circuit,Norris,10,McLaren,0,Sunny
+89,2020,5,Silverstone Circuit,Kvyat,16,AlphaTauri,0,Sunny
+90,2020,5,Silverstone Circuit,Gasly,7,AlphaTauri,0,Sunny
+91,2020,5,Silverstone Circuit,Vettel,11,Ferrari,0,Sunny
+92,2020,5,Silverstone Circuit,Sainz,12,McLaren,0,Sunny
+93,2020,5,Silverstone Circuit,Ricciardo,5,Renault,0,Sunny
+94,2020,5,Silverstone Circuit,Raikkonen,20,Alfa Romeo,0,Sunny
+95,2020,5,Silverstone Circuit,Grosjean,13,Haas F1 Team,0,Sunny
+96,2020,5,Silverstone Circuit,Giovinazzi,19,Alfa Romeo,0,Sunny
+97,2020,5,Silverstone Circuit,Russell,15,Williams,0,Sunny
+98,2020,5,Silverstone Circuit,Latifi,18,Williams,0,Sunny
+99,2020,5,Silverstone Circuit,Magnussen,17,Haas F1 Team,0,Sunny
+100,2020,6,Circuit de Barcelona-Catalunya,Hamilton,1,Mercedes,1,Sunny
+101,2020,6,Circuit de Barcelona-Catalunya,Verstappen,3,Red Bull,0,Sunny
+102,2020,6,Circuit de Barcelona-Catalunya,Bottas,2,Mercedes,0,Sunny
+103,2020,6,Circuit de Barcelona-Catalunya,Stroll,5,Racing Point,0,Sunny
+104,2020,6,Circuit de Barcelona-Catalunya,Perez,4,Racing Point,0,Sunny
+105,2020,6,Circuit de Barcelona-Catalunya,Sainz,7,McLaren,0,Sunny
+106,2020,6,Circuit de Barcelona-Catalunya,Vettel,11,Ferrari,0,Sunny
+107,2020,6,Circuit de Barcelona-Catalunya,Albon,6,Red Bull,0,Sunny
+108,2020,6,Circuit de Barcelona-Catalunya,Gasly,10,AlphaTauri,0,Sunny
+109,2020,6,Circuit de Barcelona-Catalunya,Norris,8,McLaren,0,Sunny
+110,2020,6,Circuit de Barcelona-Catalunya,Ricciardo,13,Renault,0,Sunny
+111,2020,6,Circuit de Barcelona-Catalunya,Kvyat,12,AlphaTauri,0,Sunny
+112,2020,6,Circuit de Barcelona-Catalunya,Ocon,15,Renault,0,Sunny
+113,2020,6,Circuit de Barcelona-Catalunya,Raikkonen,14,Alfa Romeo,0,Sunny
+114,2020,6,Circuit de Barcelona-Catalunya,Magnussen,16,Haas F1 Team,0,Sunny
+115,2020,6,Circuit de Barcelona-Catalunya,Giovinazzi,20,Alfa Romeo,0,Sunny
+116,2020,6,Circuit de Barcelona-Catalunya,Russell,18,Williams,0,Sunny
+117,2020,6,Circuit de Barcelona-Catalunya,Latifi,19,Williams,0,Sunny
+118,2020,6,Circuit de Barcelona-Catalunya,Grosjean,17,Haas F1 Team,0,Sunny
+119,2020,6,Circuit de Barcelona-Catalunya,Leclerc,9,Ferrari,0,Sunny
+120,2020,7,Circuit de Spa-Francorchamps,Hamilton,1,Mercedes,1,Sunny
+121,2020,7,Circuit de Spa-Francorchamps,Bottas,2,Mercedes,0,Sunny
+122,2020,7,Circuit de Spa-Francorchamps,Verstappen,3,Red Bull,0,Sunny
+123,2020,7,Circuit de Spa-Francorchamps,Ricciardo,4,Renault,0,Sunny
+124,2020,7,Circuit de Spa-Francorchamps,Ocon,6,Renault,0,Sunny
+125,2020,7,Circuit de Spa-Francorchamps,Albon,5,Red Bull,0,Sunny
+126,2020,7,Circuit de Spa-Francorchamps,Norris,10,McLaren,0,Sunny
+127,2020,7,Circuit de Spa-Francorchamps,Gasly,12,AlphaTauri,0,Sunny
+128,2020,7,Circuit de Spa-Francorchamps,Stroll,9,Racing Point,0,Sunny
+129,2020,7,Circuit de Spa-Francorchamps,Perez,8,Racing Point,0,Sunny
+130,2020,7,Circuit de Spa-Francorchamps,Kvyat,11,AlphaTauri,0,Sunny
+131,2020,7,Circuit de Spa-Francorchamps,Raikkonen,16,Alfa Romeo,0,Sunny
+132,2020,7,Circuit de Spa-Francorchamps,Vettel,14,Ferrari,0,Sunny
+133,2020,7,Circuit de Spa-Francorchamps,Leclerc,13,Ferrari,0,Sunny
+134,2020,7,Circuit de Spa-Francorchamps,Grosjean,17,Haas F1 Team,0,Sunny
+135,2020,7,Circuit de Spa-Francorchamps,Latifi,19,Williams,0,Sunny
+136,2020,7,Circuit de Spa-Francorchamps,Magnussen,20,Haas F1 Team,0,Sunny
+137,2020,7,Circuit de Spa-Francorchamps,Giovinazzi,18,Alfa Romeo,0,Sunny
+138,2020,7,Circuit de Spa-Francorchamps,Russell,15,Williams,0,Sunny
+139,2020,7,Circuit de Spa-Francorchamps,Sainz,7,McLaren,0,Sunny
+140,2020,8,Autodromo Nazionale di Monza,Gasly,10,AlphaTauri,1,Sunny
+141,2020,8,Autodromo Nazionale di Monza,Sainz,3,McLaren,0,Sunny
+142,2020,8,Autodromo Nazionale di Monza,Stroll,8,Racing Point,0,Sunny
+143,2020,8,Autodromo Nazionale di Monza,Norris,6,McLaren,0,Sunny
+144,2020,8,Autodromo Nazionale di Monza,Bottas,2,Mercedes,0,Sunny
+145,2020,8,Autodromo Nazionale di Monza,Ricciardo,7,Renault,0,Sunny
+146,2020,8,Autodromo Nazionale di Monza,Hamilton,1,Mercedes,0,Sunny
+147,2020,8,Autodromo Nazionale di Monza,Ocon,12,Renault,0,Sunny
+148,2020,8,Autodromo Nazionale di Monza,Kvyat,11,AlphaTauri,0,Sunny
+149,2020,8,Autodromo Nazionale di Monza,Perez,4,Racing Point,0,Sunny
+150,2020,8,Autodromo Nazionale di Monza,Latifi,20,Williams,0,Sunny
+151,2020,8,Autodromo Nazionale di Monza,Grosjean,16,Haas F1 Team,0,Sunny
+152,2020,8,Autodromo Nazionale di Monza,Raikkonen,14,Alfa Romeo,0,Sunny
+153,2020,8,Autodromo Nazionale di Monza,Russell,19,Williams,0,Sunny
+154,2020,8,Autodromo Nazionale di Monza,Albon,9,Red Bull,0,Sunny
+155,2020,8,Autodromo Nazionale di Monza,Giovinazzi,18,Alfa Romeo,0,Sunny
+156,2020,8,Autodromo Nazionale di Monza,Verstappen,5,Red Bull,0,Sunny
+157,2020,8,Autodromo Nazionale di Monza,Leclerc,13,Ferrari,0,Sunny
+158,2020,8,Autodromo Nazionale di Monza,Magnussen,15,Haas F1 Team,0,Sunny
+159,2020,8,Autodromo Nazionale di Monza,Vettel,17,Ferrari,0,Sunny
+160,2020,9,Autodromo Internazionale del Mugello,Hamilton,1,Mercedes,1,Sunny
+161,2020,9,Autodromo Internazionale del Mugello,Bottas,2,Mercedes,0,Sunny
+162,2020,9,Autodromo Internazionale del Mugello,Albon,4,Red Bull,0,Sunny
+163,2020,9,Autodromo Internazionale del Mugello,Ricciardo,8,Renault,0,Sunny
+164,2020,9,Autodromo Internazionale del Mugello,Perez,7,Racing Point,0,Sunny
+165,2020,9,Autodromo Internazionale del Mugello,Norris,11,McLaren,0,Sunny
+166,2020,9,Autodromo Internazionale del Mugello,Kvyat,12,AlphaTauri,0,Sunny
+167,2020,9,Autodromo Internazionale del Mugello,Leclerc,5,Ferrari,0,Sunny
+168,2020,9,Autodromo Internazionale del Mugello,Raikkonen,13,Alfa Romeo,0,Sunny
+169,2020,9,Autodromo Internazionale del Mugello,Vettel,14,Ferrari,0,Sunny
+170,2020,9,Autodromo Internazionale del Mugello,Russell,18,Williams,0,Sunny
+171,2020,9,Autodromo Internazionale del Mugello,Grosjean,15,Haas F1 Team,0,Sunny
+172,2020,9,Autodromo Internazionale del Mugello,Stroll,6,Racing Point,0,Sunny
+173,2020,9,Autodromo Internazionale del Mugello,Ocon,10,Renault,0,Sunny
+174,2020,9,Autodromo Internazionale del Mugello,Latifi,19,Williams,0,Sunny
+175,2020,9,Autodromo Internazionale del Mugello,Magnussen,20,Haas F1 Team,0,Sunny
+176,2020,9,Autodromo Internazionale del Mugello,Giovinazzi,17,Alfa Romeo,0,Sunny
+177,2020,9,Autodromo Internazionale del Mugello,Sainz,9,McLaren,0,Sunny
+178,2020,9,Autodromo Internazionale del Mugello,Verstappen,3,Red Bull,0,Sunny
+179,2020,9,Autodromo Internazionale del Mugello,Gasly,16,AlphaTauri,0,Sunny
+180,2020,10,SC,Bottas,3,Mercedes,1,Sunny
+181,2020,10,Sochi Autodrom,Verstappen,2,Red Bull,0,Sunny
+182,2020,10,Sochi Autodrom,Hamilton,1,Mercedes,0,Sunny
+183,2020,10,Sochi Autodrom,Perez,4,Racing Point,0,Sunny
+184,2020,10,Sochi Autodrom,Ricciardo,5,Renault,0,Sunny
+185,2020,10,Sochi Autodrom,Leclerc,10,Ferrari,0,Sunny
+186,2020,10,Sochi Autodrom,Ocon,7,Renault,0,Sunny
+187,2020,10,Sochi Autodrom,Kvyat,11,AlphaTauri,0,Sunny
+188,2020,10,Sochi Autodrom,Gasly,9,AlphaTauri,0,Sunny
+189,2020,10,Sochi Autodrom,Albon,15,Red Bull,0,Sunny
+190,2020,10,Sochi Autodrom,Giovinazzi,17,Alfa Romeo,0,Sunny
+191,2020,10,Sochi Autodrom,Magnussen,18,Haas F1 Team,0,Sunny
+192,2020,10,Sochi Autodrom,Vettel,14,Ferrari,0,Sunny
+193,2020,10,Sochi Autodrom,Raikkonen,19,Alfa Romeo,0,Sunny
+194,2020,10,Sochi Autodrom,Norris,8,McLaren,0,Sunny
+195,2020,10,Sochi Autodrom,Latifi,20,Williams,0,Sunny
+196,2020,10,Sochi Autodrom,Grosjean,16,Haas F1 Team,0,Sunny
+197,2020,10,Sochi Autodrom,Russell,13,Williams,0,Sunny
+198,2020,10,Sochi Autodrom,Sainz,6,McLaren,0,Sunny
+199,2020,10,Sochi Autodrom,Stroll,12,Racing Point,0,Sunny
+200,2020,11,Nurburgring,Hamilton,2,Mercedes,1,Sunny
+201,2020,11,Nurburgring,Verstappen,3,Red Bull,0,Sunny
+202,2020,11,Nurburgring,Ricciardo,6,Renault,0,Sunny
+203,2020,11,Nurburgring,Perez,9,Racing Point,0,Sunny
+204,2020,11,Nurburgring,Sainz,10,McLaren,0,Sunny
+205,2020,11,Nurburgring,Gasly,12,AlphaTauri,0,Sunny
+206,2020,11,Nurburgring,Leclerc,4,Ferrari,0,Sunny
+207,2020,11,Nurburgring,Hulkenberg,20,Racing Point,0,Sunny
+208,2020,11,Nurburgring,Grosjean,16,Haas F1 Team,0,Sunny
+209,2020,11,Nurburgring,Giovinazzi,14,Alfa Romeo,0,Sunny
+210,2020,11,Nurburgring,Vettel,11,Ferrari,0,Sunny
+211,2020,11,Nurburgring,Raikkonen,19,Alfa Romeo,0,Sunny
+212,2020,11,Nurburgring,Magnussen,15,Haas F1 Team,0,Sunny
+213,2020,11,Nurburgring,Latifi,18,Williams,0,Sunny
+214,2020,11,Nurburgring,Kvyat,13,AlphaTauri,0,Sunny
+215,2020,11,Nurburgring,Norris,8,McLaren,0,Sunny
+216,2020,11,Nurburgring,Albon,5,Red Bull,0,Sunny
+217,2020,11,Nurburgring,Ocon,7,Renault,0,Sunny
+218,2020,11,Nurburgring,Bottas,1,Mercedes,0,Sunny
+219,2020,11,Nurburgring,Russell,17,Williams,0,Sunny
+220,2020,12,Autodromo Internacional do Algarve,Hamilton,1,Mercedes,1,Sunny
+221,2020,12,Autodromo Internacional do Algarve,Bottas,2,Mercedes,0,Sunny
+222,2020,12,Autodromo Internacional do Algarve,Verstappen,3,Red Bull,0,Sunny
+223,2020,12,Autodromo Internacional do Algarve,Leclerc,4,Ferrari,0,Sunny
+224,2020,12,Autodromo Internacional do Algarve,Gasly,9,AlphaTauri,0,Sunny
+225,2020,12,Autodromo Internacional do Algarve,Sainz,7,McLaren,0,Sunny
+226,2020,12,Autodromo Internacional do Algarve,Perez,5,Racing Point,0,Sunny
+227,2020,12,Autodromo Internacional do Algarve,Ocon,11,Renault,0,Sunny
+228,2020,12,Autodromo Internacional do Algarve,Ricciardo,10,Renault,0,Sunny
+229,2020,12,Autodromo Internacional do Algarve,Vettel,15,Ferrari,0,Sunny
+230,2020,12,Autodromo Internacional do Algarve,Raikkonen,16,Alfa Romeo,0,Sunny
+231,2020,12,Autodromo Internacional do Algarve,Albon,6,Red Bull,0,Sunny
+232,2020,12,Autodromo Internacional do Algarve,Norris,8,McLaren,0,Sunny
+233,2020,12,Autodromo Internacional do Algarve,Russell,14,Williams,0,Sunny
+234,2020,12,Autodromo Internacional do Algarve,Giovinazzi,17,Alfa Romeo,0,Sunny
+235,2020,12,Autodromo Internacional do Algarve,Magnussen,19,Haas F1 Team,0,Sunny
+236,2020,12,Autodromo Internacional do Algarve,Grosjean,18,Haas F1 Team,0,Sunny
+237,2020,12,Autodromo Internacional do Algarve,Latifi,20,Williams,0,Sunny
+238,2020,12,Autodromo Internacional do Algarve,Kvyat,13,AlphaTauri,0,Sunny
+239,2020,12,Autodromo Internacional do Algarve,Stroll,12,Racing Point,0,Sunny
+240,2020,13,Autodromo Enzo e Dino Ferrari,Hamilton,2,Mercedes,1,Sunny
+241,2020,13,Autodromo Enzo e Dino Ferrari,Bottas,1,Mercedes,0,Sunny
+242,2020,13,Autodromo Enzo e Dino Ferrari,Ricciardo,5,Renault,0,Sunny
+243,2020,13,Autodromo Enzo e Dino Ferrari,Kvyat,8,AlphaTauri,0,Sunny
+244,2020,13,Autodromo Enzo e Dino Ferrari,Leclerc,7,Ferrari,0,Sunny
+245,2020,13,Autodromo Enzo e Dino Ferrari,Perez,11,Racing Point,0,Sunny
+246,2020,13,Autodromo Enzo e Dino Ferrari,Sainz,10,McLaren,0,Sunny
+247,2020,13,Autodromo Enzo e Dino Ferrari,Norris,9,McLaren,0,Sunny
+248,2020,13,Autodromo Enzo e Dino Ferrari,Raikkonen,18,Alfa Romeo,0,Sunny
+249,2020,13,Autodromo Enzo e Dino Ferrari,Giovinazzi,20,Alfa Romeo,0,Sunny
+250,2020,13,Autodromo Enzo e Dino Ferrari,Latifi,19,Williams,0,Sunny
+251,2020,13,Autodromo Enzo e Dino Ferrari,Vettel,14,Ferrari,0,Sunny
+252,2020,13,Autodromo Enzo e Dino Ferrari,Stroll,15,Racing Point,0,Sunny
+253,2020,13,Autodromo Enzo e Dino Ferrari,Grosjean,16,Haas F1 Team,0,Sunny
+254,2020,13,Autodromo Enzo e Dino Ferrari,Albon,6,Red Bull,0,Sunny
+255,2020,13,Autodromo Enzo e Dino Ferrari,Russell,13,Williams,0,Sunny
+256,2020,13,Autodromo Enzo e Dino Ferrari,Verstappen,3,Red Bull,0,Sunny
+257,2020,13,Autodromo Enzo e Dino Ferrari,Magnussen,17,Haas F1 Team,0,Sunny
+258,2020,13,Autodromo Enzo e Dino Ferrari,Ocon,12,Renault,0,Sunny
+259,2020,13,Autodromo Enzo e Dino Ferrari,Gasly,4,AlphaTauri,0,Sunny
+260,2020,14,Istanbul Park,Hamilton,6,Mercedes,1,Sunny
+261,2020,14,Istanbul Park,Perez,3,Racing Point,0,Sunny
+262,2020,14,Istanbul Park,Vettel,11,Ferrari,0,Sunny
+263,2020,14,Istanbul Park,Leclerc,12,Ferrari,0,Sunny
+264,2020,14,Istanbul Park,Sainz,15,McLaren,0,Sunny
+265,2020,14,Istanbul Park,Verstappen,2,Red Bull,0,Sunny
+266,2020,14,Istanbul Park,Albon,4,Red Bull,0,Sunny
+267,2020,14,Istanbul Park,Norris,14,McLaren,0,Sunny
+268,2020,14,Istanbul Park,Stroll,1,Racing Point,0,Sunny
+269,2020,14,Istanbul Park,Ricciardo,5,Renault,0,Sunny
+270,2020,14,Istanbul Park,Ocon,7,Renault,0,Sunny
+271,2020,14,Istanbul Park,Kvyat,16,AlphaTauri,0,Sunny
+272,2020,14,Istanbul Park,Gasly,19,AlphaTauri,0,Sunny
+273,2020,14,Istanbul Park,Bottas,9,Mercedes,0,Sunny
+274,2020,14,Istanbul Park,Raikkonen,8,Alfa Romeo,0,Sunny
+275,2020,14,Istanbul Park,Russell,0,Williams,0,Sunny
+276,2020,14,Istanbul Park,Magnussen,13,Haas F1 Team,0,Sunny
+277,2020,14,Istanbul Park,Grosjean,17,Haas F1 Team,0,Sunny
+278,2020,14,Istanbul Park,Latifi,0,Williams,0,Sunny
+279,2020,14,Istanbul Park,Giovinazzi,10,Alfa Romeo,0,Sunny
+280,2020,15,Bahrain International Circuit,Hamilton,1,Mercedes,1,Sunny
+281,2020,15,Bahrain International Circuit,Verstappen,3,Red Bull,0,Sunny
+282,2020,15,Bahrain International Circuit,Albon,4,Red Bull,0,Sunny
+283,2020,15,Bahrain International Circuit,Norris,9,McLaren,0,Sunny
+284,2020,15,Bahrain International Circuit,Sainz,15,McLaren,0,Sunny
+285,2020,15,Bahrain International Circuit,Gasly,8,AlphaTauri,0,Sunny
+286,2020,15,Bahrain International Circuit,Ricciardo,6,Renault,0,Sunny
+287,2020,15,Bahrain International Circuit,Bottas,2,Mercedes,0,Sunny
+288,2020,15,Bahrain International Circuit,Ocon,7,Renault,0,Sunny
+289,2020,15,Bahrain International Circuit,Leclerc,12,Ferrari,0,Sunny
+290,2020,15,Bahrain International Circuit,Kvyat,10,AlphaTauri,0,Sunny
+291,2020,15,Bahrain International Circuit,Russell,14,Williams,0,Sunny
+292,2020,15,Bahrain International Circuit,Vettel,11,Ferrari,0,Sunny
+293,2020,15,Bahrain International Circuit,Latifi,20,Williams,0,Sunny
+294,2020,15,Bahrain International Circuit,Raikkonen,17,Alfa Romeo,0,Sunny
+295,2020,15,Bahrain International Circuit,Giovinazzi,16,Alfa Romeo,0,Sunny
+296,2020,15,Bahrain International Circuit,Magnussen,18,Haas F1 Team,0,Sunny
+297,2020,15,Bahrain International Circuit,Perez,5,Racing Point,0,Sunny
+298,2020,15,Bahrain International Circuit,Stroll,13,Racing Point,0,Sunny
+299,2020,15,Bahrain International Circuit,Grosjean,19,Haas F1 Team,0,Sunny
+300,2020,16,Bahrain International Circuit,Perez,5,Racing Point,1,Sunny
+301,2020,16,Bahrain International Circuit,Ocon,11,Renault,0,Sunny
+302,2020,16,Bahrain International Circuit,Stroll,10,Racing Point,0,Sunny
+303,2020,16,Bahrain International Circuit,Sainz,8,McLaren,0,Sunny
+304,2020,16,Bahrain International Circuit,Ricciardo,7,Renault,0,Sunny
+305,2020,16,Bahrain International Circuit,Albon,12,Red Bull,0,Sunny
+306,2020,16,Bahrain International Circuit,Kvyat,6,AlphaTauri,0,Sunny
+307,2020,16,Bahrain International Circuit,Bottas,1,Mercedes,0,Sunny
+308,2020,16,Bahrain International Circuit,Russell,2,Mercedes,0,Sunny
+309,2020,16,Bahrain International Circuit,Norris,19,McLaren,0,Sunny
+310,2020,16,Bahrain International Circuit,Gasly,9,AlphaTauri,0,Sunny
+311,2020,16,Bahrain International Circuit,Vettel,13,Ferrari,0,Sunny
+312,2020,16,Bahrain International Circuit,Giovinazzi,14,Alfa Romeo,0,Sunny
+313,2020,16,Bahrain International Circuit,Raikkonen,18,Alfa Romeo,0,Sunny
+314,2020,16,Bahrain International Circuit,Magnussen,15,Haas F1 Team,0,Sunny
+315,2020,16,Bahrain International Circuit,Aitken,17,Williams,0,Sunny
+316,2020,16,Bahrain International Circuit,Fittipaldi,20,Haas F1 Team,0,Sunny
+317,2020,16,Bahrain International Circuit,Latifi,16,Williams,0,Sunny
+318,2020,16,Bahrain International Circuit,Verstappen,3,Red Bull,0,Sunny
+319,2020,16,Bahrain International Circuit,Leclerc,4,Ferrari,0,Sunny
+320,2020,17,Yas Marina Circuit,Verstappen,1,Red Bull,1,Sunny
+321,2020,17,Yas Marina Circuit,Bottas,2,Mercedes,0,Sunny
+322,2020,17,Yas Marina Circuit,Hamilton,3,Mercedes,0,Sunny
+323,2020,17,Yas Marina Circuit,Albon,5,Red Bull,0,Sunny
+324,2020,17,Yas Marina Circuit,Norris,4,McLaren,0,Sunny
+325,2020,17,Yas Marina Circuit,Sainz,6,McLaren,0,Sunny
+326,2020,17,Yas Marina Circuit,Ricciardo,11,Renault,0,Sunny
+327,2020,17,Yas Marina Circuit,Gasly,9,AlphaTauri,0,Sunny
+328,2020,17,Yas Marina Circuit,Ocon,10,Renault,0,Sunny
+329,2020,17,Yas Marina Circuit,Stroll,8,Racing Point,0,Sunny
+330,2020,17,Yas Marina Circuit,Kvyat,7,AlphaTauri,0,Sunny
+331,2020,17,Yas Marina Circuit,Raikkonen,15,Alfa Romeo,0,Sunny
+332,2020,17,Yas Marina Circuit,Leclerc,12,Ferrari,0,Sunny
+333,2020,17,Yas Marina Circuit,Vettel,13,Ferrari,0,Sunny
+334,2020,17,Yas Marina Circuit,Russell,16,Williams,0,Sunny
+335,2020,17,Yas Marina Circuit,Giovinazzi,14,Alfa Romeo,0,Sunny
+336,2020,17,Yas Marina Circuit,Latifi,18,Williams,0,Sunny
+337,2020,17,Yas Marina Circuit,Magnussen,20,Haas F1 Team,0,Sunny
+338,2020,17,Yas Marina Circuit,Fittipaldi,17,Haas F1 Team,0,Sunny
+339,2020,17,Yas Marina Circuit,Perez,19,Racing Point,0,Sunny
+340,2021,1,Bahrain International Circuit,Hamilton,2,Mercedes,1,Sunny
+341,2021,1,Bahrain International Circuit,Verstappen,1,Red Bull,0,Sunny
+342,2021,1,Bahrain International Circuit,Bottas,3,Mercedes,0,Sunny
+343,2021,1,Bahrain International Circuit,Norris,7,McLaren,0,Sunny
+344,2021,1,Bahrain International Circuit,Perez,0,Red Bull,0,Sunny
+345,2021,1,Bahrain International Circuit,Leclerc,4,Ferrari,0,Sunny
+346,2021,1,Bahrain International Circuit,Ricciardo,6,McLaren,0,Sunny
+347,2021,1,Bahrain International Circuit,Sainz,8,Ferrari,0,Sunny
+348,2021,1,Bahrain International Circuit,Tsunoda,13,AlphaTauri,0,Sunny
+349,2021,1,Bahrain International Circuit,Stroll,10,Aston Martin,0,Sunny
+350,2021,1,Bahrain International Circuit,Raikkonen,14,Alfa Romeo,0,Sunny
+351,2021,1,Bahrain International Circuit,Giovinazzi,12,Alfa Romeo,0,Sunny
+352,2021,1,Bahrain International Circuit,Ocon,16,Alpine F1 Team,0,Sunny
+353,2021,1,Bahrain International Circuit,Russell,15,Williams,0,Sunny
+354,2021,1,Bahrain International Circuit,Vettel,20,Aston Martin,0,Sunny
+355,2021,1,Bahrain International Circuit,Schumacher,18,Haas F1 Team,0,Sunny
+356,2021,1,Bahrain International Circuit,Gasly,5,AlphaTauri,0,Sunny
+357,2021,1,Bahrain International Circuit,Latifi,17,Williams,0,Sunny
+358,2021,1,Bahrain International Circuit,Alonso,9,Alpine F1 Team,0,Sunny
+359,2021,1,Bahrain International Circuit,Mazepin,19,Haas F1 Team,0,Sunny
+360,2021,2,Autodromo Enzo e Dino Ferrari,Verstappen,3,Red Bull,1,Sunny
+361,2021,2,Autodromo Enzo e Dino Ferrari,Hamilton,1,Mercedes,0,Sunny
+362,2021,2,Autodromo Enzo e Dino Ferrari,Norris,7,McLaren,0,Sunny
+363,2021,2,Autodromo Enzo e Dino Ferrari,Leclerc,4,Ferrari,0,Sunny
+364,2021,2,Autodromo Enzo e Dino Ferrari,Sainz,11,Ferrari,0,Sunny
+365,2021,2,Autodromo Enzo e Dino Ferrari,Ricciardo,6,McLaren,0,Sunny
+366,2021,2,Autodromo Enzo e Dino Ferrari,Gasly,5,AlphaTauri,0,Sunny
+367,2021,2,Autodromo Enzo e Dino Ferrari,Stroll,10,Aston Martin,0,Sunny
+368,2021,2,Autodromo Enzo e Dino Ferrari,Ocon,9,Alpine F1 Team,0,Sunny
+369,2021,2,Autodromo Enzo e Dino Ferrari,Alonso,15,Alpine F1 Team,0,Sunny
+370,2021,2,Autodromo Enzo e Dino Ferrari,Perez,2,Red Bull,0,Sunny
+371,2021,2,Autodromo Enzo e Dino Ferrari,Tsunoda,20,AlphaTauri,0,Sunny
+372,2021,2,Autodromo Enzo e Dino Ferrari,Raikkonen,16,Alfa Romeo,0,Sunny
+373,2021,2,Autodromo Enzo e Dino Ferrari,Giovinazzi,17,Alfa Romeo,0,Sunny
+374,2021,2,Autodromo Enzo e Dino Ferrari,Vettel,0,Aston Martin,0,Sunny
+375,2021,2,Autodromo Enzo e Dino Ferrari,Schumacher,18,Haas F1 Team,0,Sunny
+376,2021,2,Autodromo Enzo e Dino Ferrari,Mazepin,19,Haas F1 Team,0,Sunny
+377,2021,2,Autodromo Enzo e Dino Ferrari,Bottas,8,Mercedes,0,Sunny
+378,2021,2,Autodromo Enzo e Dino Ferrari,Russell,12,Williams,0,Sunny
+379,2021,2,Autodromo Enzo e Dino Ferrari,Latifi,14,Williams,0,Sunny
+380,2021,3,Autodromo Internacional do Algarve,Hamilton,2,Mercedes,1,Sunny
+381,2021,3,Autodromo Internacional do Algarve,Verstappen,3,Red Bull,0,Sunny
+382,2021,3,Autodromo Internacional do Algarve,Bottas,1,Mercedes,0,Sunny
+383,2021,3,Autodromo Internacional do Algarve,Perez,4,Red Bull,0,Sunny
+384,2021,3,Autodromo Internacional do Algarve,Norris,7,McLaren,0,Sunny
+385,2021,3,Autodromo Internacional do Algarve,Leclerc,8,Ferrari,0,Sunny
+386,2021,3,Autodromo Internacional do Algarve,Ocon,6,Alpine F1 Team,0,Sunny
+387,2021,3,Autodromo Internacional do Algarve,Alonso,13,Alpine F1 Team,0,Sunny
+388,2021,3,Autodromo Internacional do Algarve,Ricciardo,16,McLaren,0,Sunny
+389,2021,3,Autodromo Internacional do Algarve,Gasly,9,AlphaTauri,0,Sunny
+390,2021,3,Autodromo Internacional do Algarve,Sainz,5,Ferrari,0,Sunny
+391,2021,3,Autodromo Internacional do Algarve,Giovinazzi,12,Alfa Romeo,0,Sunny
+392,2021,3,Autodromo Internacional do Algarve,Vettel,10,Aston Martin,0,Sunny
+393,2021,3,Autodromo Internacional do Algarve,Stroll,17,Aston Martin,0,Sunny
+394,2021,3,Autodromo Internacional do Algarve,Tsunoda,14,AlphaTauri,0,Sunny
+395,2021,3,Autodromo Internacional do Algarve,Russell,11,Williams,0,Sunny
+396,2021,3,Autodromo Internacional do Algarve,Schumacher,19,Haas F1 Team,0,Sunny
+397,2021,3,Autodromo Internacional do Algarve,Latifi,18,Williams,0,Sunny
+398,2021,3,Autodromo Internacional do Algarve,Mazepin,20,Haas F1 Team,0,Sunny
+399,2021,3,Autodromo Internacional do Algarve,Raikkonen,15,Alfa Romeo,0,Sunny
+400,2021,4,Circuit de Barcelona-Catalunya,Hamilton,1,Mercedes,1,Sunny
+401,2021,4,Circuit de Barcelona-Catalunya,Verstappen,2,Red Bull,0,Sunny
+402,2021,4,Circuit de Barcelona-Catalunya,Bottas,3,Mercedes,0,Sunny
+403,2021,4,Circuit de Barcelona-Catalunya,Leclerc,4,Ferrari,0,Sunny
+404,2021,4,Circuit de Barcelona-Catalunya,Perez,8,Red Bull,0,Sunny
+405,2021,4,Circuit de Barcelona-Catalunya,Ricciardo,7,McLaren,0,Sunny
+406,2021,4,Circuit de Barcelona-Catalunya,Sainz,6,Ferrari,0,Sunny
+407,2021,4,Circuit de Barcelona-Catalunya,Norris,9,McLaren,0,Sunny
+408,2021,4,Circuit de Barcelona-Catalunya,Ocon,5,Alpine F1 Team,0,Sunny
+409,2021,4,Circuit de Barcelona-Catalunya,Gasly,12,AlphaTauri,0,Sunny
+410,2021,4,Circuit de Barcelona-Catalunya,Stroll,11,Aston Martin,0,Sunny
+411,2021,4,Circuit de Barcelona-Catalunya,Raikkonen,17,Alfa Romeo,0,Sunny
+412,2021,4,Circuit de Barcelona-Catalunya,Vettel,13,Aston Martin,0,Sunny
+413,2021,4,Circuit de Barcelona-Catalunya,Russell,15,Williams,0,Sunny
+414,2021,4,Circuit de Barcelona-Catalunya,Giovinazzi,14,Alfa Romeo,0,Sunny
+415,2021,4,Circuit de Barcelona-Catalunya,Latifi,19,Williams,0,Sunny
+416,2021,4,Circuit de Barcelona-Catalunya,Alonso,10,Alpine F1 Team,0,Sunny
+417,2021,4,Circuit de Barcelona-Catalunya,Schumacher,18,Haas F1 Team,0,Sunny
+418,2021,4,Circuit de Barcelona-Catalunya,Mazepin,20,Haas F1 Team,0,Sunny
+419,2021,4,Circuit de Barcelona-Catalunya,Tsunoda,16,AlphaTauri,0,Sunny
+420,2021,5,Circuit de Monaco,Verstappen,2,Red Bull,1,Sunny
+421,2021,5,Circuit de Monaco,Sainz,4,Ferrari,0,Sunny
+422,2021,5,Circuit de Monaco,Norris,5,McLaren,0,Sunny
+423,2021,5,Circuit de Monaco,Perez,9,Red Bull,0,Sunny
+424,2021,5,Circuit de Monaco,Vettel,8,Aston Martin,0,Sunny
+425,2021,5,Circuit de Monaco,Gasly,6,AlphaTauri,0,Sunny
+426,2021,5,Circuit de Monaco,Hamilton,7,Mercedes,0,Sunny
+427,2021,5,Circuit de Monaco,Stroll,13,Aston Martin,0,Sunny
+428,2021,5,Circuit de Monaco,Ocon,11,Alpine F1 Team,0,Sunny
+429,2021,5,Circuit de Monaco,Giovinazzi,10,Alfa Romeo,0,Sunny
+430,2021,5,Circuit de Monaco,Raikkonen,14,Alfa Romeo,0,Sunny
+431,2021,5,Circuit de Monaco,Ricciardo,12,McLaren,0,Sunny
+432,2021,5,Circuit de Monaco,Alonso,17,Alpine F1 Team,0,Sunny
+433,2021,5,Circuit de Monaco,Russell,15,Williams,0,Sunny
+434,2021,5,Circuit de Monaco,Latifi,18,Williams,0,Sunny
+435,2021,5,Circuit de Monaco,Tsunoda,16,AlphaTauri,0,Sunny
+436,2021,5,Circuit de Monaco,Mazepin,19,Haas F1 Team,0,Sunny
+437,2021,5,Circuit de Monaco,Schumacher,20,Haas F1 Team,0,Sunny
+438,2021,5,Circuit de Monaco,Bottas,3,Mercedes,0,Sunny
+439,2021,5,Circuit de Monaco,Leclerc,1,Ferrari,0,Sunny
+440,2021,6,Baku City Circuit,Perez,6,Red Bull,1,Sunny
+441,2021,6,Baku City Circuit,Vettel,11,Aston Martin,0,Sunny
+442,2021,6,Baku City Circuit,Gasly,4,AlphaTauri,0,Sunny
+443,2021,6,Baku City Circuit,Leclerc,1,Ferrari,0,Sunny
+444,2021,6,Baku City Circuit,Norris,9,McLaren,0,Sunny
+445,2021,6,Baku City Circuit,Alonso,8,Alpine F1 Team,0,Sunny
+446,2021,6,Baku City Circuit,Tsunoda,7,AlphaTauri,0,Sunny
+447,2021,6,Baku City Circuit,Sainz,5,Ferrari,0,Sunny
+448,2021,6,Baku City Circuit,Ricciardo,13,McLaren,0,Sunny
+449,2021,6,Baku City Circuit,Raikkonen,14,Alfa Romeo,0,Sunny
+450,2021,6,Baku City Circuit,Giovinazzi,20,Alfa Romeo,0,Sunny
+451,2021,6,Baku City Circuit,Bottas,10,Mercedes,0,Sunny
+452,2021,6,Baku City Circuit,Schumacher,17,Haas F1 Team,0,Sunny
+453,2021,6,Baku City Circuit,Mazepin,18,Haas F1 Team,0,Sunny
+454,2021,6,Baku City Circuit,Hamilton,2,Mercedes,0,Sunny
+455,2021,6,Baku City Circuit,Latifi,16,Williams,0,Sunny
+456,2021,6,Baku City Circuit,Russell,15,Williams,0,Sunny
+457,2021,6,Baku City Circuit,Verstappen,3,Red Bull,0,Sunny
+458,2021,6,Baku City Circuit,Stroll,19,Aston Martin,0,Sunny
+459,2021,6,Baku City Circuit,Ocon,12,Alpine F1 Team,0,Sunny
+460,2021,7,Circuit Paul Ricard,Verstappen,1,Red Bull,1,Sunny
+461,2021,7,Circuit Paul Ricard,Hamilton,2,Mercedes,0,Sunny
+462,2021,7,Circuit Paul Ricard,Perez,4,Red Bull,0,Sunny
+463,2021,7,Circuit Paul Ricard,Bottas,3,Mercedes,0,Sunny
+464,2021,7,Circuit Paul Ricard,Norris,8,McLaren,0,Sunny
+465,2021,7,Circuit Paul Ricard,Ricciardo,10,McLaren,0,Sunny
+466,2021,7,Circuit Paul Ricard,Gasly,6,AlphaTauri,0,Sunny
+467,2021,7,Circuit Paul Ricard,Alonso,9,Alpine F1 Team,0,Sunny
+468,2021,7,Circuit Paul Ricard,Vettel,12,Aston Martin,0,Sunny
+469,2021,7,Circuit Paul Ricard,Stroll,19,Aston Martin,0,Sunny
+470,2021,7,Circuit Paul Ricard,Sainz,5,Ferrari,0,Sunny
+471,2021,7,Circuit Paul Ricard,Russell,14,Williams,0,Sunny
+472,2021,7,Circuit Paul Ricard,Tsunoda,0,AlphaTauri,0,Sunny
+473,2021,7,Circuit Paul Ricard,Ocon,11,Alpine F1 Team,0,Sunny
+474,2021,7,Circuit Paul Ricard,Giovinazzi,13,Alfa Romeo,0,Sunny
+475,2021,7,Circuit Paul Ricard,Leclerc,7,Ferrari,0,Sunny
+476,2021,7,Circuit Paul Ricard,Raikkonen,17,Alfa Romeo,0,Sunny
+477,2021,7,Circuit Paul Ricard,Latifi,16,Williams,0,Sunny
+478,2021,7,Circuit Paul Ricard,Schumacher,15,Haas F1 Team,0,Sunny
+479,2021,7,Circuit Paul Ricard,Mazepin,18,Haas F1 Team,0,Sunny
+480,2021,8,Red Bull Ring,Verstappen,1,Red Bull,1,Sunny
+481,2021,8,Red Bull Ring,Hamilton,2,Mercedes,0,Sunny
+482,2021,8,Red Bull Ring,Bottas,5,Mercedes,0,Sunny
+483,2021,8,Red Bull Ring,Perez,4,Red Bull,0,Sunny
+484,2021,8,Red Bull Ring,Norris,3,McLaren,0,Sunny
+485,2021,8,Red Bull Ring,Sainz,12,Ferrari,0,Sunny
+486,2021,8,Red Bull Ring,Leclerc,7,Ferrari,0,Sunny
+487,2021,8,Red Bull Ring,Stroll,9,Aston Martin,0,Sunny
+488,2021,8,Red Bull Ring,Alonso,8,Alpine F1 Team,0,Sunny
+489,2021,8,Red Bull Ring,Tsunoda,11,AlphaTauri,0,Sunny
+490,2021,8,Red Bull Ring,Raikkonen,18,Alfa Romeo,0,Sunny
+491,2021,8,Red Bull Ring,Vettel,14,Aston Martin,0,Sunny
+492,2021,8,Red Bull Ring,Ricciardo,13,McLaren,0,Sunny
+493,2021,8,Red Bull Ring,Ocon,17,Alpine F1 Team,0,Sunny
+494,2021,8,Red Bull Ring,Giovinazzi,15,Alfa Romeo,0,Sunny
+495,2021,8,Red Bull Ring,Schumacher,19,Haas F1 Team,0,Sunny
+496,2021,8,Red Bull Ring,Latifi,16,Williams,0,Sunny
+497,2021,8,Red Bull Ring,Mazepin,20,Haas F1 Team,0,Sunny
+498,2021,8,Red Bull Ring,Russell,10,Williams,0,Sunny
+499,2021,8,Red Bull Ring,Gasly,6,AlphaTauri,0,Sunny
+500,2021,9,Red Bull Ring,Verstappen,1,Red Bull,1,Sunny
+501,2021,9,Red Bull Ring,Bottas,5,Mercedes,0,Sunny
+502,2021,9,Red Bull Ring,Norris,2,McLaren,0,Sunny
+503,2021,9,Red Bull Ring,Hamilton,4,Mercedes,0,Sunny
+504,2021,9,Red Bull Ring,Sainz,10,Ferrari,0,Sunny
+505,2021,9,Red Bull Ring,Perez,3,Red Bull,0,Sunny
+506,2021,9,Red Bull Ring,Ricciardo,13,McLaren,0,Sunny
+507,2021,9,Red Bull Ring,Leclerc,12,Ferrari,0,Sunny
+508,2021,9,Red Bull Ring,Gasly,6,AlphaTauri,0,Sunny
+509,2021,9,Red Bull Ring,Alonso,14,Alpine F1 Team,0,Sunny
+510,2021,9,Red Bull Ring,Russell,8,Williams,0,Sunny
+511,2021,9,Red Bull Ring,Tsunoda,7,AlphaTauri,0,Sunny
+512,2021,9,Red Bull Ring,Stroll,9,Aston Martin,0,Sunny
+513,2021,9,Red Bull Ring,Giovinazzi,15,Alfa Romeo,0,Sunny
+514,2021,9,Red Bull Ring,Raikkonen,16,Alfa Romeo,0,Sunny
+515,2021,9,Red Bull Ring,Latifi,18,Williams,0,Sunny
+516,2021,9,Red Bull Ring,Vettel,11,Aston Martin,0,Sunny
+517,2021,9,Red Bull Ring,Schumacher,19,Haas F1 Team,0,Sunny
+518,2021,9,Red Bull Ring,Mazepin,20,Haas F1 Team,0,Sunny
+519,2021,9,Red Bull Ring,Ocon,17,Alpine F1 Team,0,Sunny
+520,2021,10,Silverstone Circuit,Hamilton,2,Mercedes,1,Sunny
+521,2021,10,Silverstone Circuit,Leclerc,4,Ferrari,0,Sunny
+522,2021,10,Silverstone Circuit,Bottas,3,Mercedes,0,Sunny
+523,2021,10,Silverstone Circuit,Norris,5,McLaren,0,Sunny
+524,2021,10,Silverstone Circuit,Ricciardo,6,McLaren,0,Sunny
+525,2021,10,Silverstone Circuit,Sainz,10,Ferrari,0,Sunny
+526,2021,10,Silverstone Circuit,Alonso,7,Alpine F1 Team,0,Sunny
+527,2021,10,Silverstone Circuit,Stroll,14,Aston Martin,0,Sunny
+528,2021,10,Silverstone Circuit,Ocon,9,Alpine F1 Team,0,Sunny
+529,2021,10,Silverstone Circuit,Tsunoda,16,AlphaTauri,0,Sunny
+530,2021,10,Silverstone Circuit,Gasly,11,AlphaTauri,0,Sunny
+531,2021,10,Silverstone Circuit,Russell,12,Williams,0,Sunny
+532,2021,10,Silverstone Circuit,Giovinazzi,15,Alfa Romeo,0,Sunny
+533,2021,10,Silverstone Circuit,Latifi,17,Williams,0,Sunny
+534,2021,10,Silverstone Circuit,Raikkonen,13,Alfa Romeo,0,Sunny
+535,2021,10,Silverstone Circuit,Perez,0,Red Bull,0,Sunny
+536,2021,10,Silverstone Circuit,Mazepin,19,Haas F1 Team,0,Sunny
+537,2021,10,Silverstone Circuit,Schumacher,18,Haas F1 Team,0,Sunny
+538,2021,10,Silverstone Circuit,Vettel,8,Aston Martin,0,Sunny
+539,2021,10,Silverstone Circuit,Verstappen,1,Red Bull,0,Sunny
+540,2021,11,Hungaroring,Ocon,8,Alpine F1 Team,1,Sunny
+541,2021,11,Hungaroring,Hamilton,1,Mercedes,0,Sunny
+542,2021,11,Hungaroring,Sainz,15,Ferrari,0,Sunny
+543,2021,11,Hungaroring,Alonso,9,Alpine F1 Team,0,Sunny
+544,2021,11,Hungaroring,Gasly,5,AlphaTauri,0,Sunny
+545,2021,11,Hungaroring,Tsunoda,16,AlphaTauri,0,Sunny
+546,2021,11,Hungaroring,Latifi,18,Williams,0,Sunny
+547,2021,11,Hungaroring,Russell,17,Williams,0,Sunny
+548,2021,11,Hungaroring,Verstappen,3,Red Bull,0,Sunny
+549,2021,11,Hungaroring,Raikkonen,13,Alfa Romeo,0,Sunny
+550,2021,11,Hungaroring,Ricciardo,11,McLaren,0,Sunny
+551,2021,11,Hungaroring,Schumacher,20,Haas F1 Team,0,Sunny
+552,2021,11,Hungaroring,Giovinazzi,0,Alfa Romeo,0,Sunny
+553,2021,11,Hungaroring,Mazepin,19,Haas F1 Team,0,Sunny
+554,2021,11,Hungaroring,Norris,6,McLaren,0,Sunny
+555,2021,11,Hungaroring,Bottas,2,Mercedes,0,Sunny
+556,2021,11,Hungaroring,Perez,4,Red Bull,0,Sunny
+557,2021,11,Hungaroring,Leclerc,7,Ferrari,0,Sunny
+558,2021,11,Hungaroring,Stroll,12,Aston Martin,0,Sunny
+559,2021,11,Hungaroring,Vettel,10,Aston Martin,0,Sunny
+560,2021,12,Circuit de Spa-Francorchamps,Verstappen,1,Red Bull,1,Sunny
+561,2021,12,Circuit de Spa-Francorchamps,Russell,2,Williams,0,Sunny
+562,2021,12,Circuit de Spa-Francorchamps,Hamilton,3,Mercedes,0,Sunny
+563,2021,12,Circuit de Spa-Francorchamps,Ricciardo,4,McLaren,0,Sunny
+564,2021,12,Circuit de Spa-Francorchamps,Vettel,5,Aston Martin,0,Sunny
+565,2021,12,Circuit de Spa-Francorchamps,Gasly,6,AlphaTauri,0,Sunny
+566,2021,12,Circuit de Spa-Francorchamps,Ocon,8,Alpine F1 Team,0,Sunny
+567,2021,12,Circuit de Spa-Francorchamps,Leclerc,9,Ferrari,0,Sunny
+568,2021,12,Circuit de Spa-Francorchamps,Latifi,10,Williams,0,Sunny
+569,2021,12,Circuit de Spa-Francorchamps,Sainz,11,Ferrari,0,Sunny
+570,2021,12,Circuit de Spa-Francorchamps,Alonso,12,Alpine F1 Team,0,Sunny
+571,2021,12,Circuit de Spa-Francorchamps,Bottas,13,Mercedes,0,Sunny
+572,2021,12,Circuit de Spa-Francorchamps,Giovinazzi,14,Alfa Romeo,0,Sunny
+573,2021,12,Circuit de Spa-Francorchamps,Norris,15,McLaren,0,Sunny
+574,2021,12,Circuit de Spa-Francorchamps,Tsunoda,16,AlphaTauri,0,Sunny
+575,2021,12,Circuit de Spa-Francorchamps,Schumacher,17,Haas F1 Team,0,Sunny
+576,2021,12,Circuit de Spa-Francorchamps,Mazepin,18,Haas F1 Team,0,Sunny
+577,2021,12,Circuit de Spa-Francorchamps,Raikkonen,0,Alfa Romeo,0,Sunny
+578,2021,12,Circuit de Spa-Francorchamps,Perez,0,Red Bull,0,Sunny
+579,2021,12,Circuit de Spa-Francorchamps,Stroll,19,Aston Martin,0,Sunny
+580,2021,13,Circuit Park Zandvoort,Verstappen,1,Red Bull,1,Sunny
+581,2021,13,Circuit Park Zandvoort,Hamilton,2,Mercedes,0,Sunny
+582,2021,13,Circuit Park Zandvoort,Bottas,3,Mercedes,0,Sunny
+583,2021,13,Circuit Park Zandvoort,Gasly,4,AlphaTauri,0,Sunny
+584,2021,13,Circuit Park Zandvoort,Leclerc,5,Ferrari,0,Sunny
+585,2021,13,Circuit Park Zandvoort,Alonso,9,Alpine F1 Team,0,Sunny
+586,2021,13,Circuit Park Zandvoort,Sainz,6,Ferrari,0,Sunny
+587,2021,13,Circuit Park Zandvoort,Perez,0,Red Bull,0,Sunny
+588,2021,13,Circuit Park Zandvoort,Ocon,8,Alpine F1 Team,0,Sunny
+589,2021,13,Circuit Park Zandvoort,Norris,13,McLaren,0,Sunny
+590,2021,13,Circuit Park Zandvoort,Ricciardo,10,McLaren,0,Sunny
+591,2021,13,Circuit Park Zandvoort,Stroll,12,Aston Martin,0,Sunny
+592,2021,13,Circuit Park Zandvoort,Vettel,15,Aston Martin,0,Sunny
+593,2021,13,Circuit Park Zandvoort,Giovinazzi,7,Alfa Romeo,0,Sunny
+594,2021,13,Circuit Park Zandvoort,Kubica,16,Alfa Romeo,0,Sunny
+595,2021,13,Circuit Park Zandvoort,Latifi,0,Williams,0,Sunny
+596,2021,13,Circuit Park Zandvoort,Russell,11,Williams,0,Sunny
+597,2021,13,Circuit Park Zandvoort,Schumacher,17,Haas F1 Team,0,Sunny
+598,2021,13,Circuit Park Zandvoort,Tsunoda,14,AlphaTauri,0,Sunny
+599,2021,13,Circuit Park Zandvoort,Mazepin,18,Haas F1 Team,0,Sunny
+600,2021,14,Autodromo Nazionale di Monza,Ricciardo,2,McLaren,1,Sunny
+601,2021,14,Autodromo Nazionale di Monza,Norris,3,McLaren,0,Sunny
+602,2021,14,Autodromo Nazionale di Monza,Bottas,19,Mercedes,0,Sunny
+603,2021,14,Autodromo Nazionale di Monza,Leclerc,5,Ferrari,0,Sunny
+604,2021,14,Autodromo Nazionale di Monza,Perez,8,Red Bull,0,Sunny
+605,2021,14,Autodromo Nazionale di Monza,Sainz,6,Ferrari,0,Sunny
+606,2021,14,Autodromo Nazionale di Monza,Stroll,9,Aston Martin,0,Sunny
+607,2021,14,Autodromo Nazionale di Monza,Alonso,10,Alpine F1 Team,0,Sunny
+608,2021,14,Autodromo Nazionale di Monza,Russell,14,Williams,0,Sunny
+609,2021,14,Autodromo Nazionale di Monza,Ocon,12,Alpine F1 Team,0,Sunny
+610,2021,14,Autodromo Nazionale di Monza,Latifi,13,Williams,0,Sunny
+611,2021,14,Autodromo Nazionale di Monza,Vettel,11,Aston Martin,0,Sunny
+612,2021,14,Autodromo Nazionale di Monza,Giovinazzi,7,Alfa Romeo,0,Sunny
+613,2021,14,Autodromo Nazionale di Monza,Kubica,17,Alfa Romeo,0,Sunny
+614,2021,14,Autodromo Nazionale di Monza,Schumacher,18,Haas F1 Team,0,Sunny
+615,2021,14,Autodromo Nazionale di Monza,Mazepin,16,Haas F1 Team,0,Sunny
+616,2021,14,Autodromo Nazionale di Monza,Hamilton,4,Mercedes,0,Sunny
+617,2021,14,Autodromo Nazionale di Monza,Verstappen,1,Red Bull,0,Sunny
+618,2021,14,Autodromo Nazionale di Monza,Gasly,0,AlphaTauri,0,Sunny
+619,2021,14,Autodromo Nazionale di Monza,Tsunoda,0,AlphaTauri,0,Sunny
+620,2021,15,Sochi Autodrom,Hamilton,4,Mercedes,1,Sunny
+621,2021,15,Sochi Autodrom,Verstappen,20,Red Bull,0,Sunny
+622,2021,15,Sochi Autodrom,Sainz,2,Ferrari,0,Sunny
+623,2021,15,Sochi Autodrom,Ricciardo,5,McLaren,0,Sunny
+624,2021,15,Sochi Autodrom,Bottas,16,Mercedes,0,Sunny
+625,2021,15,Sochi Autodrom,Alonso,6,Alpine F1 Team,0,Sunny
+626,2021,15,Sochi Autodrom,Norris,1,McLaren,0,Sunny
+627,2021,15,Sochi Autodrom,Raikkonen,13,Alfa Romeo,0,Sunny
+628,2021,15,Sochi Autodrom,Perez,8,Red Bull,0,Sunny
+629,2021,15,Sochi Autodrom,Russell,3,Williams,0,Sunny
+630,2021,15,Sochi Autodrom,Stroll,7,Aston Martin,0,Sunny
+631,2021,15,Sochi Autodrom,Vettel,10,Aston Martin,0,Sunny
+632,2021,15,Sochi Autodrom,Gasly,11,AlphaTauri,0,Sunny
+633,2021,15,Sochi Autodrom,Ocon,9,Alpine F1 Team,0,Sunny
+634,2021,15,Sochi Autodrom,Leclerc,19,Ferrari,0,Sunny
+635,2021,15,Sochi Autodrom,Giovinazzi,17,Alfa Romeo,0,Sunny
+636,2021,15,Sochi Autodrom,Tsunoda,12,AlphaTauri,0,Sunny
+637,2021,15,Sochi Autodrom,Mazepin,15,Haas F1 Team,0,Sunny
+638,2021,15,Sochi Autodrom,Latifi,18,Williams,0,Sunny
+639,2021,15,Sochi Autodrom,Schumacher,14,Haas F1 Team,0,Sunny
+640,2021,16,Istanbul Park,Bottas,1,Mercedes,1,Sunny
+641,2021,16,Istanbul Park,Verstappen,2,Red Bull,0,Sunny
+642,2021,16,Istanbul Park,Perez,6,Red Bull,0,Sunny
+643,2021,16,Istanbul Park,Leclerc,3,Ferrari,0,Sunny
+644,2021,16,Istanbul Park,Hamilton,11,Mercedes,0,Sunny
+645,2021,16,Istanbul Park,Gasly,4,AlphaTauri,0,Sunny
+646,2021,16,Istanbul Park,Norris,7,McLaren,0,Sunny
+647,2021,16,Istanbul Park,Sainz,19,Ferrari,0,Sunny
+648,2021,16,Istanbul Park,Stroll,8,Aston Martin,0,Sunny
+649,2021,16,Istanbul Park,Ocon,12,Alpine F1 Team,0,Sunny
+650,2021,16,Istanbul Park,Giovinazzi,16,Alfa Romeo,0,Sunny
+651,2021,16,Istanbul Park,Raikkonen,17,Alfa Romeo,0,Sunny
+652,2021,16,Istanbul Park,Ricciardo,20,McLaren,0,Sunny
+653,2021,16,Istanbul Park,Tsunoda,9,AlphaTauri,0,Sunny
+654,2021,16,Istanbul Park,Russell,13,Williams,0,Sunny
+655,2021,16,Istanbul Park,Alonso,5,Alpine F1 Team,0,Sunny
+656,2021,16,Istanbul Park,Latifi,15,Williams,0,Sunny
+657,2021,16,Istanbul Park,Vettel,10,Aston Martin,0,Sunny
+658,2021,16,Istanbul Park,Schumacher,14,Haas F1 Team,0,Sunny
+659,2021,16,Istanbul Park,Mazepin,18,Haas F1 Team,0,Sunny
+660,2021,17,Circuit of the Americas,Verstappen,1,Red Bull,1,Sunny
+661,2021,17,Circuit of the Americas,Hamilton,2,Mercedes,0,Sunny
+662,2021,17,Circuit of the Americas,Perez,3,Red Bull,0,Sunny
+663,2021,17,Circuit of the Americas,Leclerc,4,Ferrari,0,Sunny
+664,2021,17,Circuit of the Americas,Ricciardo,6,McLaren,0,Sunny
+665,2021,17,Circuit of the Americas,Bottas,9,Mercedes,0,Sunny
+666,2021,17,Circuit of the Americas,Sainz,5,Ferrari,0,Sunny
+667,2021,17,Circuit of the Americas,Norris,7,McLaren,0,Sunny
+668,2021,17,Circuit of the Americas,Tsunoda,10,AlphaTauri,0,Sunny
+669,2021,17,Circuit of the Americas,Vettel,18,Aston Martin,0,Sunny
+670,2021,17,Circuit of the Americas,Giovinazzi,12,Alfa Romeo,0,Sunny
+671,2021,17,Circuit of the Americas,Stroll,13,Aston Martin,0,Sunny
+672,2021,17,Circuit of the Americas,Raikkonen,15,Alfa Romeo,0,Sunny
+673,2021,17,Circuit of the Americas,Russell,20,Williams,0,Sunny
+674,2021,17,Circuit of the Americas,Latifi,14,Williams,0,Sunny
+675,2021,17,Circuit of the Americas,Schumacher,16,Haas F1 Team,0,Sunny
+676,2021,17,Circuit of the Americas,Mazepin,17,Haas F1 Team,0,Sunny
+677,2021,17,Circuit of the Americas,Alonso,19,Alpine F1 Team,0,Sunny
+678,2021,17,Circuit of the Americas,Ocon,11,Alpine F1 Team,0,Sunny
+679,2021,17,Circuit of the Americas,Gasly,8,AlphaTauri,0,Sunny
+680,2021,18,Autodromo Hermanos Rodriguez,Verstappen,3,Red Bull,1,Sunny
+681,2021,18,Autodromo Hermanos Rodriguez,Hamilton,2,Mercedes,0,Sunny
+682,2021,18,Autodromo Hermanos Rodriguez,Perez,4,Red Bull,0,Sunny
+683,2021,18,Autodromo Hermanos Rodriguez,Gasly,5,AlphaTauri,0,Sunny
+684,2021,18,Autodromo Hermanos Rodriguez,Leclerc,8,Ferrari,0,Sunny
+685,2021,18,Autodromo Hermanos Rodriguez,Sainz,6,Ferrari,0,Sunny
+686,2021,18,Autodromo Hermanos Rodriguez,Vettel,9,Aston Martin,0,Sunny
+687,2021,18,Autodromo Hermanos Rodriguez,Raikkonen,10,Alfa Romeo,0,Sunny
+688,2021,18,Autodromo Hermanos Rodriguez,Alonso,12,Alpine F1 Team,0,Sunny
+689,2021,18,Autodromo Hermanos Rodriguez,Norris,18,McLaren,0,Sunny
+690,2021,18,Autodromo Hermanos Rodriguez,Giovinazzi,11,Alfa Romeo,0,Sunny
+691,2021,18,Autodromo Hermanos Rodriguez,Ricciardo,7,McLaren,0,Sunny
+692,2021,18,Autodromo Hermanos Rodriguez,Ocon,19,Alpine F1 Team,0,Sunny
+693,2021,18,Autodromo Hermanos Rodriguez,Stroll,20,Aston Martin,0,Sunny
+694,2021,18,Autodromo Hermanos Rodriguez,Bottas,1,Mercedes,0,Sunny
+695,2021,18,Autodromo Hermanos Rodriguez,Russell,16,Williams,0,Sunny
+696,2021,18,Autodromo Hermanos Rodriguez,Latifi,13,Williams,0,Sunny
+697,2021,18,Autodromo Hermanos Rodriguez,Mazepin,15,Haas F1 Team,0,Sunny
+698,2021,18,Autodromo Hermanos Rodriguez,Schumacher,14,Haas F1 Team,0,Sunny
+699,2021,18,Autodromo Hermanos Rodriguez,Tsunoda,17,AlphaTauri,0,Sunny
+700,2021,19,Autodromo Jose Carlos Pace,Hamilton,10,Mercedes,1,Sunny
+701,2021,19,Autodromo Jose Carlos Pace,Verstappen,2,Red Bull,0,Sunny
+702,2021,19,Autodromo Jose Carlos Pace,Bottas,1,Mercedes,0,Sunny
+703,2021,19,Autodromo Jose Carlos Pace,Perez,4,Red Bull,0,Sunny
+704,2021,19,Autodromo Jose Carlos Pace,Leclerc,6,Ferrari,0,Sunny
+705,2021,19,Autodromo Jose Carlos Pace,Sainz,3,Ferrari,0,Sunny
+706,2021,19,Autodromo Jose Carlos Pace,Gasly,7,AlphaTauri,0,Sunny
+707,2021,19,Autodromo Jose Carlos Pace,Ocon,8,Alpine F1 Team,0,Sunny
+708,2021,19,Autodromo Jose Carlos Pace,Alonso,12,Alpine F1 Team,0,Sunny
+709,2021,19,Autodromo Jose Carlos Pace,Norris,5,McLaren,0,Sunny
+710,2021,19,Autodromo Jose Carlos Pace,Vettel,9,Aston Martin,0,Sunny
+711,2021,19,Autodromo Jose Carlos Pace,Raikkonen,0,Alfa Romeo,0,Sunny
+712,2021,19,Autodromo Jose Carlos Pace,Russell,17,Williams,0,Sunny
+713,2021,19,Autodromo Jose Carlos Pace,Giovinazzi,13,Alfa Romeo,0,Sunny
+714,2021,19,Autodromo Jose Carlos Pace,Tsunoda,15,AlphaTauri,0,Sunny
+715,2021,19,Autodromo Jose Carlos Pace,Latifi,16,Williams,0,Sunny
+716,2021,19,Autodromo Jose Carlos Pace,Mazepin,19,Haas F1 Team,0,Sunny
+717,2021,19,Autodromo Jose Carlos Pace,Schumacher,18,Haas F1 Team,0,Sunny
+718,2021,19,Autodromo Jose Carlos Pace,Ricciardo,11,McLaren,0,Sunny
+719,2021,19,Autodromo Jose Carlos Pace,Stroll,14,Aston Martin,0,Sunny
+720,2021,20,Losail International Circuit,Hamilton,1,Mercedes,1,Sunny
+721,2021,20,Losail International Circuit,Verstappen,7,Red Bull,0,Sunny
+722,2021,20,Losail International Circuit,Alonso,3,Alpine F1 Team,0,Sunny
+723,2021,20,Losail International Circuit,Perez,11,Red Bull,0,Sunny
+724,2021,20,Losail International Circuit,Ocon,9,Alpine F1 Team,0,Sunny
+725,2021,20,Losail International Circuit,Stroll,12,Aston Martin,0,Sunny
+726,2021,20,Losail International Circuit,Sainz,5,Ferrari,0,Sunny
+727,2021,20,Losail International Circuit,Leclerc,13,Ferrari,0,Sunny
+728,2021,20,Losail International Circuit,Norris,4,McLaren,0,Sunny
+729,2021,20,Losail International Circuit,Vettel,10,Aston Martin,0,Sunny
+730,2021,20,Losail International Circuit,Gasly,2,AlphaTauri,0,Sunny
+731,2021,20,Losail International Circuit,Ricciardo,14,McLaren,0,Sunny
+732,2021,20,Losail International Circuit,Tsunoda,8,AlphaTauri,0,Sunny
+733,2021,20,Losail International Circuit,Raikkonen,16,Alfa Romeo,0,Sunny
+734,2021,20,Losail International Circuit,Giovinazzi,18,Alfa Romeo,0,Sunny
+735,2021,20,Losail International Circuit,Schumacher,19,Haas F1 Team,0,Sunny
+736,2021,20,Losail International Circuit,Russell,15,Williams,0,Sunny
+737,2021,20,Losail International Circuit,Mazepin,20,Haas F1 Team,0,Sunny
+738,2021,20,Losail International Circuit,Latifi,17,Williams,0,Sunny
+739,2021,20,Losail International Circuit,Bottas,6,Mercedes,0,Sunny
+740,2021,21,Jeddah Corniche Circuit,Hamilton,1,Mercedes,1,Sunny
+741,2021,21,Jeddah Corniche Circuit,Verstappen,3,Red Bull,0,Sunny
+742,2021,21,Jeddah Corniche Circuit,Bottas,2,Mercedes,0,Sunny
+743,2021,21,Jeddah Corniche Circuit,Ocon,9,Alpine F1 Team,0,Sunny
+744,2021,21,Jeddah Corniche Circuit,Ricciardo,11,McLaren,0,Sunny
+745,2021,21,Jeddah Corniche Circuit,Gasly,6,AlphaTauri,0,Sunny
+746,2021,21,Jeddah Corniche Circuit,Leclerc,4,Ferrari,0,Sunny
+747,2021,21,Jeddah Corniche Circuit,Sainz,15,Ferrari,0,Sunny
+748,2021,21,Jeddah Corniche Circuit,Giovinazzi,10,Alfa Romeo,0,Sunny
+749,2021,21,Jeddah Corniche Circuit,Norris,7,McLaren,0,Sunny
+750,2021,21,Jeddah Corniche Circuit,Stroll,18,Aston Martin,0,Sunny
+751,2021,21,Jeddah Corniche Circuit,Latifi,16,Williams,0,Sunny
+752,2021,21,Jeddah Corniche Circuit,Alonso,13,Alpine F1 Team,0,Sunny
+753,2021,21,Jeddah Corniche Circuit,Tsunoda,8,AlphaTauri,0,Sunny
+754,2021,21,Jeddah Corniche Circuit,Raikkonen,12,Alfa Romeo,0,Sunny
+755,2021,21,Jeddah Corniche Circuit,Vettel,17,Aston Martin,0,Sunny
+756,2021,21,Jeddah Corniche Circuit,Perez,5,Red Bull,0,Sunny
+757,2021,21,Jeddah Corniche Circuit,Mazepin,20,Haas F1 Team,0,Sunny
+758,2021,21,Jeddah Corniche Circuit,Russell,14,Williams,0,Sunny
+759,2021,21,Jeddah Corniche Circuit,Schumacher,19,Haas F1 Team,0,Sunny
+760,2021,22,Yas Marina Circuit,Verstappen,1,Red Bull,1,Sunny
+761,2021,22,Yas Marina Circuit,Hamilton,2,Mercedes,0,Sunny
+762,2021,22,Yas Marina Circuit,Sainz,5,Ferrari,0,Sunny
+763,2021,22,Yas Marina Circuit,Tsunoda,8,AlphaTauri,0,Sunny
+764,2021,22,Yas Marina Circuit,Gasly,12,AlphaTauri,0,Sunny
+765,2021,22,Yas Marina Circuit,Bottas,6,Mercedes,0,Sunny
+766,2021,22,Yas Marina Circuit,Norris,3,McLaren,0,Sunny
+767,2021,22,Yas Marina Circuit,Alonso,11,Alpine F1 Team,0,Sunny
+768,2021,22,Yas Marina Circuit,Ocon,9,Alpine F1 Team,0,Sunny
+769,2021,22,Yas Marina Circuit,Leclerc,7,Ferrari,0,Sunny
+770,2021,22,Yas Marina Circuit,Vettel,15,Aston Martin,0,Sunny
+771,2021,22,Yas Marina Circuit,Ricciardo,10,McLaren,0,Sunny
+772,2021,22,Yas Marina Circuit,Stroll,13,Aston Martin,0,Sunny
+773,2021,22,Yas Marina Circuit,Schumacher,19,Haas F1 Team,0,Sunny
+774,2021,22,Yas Marina Circuit,Perez,4,Red Bull,0,Sunny
+775,2021,22,Yas Marina Circuit,Latifi,16,Williams,0,Sunny
+776,2021,22,Yas Marina Circuit,Giovinazzi,14,Alfa Romeo,0,Sunny
+777,2021,22,Yas Marina Circuit,Russell,17,Williams,0,Sunny
+778,2021,22,Yas Marina Circuit,Raikkonen,18,Alfa Romeo,0,Sunny
+779,2021,22,Yas Marina Circuit,Mazepin,20,Haas F1 Team,0,Sunny
+780,2022,1,Bahrain International Circuit,Leclerc,1,Ferrari,1,Sunny
+781,2022,1,Bahrain International Circuit,Sainz,3,Ferrari,0,Sunny
+782,2022,1,Bahrain International Circuit,Hamilton,5,Mercedes,0,Sunny
+783,2022,1,Bahrain International Circuit,Russell,9,Mercedes,0,Sunny
+784,2022,1,Bahrain International Circuit,Magnussen,7,Haas F1 Team,0,Sunny
+785,2022,1,Bahrain International Circuit,Bottas,6,Alfa Romeo,0,Sunny
+786,2022,1,Bahrain International Circuit,Ocon,11,Alpine F1 Team,0,Sunny
+787,2022,1,Bahrain International Circuit,Tsunoda,16,AlphaTauri,0,Sunny
+788,2022,1,Bahrain International Circuit,Alonso,8,Alpine F1 Team,0,Sunny
+789,2022,1,Bahrain International Circuit,Zhou,15,Alfa Romeo,0,Sunny
+790,2022,1,Bahrain International Circuit,Schumacher,12,Haas F1 Team,0,Sunny
+791,2022,1,Bahrain International Circuit,Stroll,19,Aston Martin,0,Sunny
+792,2022,1,Bahrain International Circuit,Albon,14,Williams,0,Sunny
+793,2022,1,Bahrain International Circuit,Ricciardo,18,McLaren,0,Sunny
+794,2022,1,Bahrain International Circuit,Norris,13,McLaren,0,Sunny
+795,2022,1,Bahrain International Circuit,Latifi,20,Williams,0,Sunny
+796,2022,1,Bahrain International Circuit,Hulkenberg,17,Aston Martin,0,Sunny
+797,2022,1,Bahrain International Circuit,Perez,4,Red Bull,0,Sunny
+798,2022,1,Bahrain International Circuit,Verstappen,2,Red Bull,0,Sunny
+799,2022,1,Bahrain International Circuit,Gasly,10,AlphaTauri,0,Sunny
+800,2022,2,Jeddah Corniche Circuit,Verstappen,4,Red Bull,1,Sunny
+801,2022,2,Jeddah Corniche Circuit,Leclerc,2,Ferrari,0,Sunny
+802,2022,2,Jeddah Corniche Circuit,Sainz,3,Ferrari,0,Sunny
+803,2022,2,Jeddah Corniche Circuit,Perez,1,Red Bull,0,Sunny
+804,2022,2,Jeddah Corniche Circuit,Russell,6,Mercedes,0,Sunny
+805,2022,2,Jeddah Corniche Circuit,Ocon,5,Alpine F1 Team,0,Sunny
+806,2022,2,Jeddah Corniche Circuit,Norris,11,McLaren,0,Sunny
+807,2022,2,Jeddah Corniche Circuit,Gasly,9,AlphaTauri,0,Sunny
+808,2022,2,Jeddah Corniche Circuit,Magnussen,10,Haas F1 Team,0,Sunny
+809,2022,2,Jeddah Corniche Circuit,Hamilton,15,Mercedes,0,Sunny
+810,2022,2,Jeddah Corniche Circuit,Zhou,12,Alfa Romeo,0,Sunny
+811,2022,2,Jeddah Corniche Circuit,Hulkenberg,17,Aston Martin,0,Sunny
+812,2022,2,Jeddah Corniche Circuit,Stroll,13,Aston Martin,0,Sunny
+813,2022,2,Jeddah Corniche Circuit,Albon,16,Williams,0,Sunny
+814,2022,2,Jeddah Corniche Circuit,Bottas,8,Alfa Romeo,0,Sunny
+815,2022,2,Jeddah Corniche Circuit,Alonso,7,Alpine F1 Team,0,Sunny
+816,2022,2,Jeddah Corniche Circuit,Ricciardo,14,McLaren,0,Sunny
+817,2022,2,Jeddah Corniche Circuit,Latifi,18,Williams,0,Sunny
+818,2022,2,Jeddah Corniche Circuit,Tsunoda,19,AlphaTauri,0,Sunny
+819,2022,2,Jeddah Corniche Circuit,Schumacher,0,Haas F1 Team,0,Sunny
+820,2022,3,Albert Park Grand Prix Circuit,Leclerc,1,Ferrari,1,Sunny
+821,2022,3,Albert Park Grand Prix Circuit,Perez,3,Red Bull,0,Sunny
+822,2022,3,Albert Park Grand Prix Circuit,Russell,6,Mercedes,0,Sunny
+823,2022,3,Albert Park Grand Prix Circuit,Hamilton,5,Mercedes,0,Sunny
+824,2022,3,Albert Park Grand Prix Circuit,Norris,4,McLaren,0,Sunny
+825,2022,3,Albert Park Grand Prix Circuit,Ricciardo,7,McLaren,0,Sunny
+826,2022,3,Albert Park Grand Prix Circuit,Ocon,8,Alpine F1 Team,0,Sunny
+827,2022,3,Albert Park Grand Prix Circuit,Bottas,12,Alfa Romeo,0,Sunny
+828,2022,3,Albert Park Grand Prix Circuit,Gasly,11,AlphaTauri,0,Sunny
+829,2022,3,Albert Park Grand Prix Circuit,Albon,20,Williams,0,Sunny
+830,2022,3,Albert Park Grand Prix Circuit,Zhou,14,Alfa Romeo,0,Sunny
+831,2022,3,Albert Park Grand Prix Circuit,Stroll,19,Aston Martin,0,Sunny
+832,2022,3,Albert Park Grand Prix Circuit,Schumacher,15,Haas F1 Team,0,Sunny
+833,2022,3,Albert Park Grand Prix Circuit,Magnussen,16,Haas F1 Team,0,Sunny
+834,2022,3,Albert Park Grand Prix Circuit,Tsunoda,13,AlphaTauri,0,Sunny
+835,2022,3,Albert Park Grand Prix Circuit,Latifi,18,Williams,0,Sunny
+836,2022,3,Albert Park Grand Prix Circuit,Alonso,10,Alpine F1 Team,0,Sunny
+837,2022,3,Albert Park Grand Prix Circuit,Verstappen,2,Red Bull,0,Sunny
+838,2022,3,Albert Park Grand Prix Circuit,Vettel,17,Aston Martin,0,Sunny
+839,2022,3,Albert Park Grand Prix Circuit,Sainz,9,Ferrari,0,Sunny
+840,2022,4,Autodromo Enzo e Dino Ferrari,Verstappen,1,Red Bull,1,Sunny
+841,2022,4,Autodromo Enzo e Dino Ferrari,Perez,3,Red Bull,0,Sunny
+842,2022,4,Autodromo Enzo e Dino Ferrari,Norris,5,McLaren,0,Sunny
+843,2022,4,Autodromo Enzo e Dino Ferrari,Russell,11,Mercedes,0,Sunny
+844,2022,4,Autodromo Enzo e Dino Ferrari,Bottas,7,Alfa Romeo,0,Sunny
+845,2022,4,Autodromo Enzo e Dino Ferrari,Leclerc,2,Ferrari,0,Sunny
+846,2022,4,Autodromo Enzo e Dino Ferrari,Tsunoda,12,AlphaTauri,0,Sunny
+847,2022,4,Autodromo Enzo e Dino Ferrari,Vettel,13,Aston Martin,0,Sunny
+848,2022,4,Autodromo Enzo e Dino Ferrari,Magnussen,8,Haas F1 Team,0,Sunny
+849,2022,4,Autodromo Enzo e Dino Ferrari,Stroll,15,Aston Martin,0,Sunny
+850,2022,4,Autodromo Enzo e Dino Ferrari,Albon,18,Williams,0,Sunny
+851,2022,4,Autodromo Enzo e Dino Ferrari,Gasly,17,AlphaTauri,0,Sunny
+852,2022,4,Autodromo Enzo e Dino Ferrari,Hamilton,14,Mercedes,0,Sunny
+853,2022,4,Autodromo Enzo e Dino Ferrari,Ocon,16,Alpine F1 Team,0,Sunny
+854,2022,4,Autodromo Enzo e Dino Ferrari,Zhou,0,Alfa Romeo,0,Sunny
+855,2022,4,Autodromo Enzo e Dino Ferrari,Latifi,19,Williams,0,Sunny
+856,2022,4,Autodromo Enzo e Dino Ferrari,Schumacher,10,Haas F1 Team,0,Sunny
+857,2022,4,Autodromo Enzo e Dino Ferrari,Ricciardo,6,McLaren,0,Sunny
+858,2022,4,Autodromo Enzo e Dino Ferrari,Alonso,9,Alpine F1 Team,0,Sunny
+859,2022,4,Autodromo Enzo e Dino Ferrari,Sainz,4,Ferrari,0,Sunny
+860,2022,5,Miami International Autodrome,Verstappen,3,Red Bull,1,Sunny
+861,2022,5,Miami International Autodrome,Leclerc,1,Ferrari,0,Sunny
+862,2022,5,Miami International Autodrome,Sainz,2,Ferrari,0,Sunny
+863,2022,5,Miami International Autodrome,Perez,4,Red Bull,0,Sunny
+864,2022,5,Miami International Autodrome,Russell,12,Mercedes,0,Sunny
+865,2022,5,Miami International Autodrome,Hamilton,6,Mercedes,0,Sunny
+866,2022,5,Miami International Autodrome,Bottas,5,Alfa Romeo,0,Sunny
+867,2022,5,Miami International Autodrome,Ocon,20,Alpine F1 Team,0,Sunny
+868,2022,5,Miami International Autodrome,Albon,18,Williams,0,Sunny
+869,2022,5,Miami International Autodrome,Stroll,0,Aston Martin,0,Sunny
+870,2022,5,Miami International Autodrome,Alonso,11,Alpine F1 Team,0,Sunny
+871,2022,5,Miami International Autodrome,Tsunoda,9,AlphaTauri,0,Sunny
+872,2022,5,Miami International Autodrome,Ricciardo,14,McLaren,0,Sunny
+873,2022,5,Miami International Autodrome,Latifi,19,Williams,0,Sunny
+874,2022,5,Miami International Autodrome,Schumacher,15,Haas F1 Team,0,Sunny
+875,2022,5,Miami International Autodrome,Magnussen,16,Haas F1 Team,0,Sunny
+876,2022,5,Miami International Autodrome,Vettel,0,Aston Martin,0,Sunny
+877,2022,5,Miami International Autodrome,Gasly,7,AlphaTauri,0,Sunny
+878,2022,5,Miami International Autodrome,Norris,8,McLaren,0,Sunny
+879,2022,5,Miami International Autodrome,Zhou,17,Alfa Romeo,0,Sunny
+880,2022,6,Circuit de Barcelona-Catalunya,Verstappen,2,Red Bull,1,Sunny
+881,2022,6,Circuit de Barcelona-Catalunya,Perez,5,Red Bull,0,Sunny
+882,2022,6,Circuit de Barcelona-Catalunya,Russell,4,Mercedes,0,Sunny
+883,2022,6,Circuit de Barcelona-Catalunya,Sainz,3,Ferrari,0,Sunny
+884,2022,6,Circuit de Barcelona-Catalunya,Hamilton,6,Mercedes,0,Sunny
+885,2022,6,Circuit de Barcelona-Catalunya,Bottas,7,Alfa Romeo,0,Sunny
+886,2022,6,Circuit de Barcelona-Catalunya,Ocon,12,Alpine F1 Team,0,Sunny
+887,2022,6,Circuit de Barcelona-Catalunya,Norris,11,McLaren,0,Sunny
+888,2022,6,Circuit de Barcelona-Catalunya,Alonso,20,Alpine F1 Team,0,Sunny
+889,2022,6,Circuit de Barcelona-Catalunya,Tsunoda,13,AlphaTauri,0,Sunny
+890,2022,6,Circuit de Barcelona-Catalunya,Vettel,16,Aston Martin,0,Sunny
+891,2022,6,Circuit de Barcelona-Catalunya,Ricciardo,9,McLaren,0,Sunny
+892,2022,6,Circuit de Barcelona-Catalunya,Gasly,14,AlphaTauri,0,Sunny
+893,2022,6,Circuit de Barcelona-Catalunya,Schumacher,10,Haas F1 Team,0,Sunny
+894,2022,6,Circuit de Barcelona-Catalunya,Stroll,17,Aston Martin,0,Sunny
+895,2022,6,Circuit de Barcelona-Catalunya,Latifi,19,Williams,0,Sunny
+896,2022,6,Circuit de Barcelona-Catalunya,Magnussen,8,Haas F1 Team,0,Sunny
+897,2022,6,Circuit de Barcelona-Catalunya,Albon,18,Williams,0,Sunny
+898,2022,6,Circuit de Barcelona-Catalunya,Zhou,15,Alfa Romeo,0,Sunny
+899,2022,6,Circuit de Barcelona-Catalunya,Leclerc,1,Ferrari,0,Sunny
+900,2022,7,Circuit de Monaco,Perez,3,Red Bull,1,Sunny
+901,2022,7,Circuit de Monaco,Sainz,2,Ferrari,0,Sunny
+902,2022,7,Circuit de Monaco,Verstappen,4,Red Bull,0,Sunny
+903,2022,7,Circuit de Monaco,Leclerc,1,Ferrari,0,Sunny
+904,2022,7,Circuit de Monaco,Russell,6,Mercedes,0,Sunny
+905,2022,7,Circuit de Monaco,Norris,5,McLaren,0,Sunny
+906,2022,7,Circuit de Monaco,Alonso,7,Alpine F1 Team,0,Sunny
+907,2022,7,Circuit de Monaco,Hamilton,8,Mercedes,0,Sunny
+908,2022,7,Circuit de Monaco,Bottas,12,Alfa Romeo,0,Sunny
+909,2022,7,Circuit de Monaco,Vettel,9,Aston Martin,0,Sunny
+910,2022,7,Circuit de Monaco,Gasly,17,AlphaTauri,0,Sunny
+911,2022,7,Circuit de Monaco,Ocon,10,Alpine F1 Team,0,Sunny
+912,2022,7,Circuit de Monaco,Ricciardo,14,McLaren,0,Sunny
+913,2022,7,Circuit de Monaco,Stroll,18,Aston Martin,0,Sunny
+914,2022,7,Circuit de Monaco,Latifi,19,Williams,0,Sunny
+915,2022,7,Circuit de Monaco,Zhou,20,Alfa Romeo,0,Sunny
+916,2022,7,Circuit de Monaco,Tsunoda,11,AlphaTauri,0,Sunny
+917,2022,7,Circuit de Monaco,Albon,16,Williams,0,Sunny
+918,2022,7,Circuit de Monaco,Schumacher,15,Haas F1 Team,0,Sunny
+919,2022,7,Circuit de Monaco,Magnussen,13,Haas F1 Team,0,Sunny
+920,2022,8,Baku City Circuit,Verstappen,3,Red Bull,1,Sunny
+921,2022,8,Baku City Circuit,Perez,2,Red Bull,0,Sunny
+922,2022,8,Baku City Circuit,Russell,5,Mercedes,0,Sunny
+923,2022,8,Baku City Circuit,Hamilton,7,Mercedes,0,Sunny
+924,2022,8,Baku City Circuit,Gasly,6,AlphaTauri,0,Sunny
+925,2022,8,Baku City Circuit,Vettel,9,Aston Martin,0,Sunny
+926,2022,8,Baku City Circuit,Alonso,10,Alpine F1 Team,0,Sunny
+927,2022,8,Baku City Circuit,Ricciardo,12,McLaren,0,Sunny
+928,2022,8,Baku City Circuit,Norris,11,McLaren,0,Sunny
+929,2022,8,Baku City Circuit,Ocon,13,Alpine F1 Team,0,Sunny
+930,2022,8,Baku City Circuit,Bottas,15,Alfa Romeo,0,Sunny
+931,2022,8,Baku City Circuit,Albon,17,Williams,0,Sunny
+932,2022,8,Baku City Circuit,Tsunoda,8,AlphaTauri,0,Sunny
+933,2022,8,Baku City Circuit,Schumacher,20,Haas F1 Team,0,Sunny
+934,2022,8,Baku City Circuit,Latifi,18,Williams,0,Sunny
+935,2022,8,Baku City Circuit,Stroll,19,Aston Martin,0,Sunny
+936,2022,8,Baku City Circuit,Magnussen,16,Haas F1 Team,0,Sunny
+937,2022,8,Baku City Circuit,Zhou,14,Alfa Romeo,0,Sunny
+938,2022,8,Baku City Circuit,Leclerc,1,Ferrari,0,Sunny
+939,2022,8,Baku City Circuit,Sainz,4,Ferrari,0,Sunny
+940,2022,9,Circuit Gilles Villeneuve,Verstappen,1,Red Bull,1,Sunny
+941,2022,9,Circuit Gilles Villeneuve,Sainz,3,Ferrari,0,Sunny
+942,2022,9,Circuit Gilles Villeneuve,Hamilton,4,Mercedes,0,Sunny
+943,2022,9,Circuit Gilles Villeneuve,Russell,8,Mercedes,0,Sunny
+944,2022,9,Circuit Gilles Villeneuve,Leclerc,19,Ferrari,0,Sunny
+945,2022,9,Circuit Gilles Villeneuve,Ocon,7,Alpine F1 Team,0,Sunny
+946,2022,9,Circuit Gilles Villeneuve,Bottas,11,Alfa Romeo,0,Sunny
+947,2022,9,Circuit Gilles Villeneuve,Zhou,10,Alfa Romeo,0,Sunny
+948,2022,9,Circuit Gilles Villeneuve,Alonso,2,Alpine F1 Team,0,Sunny
+949,2022,9,Circuit Gilles Villeneuve,Stroll,17,Aston Martin,0,Sunny
+950,2022,9,Circuit Gilles Villeneuve,Ricciardo,9,McLaren,0,Sunny
+951,2022,9,Circuit Gilles Villeneuve,Vettel,16,Aston Martin,0,Sunny
+952,2022,9,Circuit Gilles Villeneuve,Albon,12,Williams,0,Sunny
+953,2022,9,Circuit Gilles Villeneuve,Gasly,15,AlphaTauri,0,Sunny
+954,2022,9,Circuit Gilles Villeneuve,Norris,14,McLaren,0,Sunny
+955,2022,9,Circuit Gilles Villeneuve,Latifi,18,Williams,0,Sunny
+956,2022,9,Circuit Gilles Villeneuve,Magnussen,5,Haas F1 Team,0,Sunny
+957,2022,9,Circuit Gilles Villeneuve,Tsunoda,20,AlphaTauri,0,Sunny
+958,2022,9,Circuit Gilles Villeneuve,Schumacher,6,Haas F1 Team,0,Sunny
+959,2022,9,Circuit Gilles Villeneuve,Perez,13,Red Bull,0,Sunny
+960,2022,10,Silverstone Circuit,Sainz,1,Ferrari,1,Sunny
+961,2022,10,Silverstone Circuit,Perez,4,Red Bull,0,Sunny
+962,2022,10,Silverstone Circuit,Hamilton,5,Mercedes,0,Sunny
+963,2022,10,Silverstone Circuit,Leclerc,3,Ferrari,0,Sunny
+964,2022,10,Silverstone Circuit,Alonso,7,Alpine F1 Team,0,Sunny
+965,2022,10,Silverstone Circuit,Norris,6,McLaren,0,Sunny
+966,2022,10,Silverstone Circuit,Verstappen,2,Red Bull,0,Sunny
+967,2022,10,Silverstone Circuit,Schumacher,19,Haas F1 Team,0,Sunny
+968,2022,10,Silverstone Circuit,Vettel,18,Aston Martin,0,Sunny
+969,2022,10,Silverstone Circuit,Magnussen,17,Haas F1 Team,0,Sunny
+970,2022,10,Silverstone Circuit,Stroll,20,Aston Martin,0,Sunny
+971,2022,10,Silverstone Circuit,Latifi,10,Williams,0,Sunny
+972,2022,10,Silverstone Circuit,Ricciardo,14,McLaren,0,Sunny
+973,2022,10,Silverstone Circuit,Tsunoda,13,AlphaTauri,0,Sunny
+974,2022,10,Silverstone Circuit,Ocon,15,Alpine F1 Team,0,Sunny
+975,2022,10,Silverstone Circuit,Gasly,11,AlphaTauri,0,Sunny
+976,2022,10,Silverstone Circuit,Bottas,12,Alfa Romeo,0,Sunny
+977,2022,10,Silverstone Circuit,Russell,8,Mercedes,0,Sunny
+978,2022,10,Silverstone Circuit,Zhou,9,Alfa Romeo,0,Sunny
+979,2022,10,Silverstone Circuit,Albon,16,Williams,0,Sunny
+980,2022,11,Red Bull Ring,Leclerc,2,Ferrari,1,Sunny
+981,2022,11,Red Bull Ring,Verstappen,1,Red Bull,0,Sunny
+982,2022,11,Red Bull Ring,Hamilton,8,Mercedes,0,Sunny
+983,2022,11,Red Bull Ring,Russell,4,Mercedes,0,Sunny
+984,2022,11,Red Bull Ring,Ocon,6,Alpine F1 Team,0,Sunny
+985,2022,11,Red Bull Ring,Schumacher,9,Haas F1 Team,0,Sunny
+986,2022,11,Red Bull Ring,Norris,10,McLaren,0,Sunny
+987,2022,11,Red Bull Ring,Magnussen,7,Haas F1 Team,0,Sunny
+988,2022,11,Red Bull Ring,Ricciardo,11,McLaren,0,Sunny
+989,2022,11,Red Bull Ring,Alonso,19,Alpine F1 Team,0,Sunny
+990,2022,11,Red Bull Ring,Bottas,0,Alfa Romeo,0,Sunny
+991,2022,11,Red Bull Ring,Albon,15,Williams,0,Sunny
+992,2022,11,Red Bull Ring,Stroll,12,Aston Martin,0,Sunny
+993,2022,11,Red Bull Ring,Zhou,13,Alfa Romeo,0,Sunny
+994,2022,11,Red Bull Ring,Gasly,14,AlphaTauri,0,Sunny
+995,2022,11,Red Bull Ring,Tsunoda,16,AlphaTauri,0,Sunny
+996,2022,11,Red Bull Ring,Vettel,18,Aston Martin,0,Sunny
+997,2022,11,Red Bull Ring,Sainz,3,Ferrari,0,Sunny
+998,2022,11,Red Bull Ring,Latifi,17,Williams,0,Sunny
+999,2022,11,Red Bull Ring,Perez,5,Red Bull,0,Sunny
+1000,2022,12,Circuit Paul Ricard,Verstappen,2,Red Bull,1,Sunny
+1001,2022,12,Circuit Paul Ricard,Hamilton,4,Mercedes,0,Sunny
+1002,2022,12,Circuit Paul Ricard,Russell,6,Mercedes,0,Sunny
+1003,2022,12,Circuit Paul Ricard,Perez,3,Red Bull,0,Sunny
+1004,2022,12,Circuit Paul Ricard,Sainz,19,Ferrari,0,Sunny
+1005,2022,12,Circuit Paul Ricard,Alonso,7,Alpine F1 Team,0,Sunny
+1006,2022,12,Circuit Paul Ricard,Norris,5,McLaren,0,Sunny
+1007,2022,12,Circuit Paul Ricard,Ocon,10,Alpine F1 Team,0,Sunny
+1008,2022,12,Circuit Paul Ricard,Ricciardo,9,McLaren,0,Sunny
+1009,2022,12,Circuit Paul Ricard,Stroll,15,Aston Martin,0,Sunny
+1010,2022,12,Circuit Paul Ricard,Vettel,12,Aston Martin,0,Sunny
+1011,2022,12,Circuit Paul Ricard,Gasly,14,AlphaTauri,0,Sunny
+1012,2022,12,Circuit Paul Ricard,Albon,13,Williams,0,Sunny
+1013,2022,12,Circuit Paul Ricard,Bottas,11,Alfa Romeo,0,Sunny
+1014,2022,12,Circuit Paul Ricard,Schumacher,17,Haas F1 Team,0,Sunny
+1015,2022,12,Circuit Paul Ricard,Zhou,16,Alfa Romeo,0,Sunny
+1016,2022,12,Circuit Paul Ricard,Latifi,18,Williams,0,Sunny
+1017,2022,12,Circuit Paul Ricard,Magnussen,20,Haas F1 Team,0,Sunny
+1018,2022,12,Circuit Paul Ricard,Leclerc,1,Ferrari,0,Sunny
+1019,2022,12,Circuit Paul Ricard,Tsunoda,8,AlphaTauri,0,Sunny
+1020,2022,13,Hungaroring,Verstappen,10,Red Bull,1,Sunny
+1021,2022,13,Hungaroring,Hamilton,7,Mercedes,0,Sunny
+1022,2022,13,Hungaroring,Russell,1,Mercedes,0,Sunny
+1023,2022,13,Hungaroring,Sainz,2,Ferrari,0,Sunny
+1024,2022,13,Hungaroring,Perez,11,Red Bull,0,Sunny
+1025,2022,13,Hungaroring,Leclerc,3,Ferrari,0,Sunny
+1026,2022,13,Hungaroring,Norris,4,McLaren,0,Sunny
+1027,2022,13,Hungaroring,Alonso,6,Alpine F1 Team,0,Sunny
+1028,2022,13,Hungaroring,Ocon,5,Alpine F1 Team,0,Sunny
+1029,2022,13,Hungaroring,Vettel,18,Aston Martin,0,Sunny
+1030,2022,13,Hungaroring,Stroll,14,Aston Martin,0,Sunny
+1031,2022,13,Hungaroring,Gasly,0,AlphaTauri,0,Sunny
+1032,2022,13,Hungaroring,Zhou,12,Alfa Romeo,0,Sunny
+1033,2022,13,Hungaroring,Schumacher,15,Haas F1 Team,0,Sunny
+1034,2022,13,Hungaroring,Ricciardo,9,McLaren,0,Sunny
+1035,2022,13,Hungaroring,Magnussen,13,Haas F1 Team,0,Sunny
+1036,2022,13,Hungaroring,Albon,17,Williams,0,Sunny
+1037,2022,13,Hungaroring,Latifi,19,Williams,0,Sunny
+1038,2022,13,Hungaroring,Tsunoda,16,AlphaTauri,0,Sunny
+1039,2022,13,Hungaroring,Bottas,8,Alfa Romeo,0,Sunny
+1040,2022,14,Circuit de Spa-Francorchamps,Verstappen,14,Red Bull,1,Sunny
+1041,2022,14,Circuit de Spa-Francorchamps,Perez,2,Red Bull,0,Sunny
+1042,2022,14,Circuit de Spa-Francorchamps,Sainz,1,Ferrari,0,Sunny
+1043,2022,14,Circuit de Spa-Francorchamps,Russell,5,Mercedes,0,Sunny
+1044,2022,14,Circuit de Spa-Francorchamps,Alonso,3,Alpine F1 Team,0,Sunny
+1045,2022,14,Circuit de Spa-Francorchamps,Leclerc,15,Ferrari,0,Sunny
+1046,2022,14,Circuit de Spa-Francorchamps,Ocon,16,Alpine F1 Team,0,Sunny
+1047,2022,14,Circuit de Spa-Francorchamps,Vettel,10,Aston Martin,0,Sunny
+1048,2022,14,Circuit de Spa-Francorchamps,Gasly,0,AlphaTauri,0,Sunny
+1049,2022,14,Circuit de Spa-Francorchamps,Albon,6,Williams,0,Sunny
+1050,2022,14,Circuit de Spa-Francorchamps,Stroll,9,Aston Martin,0,Sunny
+1051,2022,14,Circuit de Spa-Francorchamps,Norris,17,McLaren,0,Sunny
+1052,2022,14,Circuit de Spa-Francorchamps,Tsunoda,0,AlphaTauri,0,Sunny
+1053,2022,14,Circuit de Spa-Francorchamps,Zhou,18,Alfa Romeo,0,Sunny
+1054,2022,14,Circuit de Spa-Francorchamps,Ricciardo,7,McLaren,0,Sunny
+1055,2022,14,Circuit de Spa-Francorchamps,Magnussen,12,Haas F1 Team,0,Sunny
+1056,2022,14,Circuit de Spa-Francorchamps,Schumacher,19,Haas F1 Team,0,Sunny
+1057,2022,14,Circuit de Spa-Francorchamps,Latifi,11,Williams,0,Sunny
+1058,2022,14,Circuit de Spa-Francorchamps,Bottas,13,Alfa Romeo,0,Sunny
+1059,2022,14,Circuit de Spa-Francorchamps,Hamilton,4,Mercedes,0,Sunny
+1060,2022,15,Circuit Park Zandvoort,Verstappen,1,Red Bull,1,Sunny
+1061,2022,15,Circuit Park Zandvoort,Russell,6,Mercedes,0,Sunny
+1062,2022,15,Circuit Park Zandvoort,Leclerc,2,Ferrari,0,Sunny
+1063,2022,15,Circuit Park Zandvoort,Hamilton,4,Mercedes,0,Sunny
+1064,2022,15,Circuit Park Zandvoort,Perez,5,Red Bull,0,Sunny
+1065,2022,15,Circuit Park Zandvoort,Alonso,13,Alpine F1 Team,0,Sunny
+1066,2022,15,Circuit Park Zandvoort,Norris,7,McLaren,0,Sunny
+1067,2022,15,Circuit Park Zandvoort,Sainz,3,Ferrari,0,Sunny
+1068,2022,15,Circuit Park Zandvoort,Ocon,12,Alpine F1 Team,0,Sunny
+1069,2022,15,Circuit Park Zandvoort,Stroll,10,Aston Martin,0,Sunny
+1070,2022,15,Circuit Park Zandvoort,Gasly,11,AlphaTauri,0,Sunny
+1071,2022,15,Circuit Park Zandvoort,Albon,15,Williams,0,Sunny
+1072,2022,15,Circuit Park Zandvoort,Schumacher,8,Haas F1 Team,0,Sunny
+1073,2022,15,Circuit Park Zandvoort,Vettel,19,Aston Martin,0,Sunny
+1074,2022,15,Circuit Park Zandvoort,Magnussen,18,Haas F1 Team,0,Sunny
+1075,2022,15,Circuit Park Zandvoort,Zhou,14,Alfa Romeo,0,Sunny
+1076,2022,15,Circuit Park Zandvoort,Ricciardo,17,McLaren,0,Sunny
+1077,2022,15,Circuit Park Zandvoort,Latifi,20,Williams,0,Sunny
+1078,2022,15,Circuit Park Zandvoort,Bottas,16,Alfa Romeo,0,Sunny
+1079,2022,15,Circuit Park Zandvoort,Tsunoda,9,AlphaTauri,0,Sunny
+1080,2022,16,Autodromo Nazionale di Monza,Verstappen,7,Red Bull,1,Sunny
+1081,2022,16,Autodromo Nazionale di Monza,Leclerc,1,Ferrari,0,Sunny
+1082,2022,16,Autodromo Nazionale di Monza,Russell,2,Mercedes,0,Sunny
+1083,2022,16,Autodromo Nazionale di Monza,Sainz,18,Ferrari,0,Sunny
+1084,2022,16,Autodromo Nazionale di Monza,Hamilton,19,Mercedes,0,Sunny
+1085,2022,16,Autodromo Nazionale di Monza,Perez,13,Red Bull,0,Sunny
+1086,2022,16,Autodromo Nazionale di Monza,Norris,3,McLaren,0,Sunny
+1087,2022,16,Autodromo Nazionale di Monza,Gasly,5,AlphaTauri,0,Sunny
+1088,2022,16,Autodromo Nazionale di Monza,de Vries,8,Williams,0,Sunny
+1089,2022,16,Autodromo Nazionale di Monza,Zhou,9,Alfa Romeo,0,Sunny
+1090,2022,16,Autodromo Nazionale di Monza,Ocon,14,Alpine F1 Team,0,Sunny
+1091,2022,16,Autodromo Nazionale di Monza,Schumacher,17,Haas F1 Team,0,Sunny
+1092,2022,16,Autodromo Nazionale di Monza,Bottas,15,Alfa Romeo,0,Sunny
+1093,2022,16,Autodromo Nazionale di Monza,Tsunoda,20,AlphaTauri,0,Sunny
+1094,2022,16,Autodromo Nazionale di Monza,Latifi,10,Williams,0,Sunny
+1095,2022,16,Autodromo Nazionale di Monza,Magnussen,16,Haas F1 Team,0,Sunny
+1096,2022,16,Autodromo Nazionale di Monza,Ricciardo,4,McLaren,0,Sunny
+1097,2022,16,Autodromo Nazionale di Monza,Stroll,12,Aston Martin,0,Sunny
+1098,2022,16,Autodromo Nazionale di Monza,Alonso,6,Alpine F1 Team,0,Sunny
+1099,2022,16,Autodromo Nazionale di Monza,Vettel,11,Aston Martin,0,Sunny
+1100,2022,17,Marina Bay Street Circuit,Perez,2,Red Bull,1,Sunny
+1101,2022,17,Marina Bay Street Circuit,Leclerc,1,Ferrari,0,Sunny
+1102,2022,17,Marina Bay Street Circuit,Sainz,4,Ferrari,0,Sunny
+1103,2022,17,Marina Bay Street Circuit,Norris,6,McLaren,0,Sunny
+1104,2022,17,Marina Bay Street Circuit,Ricciardo,16,McLaren,0,Sunny
+1105,2022,17,Marina Bay Street Circuit,Stroll,11,Aston Martin,0,Sunny
+1106,2022,17,Marina Bay Street Circuit,Verstappen,8,Red Bull,0,Sunny
+1107,2022,17,Marina Bay Street Circuit,Vettel,13,Aston Martin,0,Sunny
+1108,2022,17,Marina Bay Street Circuit,Hamilton,3,Mercedes,0,Sunny
+1109,2022,17,Marina Bay Street Circuit,Gasly,7,AlphaTauri,0,Sunny
+1110,2022,17,Marina Bay Street Circuit,Bottas,15,Alfa Romeo,0,Sunny
+1111,2022,17,Marina Bay Street Circuit,Magnussen,9,Haas F1 Team,0,Sunny
+1112,2022,17,Marina Bay Street Circuit,Schumacher,12,Haas F1 Team,0,Sunny
+1113,2022,17,Marina Bay Street Circuit,Russell,0,Mercedes,0,Sunny
+1114,2022,17,Marina Bay Street Circuit,Tsunoda,10,AlphaTauri,0,Sunny
+1115,2022,17,Marina Bay Street Circuit,Ocon,17,Alpine F1 Team,0,Sunny
+1116,2022,17,Marina Bay Street Circuit,Albon,18,Williams,0,Sunny
+1117,2022,17,Marina Bay Street Circuit,Alonso,5,Alpine F1 Team,0,Sunny
+1118,2022,17,Marina Bay Street Circuit,Latifi,19,Williams,0,Sunny
+1119,2022,17,Marina Bay Street Circuit,Zhou,14,Alfa Romeo,0,Sunny
+1120,2022,18,Suzuka Circuit,Verstappen,1,Red Bull,1,Sunny
+1121,2022,18,Suzuka Circuit,Perez,4,Red Bull,0,Sunny
+1122,2022,18,Suzuka Circuit,Leclerc,2,Ferrari,0,Sunny
+1123,2022,18,Suzuka Circuit,Ocon,5,Alpine F1 Team,0,Sunny
+1124,2022,18,Suzuka Circuit,Hamilton,6,Mercedes,0,Sunny
+1125,2022,18,Suzuka Circuit,Vettel,9,Aston Martin,0,Sunny
+1126,2022,18,Suzuka Circuit,Alonso,7,Alpine F1 Team,0,Sunny
+1127,2022,18,Suzuka Circuit,Russell,8,Mercedes,0,Sunny
+1128,2022,18,Suzuka Circuit,Latifi,20,Williams,0,Sunny
+1129,2022,18,Suzuka Circuit,Norris,10,McLaren,0,Sunny
+1130,2022,18,Suzuka Circuit,Ricciardo,11,McLaren,0,Sunny
+1131,2022,18,Suzuka Circuit,Stroll,19,Aston Martin,0,Sunny
+1132,2022,18,Suzuka Circuit,Tsunoda,13,AlphaTauri,0,Sunny
+1133,2022,18,Suzuka Circuit,Magnussen,18,Haas F1 Team,0,Sunny
+1134,2022,18,Suzuka Circuit,Bottas,12,Alfa Romeo,0,Sunny
+1135,2022,18,Suzuka Circuit,Zhou,14,Alfa Romeo,0,Sunny
+1136,2022,18,Suzuka Circuit,Schumacher,15,Haas F1 Team,0,Sunny
+1137,2022,18,Suzuka Circuit,Gasly,17,AlphaTauri,0,Sunny
+1138,2022,18,Suzuka Circuit,Sainz,3,Ferrari,0,Sunny
+1139,2022,18,Suzuka Circuit,Albon,16,Williams,0,Sunny
+1140,2022,19,Circuit of the Americas,Verstappen,2,Red Bull,1,Sunny
+1141,2022,19,Circuit of the Americas,Hamilton,3,Mercedes,0,Sunny
+1142,2022,19,Circuit of the Americas,Leclerc,12,Ferrari,0,Sunny
+1143,2022,19,Circuit of the Americas,Perez,9,Red Bull,0,Sunny
+1144,2022,19,Circuit of the Americas,Russell,4,Mercedes,0,Sunny
+1145,2022,19,Circuit of the Americas,Norris,6,McLaren,0,Sunny
+1146,2022,19,Circuit of the Americas,Alonso,14,Alpine F1 Team,0,Sunny
+1147,2022,19,Circuit of the Americas,Vettel,10,Aston Martin,0,Sunny
+1148,2022,19,Circuit of the Americas,Magnussen,13,Haas F1 Team,0,Sunny
+1149,2022,19,Circuit of the Americas,Tsunoda,19,AlphaTauri,0,Sunny
+1150,2022,19,Circuit of the Americas,Ocon,0,Alpine F1 Team,0,Sunny
+1151,2022,19,Circuit of the Americas,Zhou,18,Alfa Romeo,0,Sunny
+1152,2022,19,Circuit of the Americas,Albon,8,Williams,0,Sunny
+1153,2022,19,Circuit of the Americas,Gasly,11,AlphaTauri,0,Sunny
+1154,2022,19,Circuit of the Americas,Schumacher,16,Haas F1 Team,0,Sunny
+1155,2022,19,Circuit of the Americas,Ricciardo,15,McLaren,0,Sunny
+1156,2022,19,Circuit of the Americas,Latifi,17,Williams,0,Sunny
+1157,2022,19,Circuit of the Americas,Stroll,5,Aston Martin,0,Sunny
+1158,2022,19,Circuit of the Americas,Bottas,7,Alfa Romeo,0,Sunny
+1159,2022,19,Circuit of the Americas,Sainz,1,Ferrari,0,Sunny
+1160,2022,20,Autodromo Hermanos Rodriguez,Verstappen,1,Red Bull,1,Sunny
+1161,2022,20,Autodromo Hermanos Rodriguez,Hamilton,3,Mercedes,0,Sunny
+1162,2022,20,Autodromo Hermanos Rodriguez,Perez,4,Red Bull,0,Sunny
+1163,2022,20,Autodromo Hermanos Rodriguez,Russell,2,Mercedes,0,Sunny
+1164,2022,20,Autodromo Hermanos Rodriguez,Sainz,5,Ferrari,0,Sunny
+1165,2022,20,Autodromo Hermanos Rodriguez,Leclerc,7,Ferrari,0,Sunny
+1166,2022,20,Autodromo Hermanos Rodriguez,Ricciardo,11,McLaren,0,Sunny
+1167,2022,20,Autodromo Hermanos Rodriguez,Ocon,10,Alpine F1 Team,0,Sunny
+1168,2022,20,Autodromo Hermanos Rodriguez,Norris,8,McLaren,0,Sunny
+1169,2022,20,Autodromo Hermanos Rodriguez,Bottas,6,Alfa Romeo,0,Sunny
+1170,2022,20,Autodromo Hermanos Rodriguez,Gasly,14,AlphaTauri,0,Sunny
+1171,2022,20,Autodromo Hermanos Rodriguez,Albon,17,Williams,0,Sunny
+1172,2022,20,Autodromo Hermanos Rodriguez,Zhou,12,Alfa Romeo,0,Sunny
+1173,2022,20,Autodromo Hermanos Rodriguez,Vettel,16,Aston Martin,0,Sunny
+1174,2022,20,Autodromo Hermanos Rodriguez,Stroll,20,Aston Martin,0,Sunny
+1175,2022,20,Autodromo Hermanos Rodriguez,Schumacher,15,Haas F1 Team,0,Sunny
+1176,2022,20,Autodromo Hermanos Rodriguez,Magnussen,19,Haas F1 Team,0,Sunny
+1177,2022,20,Autodromo Hermanos Rodriguez,Latifi,18,Williams,0,Sunny
+1178,2022,20,Autodromo Hermanos Rodriguez,Alonso,9,Alpine F1 Team,0,Sunny
+1179,2022,20,Autodromo Hermanos Rodriguez,Tsunoda,13,AlphaTauri,0,Sunny
+1180,2022,21,Autodromo Jose Carlos Pace,Russell,1,Mercedes,1,Sunny
+1181,2022,21,Autodromo Jose Carlos Pace,Hamilton,2,Mercedes,0,Sunny
+1182,2022,21,Autodromo Jose Carlos Pace,Sainz,7,Ferrari,0,Sunny
+1183,2022,21,Autodromo Jose Carlos Pace,Leclerc,5,Ferrari,0,Sunny
+1184,2022,21,Autodromo Jose Carlos Pace,Alonso,17,Alpine F1 Team,0,Sunny
+1185,2022,21,Autodromo Jose Carlos Pace,Verstappen,3,Red Bull,0,Sunny
+1186,2022,21,Autodromo Jose Carlos Pace,Perez,4,Red Bull,0,Sunny
+1187,2022,21,Autodromo Jose Carlos Pace,Ocon,16,Alpine F1 Team,0,Sunny
+1188,2022,21,Autodromo Jose Carlos Pace,Bottas,14,Alfa Romeo,0,Sunny
+1189,2022,21,Autodromo Jose Carlos Pace,Stroll,15,Aston Martin,0,Sunny
+1190,2022,21,Autodromo Jose Carlos Pace,Vettel,9,Aston Martin,0,Sunny
+1191,2022,21,Autodromo Jose Carlos Pace,Zhou,13,Alfa Romeo,0,Sunny
+1192,2022,21,Autodromo Jose Carlos Pace,Schumacher,12,Haas F1 Team,0,Sunny
+1193,2022,21,Autodromo Jose Carlos Pace,Gasly,10,AlphaTauri,0,Sunny
+1194,2022,21,Autodromo Jose Carlos Pace,Albon,19,Williams,0,Sunny
+1195,2022,21,Autodromo Jose Carlos Pace,Latifi,18,Williams,0,Sunny
+1196,2022,21,Autodromo Jose Carlos Pace,Tsunoda,0,AlphaTauri,0,Sunny
+1197,2022,21,Autodromo Jose Carlos Pace,Norris,6,McLaren,0,Sunny
+1198,2022,21,Autodromo Jose Carlos Pace,Magnussen,8,Haas F1 Team,0,Sunny
+1199,2022,21,Autodromo Jose Carlos Pace,Ricciardo,11,McLaren,0,Sunny
+1200,2022,22,Yas Marina Circuit,Verstappen,1,Red Bull,1,Sunny
+1201,2022,22,Yas Marina Circuit,Leclerc,3,Ferrari,0,Sunny
+1202,2022,22,Yas Marina Circuit,Perez,2,Red Bull,0,Sunny
+1203,2022,22,Yas Marina Circuit,Sainz,4,Ferrari,0,Sunny
+1204,2022,22,Yas Marina Circuit,Russell,6,Mercedes,0,Sunny
+1205,2022,22,Yas Marina Circuit,Norris,7,McLaren,0,Sunny
+1206,2022,22,Yas Marina Circuit,Ocon,8,Alpine F1 Team,0,Sunny
+1207,2022,22,Yas Marina Circuit,Stroll,14,Aston Martin,0,Sunny
+1208,2022,22,Yas Marina Circuit,Ricciardo,13,McLaren,0,Sunny
+1209,2022,22,Yas Marina Circuit,Vettel,9,Aston Martin,0,Sunny
+1210,2022,22,Yas Marina Circuit,Tsunoda,11,AlphaTauri,0,Sunny
+1211,2022,22,Yas Marina Circuit,Zhou,15,Alfa Romeo,0,Sunny
+1212,2022,22,Yas Marina Circuit,Albon,19,Williams,0,Sunny
+1213,2022,22,Yas Marina Circuit,Gasly,17,AlphaTauri,0,Sunny
+1214,2022,22,Yas Marina Circuit,Bottas,18,Alfa Romeo,0,Sunny
+1215,2022,22,Yas Marina Circuit,Schumacher,12,Haas F1 Team,0,Sunny
+1216,2022,22,Yas Marina Circuit,Magnussen,16,Haas F1 Team,0,Sunny
+1217,2022,22,Yas Marina Circuit,Hamilton,5,Mercedes,0,Sunny
+1218,2022,22,Yas Marina Circuit,Latifi,20,Williams,0,Sunny
+1219,2022,22,Yas Marina Circuit,Alonso,10,Alpine F1 Team,0,Sunny
+1220,2023,1,Bahrain International Circuit,Verstappen,1,Red Bull,1,Sunny
+1221,2023,1,Bahrain International Circuit,Perez,2,Red Bull,0,Sunny
+1222,2023,1,Bahrain International Circuit,Alonso,5,Aston Martin,0,Sunny
+1223,2023,1,Bahrain International Circuit,Sainz,4,Ferrari,0,Sunny
+1224,2023,1,Bahrain International Circuit,Hamilton,7,Mercedes,0,Sunny
+1225,2023,1,Bahrain International Circuit,Stroll,8,Aston Martin,0,Sunny
+1226,2023,1,Bahrain International Circuit,Russell,6,Mercedes,0,Sunny
+1227,2023,1,Bahrain International Circuit,Bottas,12,Alfa Romeo,0,Sunny
+1228,2023,1,Bahrain International Circuit,Gasly,20,Alpine F1 Team,0,Sunny
+1229,2023,1,Bahrain International Circuit,Albon,15,Williams,0,Sunny
+1230,2023,1,Bahrain International Circuit,Tsunoda,14,AlphaTauri,0,Sunny
+1231,2023,1,Bahrain International Circuit,Sargeant,16,Williams,0,Sunny
+1232,2023,1,Bahrain International Circuit,Magnussen,17,Haas F1 Team,0,Sunny
+1233,2023,1,Bahrain International Circuit,de Vries,19,AlphaTauri,0,Sunny
+1234,2023,1,Bahrain International Circuit,Hulkenberg,10,Haas F1 Team,0,Sunny
+1235,2023,1,Bahrain International Circuit,Zhou,13,Alfa Romeo,0,Sunny
+1236,2023,1,Bahrain International Circuit,Norris,11,McLaren,0,Sunny
+1237,2023,1,Bahrain International Circuit,Ocon,9,Alpine F1 Team,0,Sunny
+1238,2023,1,Bahrain International Circuit,Leclerc,3,Ferrari,0,Sunny
+1239,2023,1,Bahrain International Circuit,Piastri,18,McLaren,0,Sunny
+1240,2023,2,Jeddah Corniche Circuit,Perez,1,Red Bull,1,Sunny
+1241,2023,2,Jeddah Corniche Circuit,Verstappen,15,Red Bull,0,Sunny
+1242,2023,2,Jeddah Corniche Circuit,Alonso,2,Aston Martin,0,Sunny
+1243,2023,2,Jeddah Corniche Circuit,Russell,3,Mercedes,0,Sunny
+1244,2023,2,Jeddah Corniche Circuit,Hamilton,7,Mercedes,0,Sunny
+1245,2023,2,Jeddah Corniche Circuit,Sainz,4,Ferrari,0,Sunny
+1246,2023,2,Jeddah Corniche Circuit,Leclerc,12,Ferrari,0,Sunny
+1247,2023,2,Jeddah Corniche Circuit,Ocon,6,Alpine F1 Team,0,Sunny
+1248,2023,2,Jeddah Corniche Circuit,Gasly,9,Alpine F1 Team,0,Sunny
+1249,2023,2,Jeddah Corniche Circuit,Magnussen,13,Haas F1 Team,0,Sunny
+1250,2023,2,Jeddah Corniche Circuit,Tsunoda,16,AlphaTauri,0,Sunny
+1251,2023,2,Jeddah Corniche Circuit,Hulkenberg,10,Haas F1 Team,0,Sunny
+1252,2023,2,Jeddah Corniche Circuit,Zhou,11,Alfa Romeo,0,Sunny
+1253,2023,2,Jeddah Corniche Circuit,de Vries,18,AlphaTauri,0,Sunny
+1254,2023,2,Jeddah Corniche Circuit,Piastri,8,McLaren,0,Sunny
+1255,2023,2,Jeddah Corniche Circuit,Sargeant,20,Williams,0,Sunny
+1256,2023,2,Jeddah Corniche Circuit,Norris,19,McLaren,0,Sunny
+1257,2023,2,Jeddah Corniche Circuit,Bottas,14,Alfa Romeo,0,Sunny
+1258,2023,2,Jeddah Corniche Circuit,Albon,17,Williams,0,Sunny
+1259,2023,2,Jeddah Corniche Circuit,Stroll,5,Aston Martin,0,Sunny
+1260,2023,3,Albert Park Grand Prix Circuit,Verstappen,1,Red Bull,1,Sunny
+1261,2023,3,Albert Park Grand Prix Circuit,Hamilton,3,Mercedes,0,Sunny
+1262,2023,3,Albert Park Grand Prix Circuit,Alonso,4,Aston Martin,0,Sunny
+1263,2023,3,Albert Park Grand Prix Circuit,Stroll,6,Aston Martin,0,Sunny
+1264,2023,3,Albert Park Grand Prix Circuit,Perez,0,Red Bull,0,Sunny
+1265,2023,3,Albert Park Grand Prix Circuit,Norris,13,McLaren,0,Sunny
+1266,2023,3,Albert Park Grand Prix Circuit,Hulkenberg,10,Haas F1 Team,0,Sunny
+1267,2023,3,Albert Park Grand Prix Circuit,Piastri,16,McLaren,0,Sunny
+1268,2023,3,Albert Park Grand Prix Circuit,Zhou,17,Alfa Romeo,0,Sunny
+1269,2023,3,Albert Park Grand Prix Circuit,Tsunoda,12,AlphaTauri,0,Sunny
+1270,2023,3,Albert Park Grand Prix Circuit,Bottas,0,Alfa Romeo,0,Sunny
+1271,2023,3,Albert Park Grand Prix Circuit,Sainz,5,Ferrari,0,Sunny
+1272,2023,3,Albert Park Grand Prix Circuit,Gasly,9,Alpine F1 Team,0,Sunny
+1273,2023,3,Albert Park Grand Prix Circuit,Ocon,11,Alpine F1 Team,0,Sunny
+1274,2023,3,Albert Park Grand Prix Circuit,de Vries,15,AlphaTauri,0,Sunny
+1275,2023,3,Albert Park Grand Prix Circuit,Sargeant,18,Williams,0,Sunny
+1276,2023,3,Albert Park Grand Prix Circuit,Magnussen,14,Haas F1 Team,0,Sunny
+1277,2023,3,Albert Park Grand Prix Circuit,Russell,2,Mercedes,0,Sunny
+1278,2023,3,Albert Park Grand Prix Circuit,Albon,8,Williams,0,Sunny
+1279,2023,3,Albert Park Grand Prix Circuit,Leclerc,7,Ferrari,0,Sunny
+1280,2023,4,Baku City Circuit,Perez,3,Red Bull,1,Sunny
+1281,2023,4,Baku City Circuit,Verstappen,2,Red Bull,0,Sunny
+1282,2023,4,Baku City Circuit,Leclerc,1,Ferrari,0,Sunny
+1283,2023,4,Baku City Circuit,Alonso,6,Aston Martin,0,Sunny
+1284,2023,4,Baku City Circuit,Sainz,4,Ferrari,0,Sunny
+1285,2023,4,Baku City Circuit,Hamilton,5,Mercedes,0,Sunny
+1286,2023,4,Baku City Circuit,Stroll,9,Aston Martin,0,Sunny
+1287,2023,4,Baku City Circuit,Russell,11,Mercedes,0,Sunny
+1288,2023,4,Baku City Circuit,Norris,7,McLaren,0,Sunny
+1289,2023,4,Baku City Circuit,Tsunoda,8,AlphaTauri,0,Sunny
+1290,2023,4,Baku City Circuit,Piastri,10,McLaren,0,Sunny
+1291,2023,4,Baku City Circuit,Albon,12,Williams,0,Sunny
+1292,2023,4,Baku City Circuit,Magnussen,16,Haas F1 Team,0,Sunny
+1293,2023,4,Baku City Circuit,Gasly,17,Alpine F1 Team,0,Sunny
+1294,2023,4,Baku City Circuit,Ocon,0,Alpine F1 Team,0,Sunny
+1295,2023,4,Baku City Circuit,Sargeant,14,Williams,0,Sunny
+1296,2023,4,Baku City Circuit,Hulkenberg,0,Haas F1 Team,0,Sunny
+1297,2023,4,Baku City Circuit,Bottas,13,Alfa Romeo,0,Sunny
+1298,2023,4,Baku City Circuit,Zhou,15,Alfa Romeo,0,Sunny
+1299,2023,4,Baku City Circuit,de Vries,18,AlphaTauri,0,Sunny
+1300,2023,5,Miami International Autodrome,Verstappen,9,Red Bull,1,Sunny
+1301,2023,5,Miami International Autodrome,Perez,1,Red Bull,0,Sunny
+1302,2023,5,Miami International Autodrome,Alonso,2,Aston Martin,0,Sunny
+1303,2023,5,Miami International Autodrome,Russell,6,Mercedes,0,Sunny
+1304,2023,5,Miami International Autodrome,Sainz,3,Ferrari,0,Sunny
+1305,2023,5,Miami International Autodrome,Hamilton,13,Mercedes,0,Sunny
+1306,2023,5,Miami International Autodrome,Leclerc,7,Ferrari,0,Sunny
+1307,2023,5,Miami International Autodrome,Gasly,5,Alpine F1 Team,0,Sunny
+1308,2023,5,Miami International Autodrome,Ocon,8,Alpine F1 Team,0,Sunny
+1309,2023,5,Miami International Autodrome,Magnussen,4,Haas F1 Team,0,Sunny
+1310,2023,5,Miami International Autodrome,Tsunoda,17,AlphaTauri,0,Sunny
+1311,2023,5,Miami International Autodrome,Stroll,18,Aston Martin,0,Sunny
+1312,2023,5,Miami International Autodrome,Bottas,10,Alfa Romeo,0,Sunny
+1313,2023,5,Miami International Autodrome,Albon,11,Williams,0,Sunny
+1314,2023,5,Miami International Autodrome,Hulkenberg,12,Haas F1 Team,0,Sunny
+1315,2023,5,Miami International Autodrome,Zhou,14,Alfa Romeo,0,Sunny
+1316,2023,5,Miami International Autodrome,Norris,16,McLaren,0,Sunny
+1317,2023,5,Miami International Autodrome,de Vries,15,AlphaTauri,0,Sunny
+1318,2023,5,Miami International Autodrome,Piastri,19,McLaren,0,Sunny
+1319,2023,5,Miami International Autodrome,Sargeant,20,Williams,0,Sunny
+1320,2023,6,Circuit de Monaco,Verstappen,1,Red Bull,1,Sunny
+1321,2023,6,Circuit de Monaco,Alonso,2,Aston Martin,0,Sunny
+1322,2023,6,Circuit de Monaco,Ocon,3,Alpine F1 Team,0,Sunny
+1323,2023,6,Circuit de Monaco,Hamilton,5,Mercedes,0,Sunny
+1324,2023,6,Circuit de Monaco,Russell,8,Mercedes,0,Sunny
+1325,2023,6,Circuit de Monaco,Leclerc,6,Ferrari,0,Sunny
+1326,2023,6,Circuit de Monaco,Gasly,7,Alpine F1 Team,0,Sunny
+1327,2023,6,Circuit de Monaco,Sainz,4,Ferrari,0,Sunny
+1328,2023,6,Circuit de Monaco,Norris,10,McLaren,0,Sunny
+1329,2023,6,Circuit de Monaco,Piastri,11,McLaren,0,Sunny
+1330,2023,6,Circuit de Monaco,Bottas,15,Alfa Romeo,0,Sunny
+1331,2023,6,Circuit de Monaco,de Vries,12,AlphaTauri,0,Sunny
+1332,2023,6,Circuit de Monaco,Zhou,19,Alfa Romeo,0,Sunny
+1333,2023,6,Circuit de Monaco,Albon,13,Williams,0,Sunny
+1334,2023,6,Circuit de Monaco,Tsunoda,9,AlphaTauri,0,Sunny
+1335,2023,6,Circuit de Monaco,Perez,20,Red Bull,0,Sunny
+1336,2023,6,Circuit de Monaco,Hulkenberg,18,Haas F1 Team,0,Sunny
+1337,2023,6,Circuit de Monaco,Sargeant,16,Williams,0,Sunny
+1338,2023,6,Circuit de Monaco,Magnussen,17,Haas F1 Team,0,Sunny
+1339,2023,6,Circuit de Monaco,Stroll,14,Aston Martin,0,Sunny
+1340,2023,7,Circuit de Barcelona-Catalunya,Verstappen,1,Red Bull,1,Sunny
+1341,2023,7,Circuit de Barcelona-Catalunya,Hamilton,4,Mercedes,0,Sunny
+1342,2023,7,Circuit de Barcelona-Catalunya,Russell,12,Mercedes,0,Sunny
+1343,2023,7,Circuit de Barcelona-Catalunya,Perez,11,Red Bull,0,Sunny
+1344,2023,7,Circuit de Barcelona-Catalunya,Sainz,2,Ferrari,0,Sunny
+1345,2023,7,Circuit de Barcelona-Catalunya,Stroll,5,Aston Martin,0,Sunny
+1346,2023,7,Circuit de Barcelona-Catalunya,Alonso,8,Aston Martin,0,Sunny
+1347,2023,7,Circuit de Barcelona-Catalunya,Ocon,6,Alpine F1 Team,0,Sunny
+1348,2023,7,Circuit de Barcelona-Catalunya,Zhou,13,Alfa Romeo,0,Sunny
+1349,2023,7,Circuit de Barcelona-Catalunya,Gasly,10,Alpine F1 Team,0,Sunny
+1350,2023,7,Circuit de Barcelona-Catalunya,Leclerc,19,Ferrari,0,Sunny
+1351,2023,7,Circuit de Barcelona-Catalunya,Tsunoda,15,AlphaTauri,0,Sunny
+1352,2023,7,Circuit de Barcelona-Catalunya,Piastri,9,McLaren,0,Sunny
+1353,2023,7,Circuit de Barcelona-Catalunya,de Vries,14,AlphaTauri,0,Sunny
+1354,2023,7,Circuit de Barcelona-Catalunya,Hulkenberg,7,Haas F1 Team,0,Sunny
+1355,2023,7,Circuit de Barcelona-Catalunya,Albon,18,Williams,0,Sunny
+1356,2023,7,Circuit de Barcelona-Catalunya,Norris,3,McLaren,0,Sunny
+1357,2023,7,Circuit de Barcelona-Catalunya,Magnussen,17,Haas F1 Team,0,Sunny
+1358,2023,7,Circuit de Barcelona-Catalunya,Bottas,16,Alfa Romeo,0,Sunny
+1359,2023,7,Circuit de Barcelona-Catalunya,Sargeant,20,Williams,0,Sunny
+1360,2023,8,Circuit Gilles Villeneuve,Verstappen,1,Red Bull,1,Sunny
+1361,2023,8,Circuit Gilles Villeneuve,Alonso,2,Aston Martin,0,Sunny
+1362,2023,8,Circuit Gilles Villeneuve,Hamilton,3,Mercedes,0,Sunny
+1363,2023,8,Circuit Gilles Villeneuve,Leclerc,10,Ferrari,0,Sunny
+1364,2023,8,Circuit Gilles Villeneuve,Sainz,11,Ferrari,0,Sunny
+1365,2023,8,Circuit Gilles Villeneuve,Perez,12,Red Bull,0,Sunny
+1366,2023,8,Circuit Gilles Villeneuve,Albon,9,Williams,0,Sunny
+1367,2023,8,Circuit Gilles Villeneuve,Ocon,6,Alpine F1 Team,0,Sunny
+1368,2023,8,Circuit Gilles Villeneuve,Stroll,16,Aston Martin,0,Sunny
+1369,2023,8,Circuit Gilles Villeneuve,Bottas,14,Alfa Romeo,0,Sunny
+1370,2023,8,Circuit Gilles Villeneuve,Piastri,8,McLaren,0,Sunny
+1371,2023,8,Circuit Gilles Villeneuve,Gasly,15,Alpine F1 Team,0,Sunny
+1372,2023,8,Circuit Gilles Villeneuve,Norris,7,McLaren,0,Sunny
+1373,2023,8,Circuit Gilles Villeneuve,Tsunoda,19,AlphaTauri,0,Sunny
+1374,2023,8,Circuit Gilles Villeneuve,Hulkenberg,5,Haas F1 Team,0,Sunny
+1375,2023,8,Circuit Gilles Villeneuve,Zhou,20,Alfa Romeo,0,Sunny
+1376,2023,8,Circuit Gilles Villeneuve,Magnussen,13,Haas F1 Team,0,Sunny
+1377,2023,8,Circuit Gilles Villeneuve,de Vries,17,AlphaTauri,0,Sunny
+1378,2023,8,Circuit Gilles Villeneuve,Russell,4,Mercedes,0,Sunny
+1379,2023,8,Circuit Gilles Villeneuve,Sargeant,18,Williams,0,Sunny
+1380,2023,9,Red Bull Ring,Verstappen,1,Red Bull,1,Sunny
+1381,2023,9,Red Bull Ring,Leclerc,2,Ferrari,0,Sunny
+1382,2023,9,Red Bull Ring,Perez,15,Red Bull,0,Sunny
+1383,2023,9,Red Bull Ring,Norris,4,McLaren,0,Sunny
+1384,2023,9,Red Bull Ring,Alonso,7,Aston Martin,0,Sunny
+1385,2023,9,Red Bull Ring,Sainz,3,Ferrari,0,Sunny
+1386,2023,9,Red Bull Ring,Russell,11,Mercedes,0,Sunny
+1387,2023,9,Red Bull Ring,Hamilton,5,Mercedes,0,Sunny
+1388,2023,9,Red Bull Ring,Stroll,6,Aston Martin,0,Sunny
+1389,2023,9,Red Bull Ring,Gasly,9,Alpine F1 Team,0,Sunny
+1390,2023,9,Red Bull Ring,Albon,10,Williams,0,Sunny
+1391,2023,9,Red Bull Ring,Zhou,17,Alfa Romeo,0,Sunny
+1392,2023,9,Red Bull Ring,Sargeant,18,Williams,0,Sunny
+1393,2023,9,Red Bull Ring,Ocon,12,Alpine F1 Team,0,Sunny
+1394,2023,9,Red Bull Ring,Bottas,14,Alfa Romeo,0,Sunny
+1395,2023,9,Red Bull Ring,Piastri,13,McLaren,0,Sunny
+1396,2023,9,Red Bull Ring,de Vries,0,AlphaTauri,0,Sunny
+1397,2023,9,Red Bull Ring,Magnussen,0,Haas F1 Team,0,Sunny
+1398,2023,9,Red Bull Ring,Tsunoda,16,AlphaTauri,0,Sunny
+1399,2023,9,Red Bull Ring,Hulkenberg,8,Haas F1 Team,0,Sunny
+1400,2023,10,Silverstone Circuit,Verstappen,1,Red Bull,1,Sunny
+1401,2023,10,Silverstone Circuit,Norris,2,McLaren,0,Sunny
+1402,2023,10,Silverstone Circuit,Hamilton,7,Mercedes,0,Sunny
+1403,2023,10,Silverstone Circuit,Piastri,3,McLaren,0,Sunny
+1404,2023,10,Silverstone Circuit,Russell,6,Mercedes,0,Sunny
+1405,2023,10,Silverstone Circuit,Perez,15,Red Bull,0,Sunny
+1406,2023,10,Silverstone Circuit,Alonso,9,Aston Martin,0,Sunny
+1407,2023,10,Silverstone Circuit,Albon,8,Williams,0,Sunny
+1408,2023,10,Silverstone Circuit,Leclerc,4,Ferrari,0,Sunny
+1409,2023,10,Silverstone Circuit,Sainz,5,Ferrari,0,Sunny
+1410,2023,10,Silverstone Circuit,Sargeant,14,Williams,0,Sunny
+1411,2023,10,Silverstone Circuit,Bottas,20,Alfa Romeo,0,Sunny
+1412,2023,10,Silverstone Circuit,Hulkenberg,11,Haas F1 Team,0,Sunny
+1413,2023,10,Silverstone Circuit,Stroll,12,Aston Martin,0,Sunny
+1414,2023,10,Silverstone Circuit,Zhou,17,Alfa Romeo,0,Sunny
+1415,2023,10,Silverstone Circuit,Tsunoda,16,AlphaTauri,0,Sunny
+1416,2023,10,Silverstone Circuit,de Vries,18,AlphaTauri,0,Sunny
+1417,2023,10,Silverstone Circuit,Gasly,10,Alpine F1 Team,0,Sunny
+1418,2023,10,Silverstone Circuit,Magnussen,19,Haas F1 Team,0,Sunny
+1419,2023,10,Silverstone Circuit,Ocon,13,Alpine F1 Team,0,Sunny
+1420,2023,11,Hungaroring,Verstappen,2,Red Bull,1,Sunny
+1421,2023,11,Hungaroring,Norris,3,McLaren,0,Sunny
+1422,2023,11,Hungaroring,Perez,9,Red Bull,0,Sunny
+1423,2023,11,Hungaroring,Hamilton,1,Mercedes,0,Sunny
+1424,2023,11,Hungaroring,Piastri,4,McLaren,0,Sunny
+1425,2023,11,Hungaroring,Russell,18,Mercedes,0,Sunny
+1426,2023,11,Hungaroring,Leclerc,6,Ferrari,0,Sunny
+1427,2023,11,Hungaroring,Sainz,11,Ferrari,0,Sunny
+1428,2023,11,Hungaroring,Alonso,8,Aston Martin,0,Sunny
+1429,2023,11,Hungaroring,Stroll,14,Aston Martin,0,Sunny
+1430,2023,11,Hungaroring,Albon,16,Williams,0,Sunny
+1431,2023,11,Hungaroring,Bottas,7,Alfa Romeo,0,Sunny
+1432,2023,11,Hungaroring,Ricciardo,13,AlphaTauri,0,Sunny
+1433,2023,11,Hungaroring,Hulkenberg,10,Haas F1 Team,0,Sunny
+1434,2023,11,Hungaroring,Tsunoda,17,AlphaTauri,0,Sunny
+1435,2023,11,Hungaroring,Zhou,5,Alfa Romeo,0,Sunny
+1436,2023,11,Hungaroring,Magnussen,19,Haas F1 Team,0,Sunny
+1437,2023,11,Hungaroring,Sargeant,20,Williams,0,Sunny
+1438,2023,11,Hungaroring,Ocon,12,Alpine F1 Team,0,Sunny
+1439,2023,11,Hungaroring,Gasly,15,Alpine F1 Team,0,Sunny
+1440,2023,12,Circuit de Spa-Francorchamps,Verstappen,6,Red Bull,1,Sunny
+1441,2023,12,Circuit de Spa-Francorchamps,Perez,2,Red Bull,0,Sunny
+1442,2023,12,Circuit de Spa-Francorchamps,Leclerc,1,Ferrari,0,Sunny
+1443,2023,12,Circuit de Spa-Francorchamps,Hamilton,3,Mercedes,0,Sunny
+1444,2023,12,Circuit de Spa-Francorchamps,Alonso,9,Aston Martin,0,Sunny
+1445,2023,12,Circuit de Spa-Francorchamps,Russell,8,Mercedes,0,Sunny
+1446,2023,12,Circuit de Spa-Francorchamps,Norris,7,McLaren,0,Sunny
+1447,2023,12,Circuit de Spa-Francorchamps,Ocon,14,Alpine F1 Team,0,Sunny
+1448,2023,12,Circuit de Spa-Francorchamps,Stroll,10,Aston Martin,0,Sunny
+1449,2023,12,Circuit de Spa-Francorchamps,Tsunoda,11,AlphaTauri,0,Sunny
+1450,2023,12,Circuit de Spa-Francorchamps,Gasly,12,Alpine F1 Team,0,Sunny
+1451,2023,12,Circuit de Spa-Francorchamps,Bottas,13,Alfa Romeo,0,Sunny
+1452,2023,12,Circuit de Spa-Francorchamps,Zhou,17,Alfa Romeo,0,Sunny
+1453,2023,12,Circuit de Spa-Francorchamps,Albon,15,Williams,0,Sunny
+1454,2023,12,Circuit de Spa-Francorchamps,Magnussen,16,Haas F1 Team,0,Sunny
+1455,2023,12,Circuit de Spa-Francorchamps,Ricciardo,19,AlphaTauri,0,Sunny
+1456,2023,12,Circuit de Spa-Francorchamps,Sargeant,18,Williams,0,Sunny
+1457,2023,12,Circuit de Spa-Francorchamps,Hulkenberg,0,Haas F1 Team,0,Sunny
+1458,2023,12,Circuit de Spa-Francorchamps,Sainz,4,Ferrari,0,Sunny
+1459,2023,12,Circuit de Spa-Francorchamps,Piastri,5,McLaren,0,Sunny
+1460,2023,13,Circuit Park Zandvoort,Verstappen,1,Red Bull,1,Sunny
+1461,2023,13,Circuit Park Zandvoort,Alonso,5,Aston Martin,0,Sunny
+1462,2023,13,Circuit Park Zandvoort,Gasly,12,Alpine F1 Team,0,Sunny
+1463,2023,13,Circuit Park Zandvoort,Perez,7,Red Bull,0,Sunny
+1464,2023,13,Circuit Park Zandvoort,Sainz,6,Ferrari,0,Sunny
+1465,2023,13,Circuit Park Zandvoort,Hamilton,13,Mercedes,0,Sunny
+1466,2023,13,Circuit Park Zandvoort,Norris,2,McLaren,0,Sunny
+1467,2023,13,Circuit Park Zandvoort,Albon,4,Williams,0,Sunny
+1468,2023,13,Circuit Park Zandvoort,Piastri,8,McLaren,0,Sunny
+1469,2023,13,Circuit Park Zandvoort,Ocon,16,Alpine F1 Team,0,Sunny
+1470,2023,13,Circuit Park Zandvoort,Stroll,11,Aston Martin,0,Sunny
+1471,2023,13,Circuit Park Zandvoort,Hulkenberg,14,Haas F1 Team,0,Sunny
+1472,2023,13,Circuit Park Zandvoort,Lawson,19,AlphaTauri,0,Sunny
+1473,2023,13,Circuit Park Zandvoort,Bottas,18,Alfa Romeo,0,Sunny
+1474,2023,13,Circuit Park Zandvoort,Tsunoda,17,AlphaTauri,0,Sunny
+1475,2023,13,Circuit Park Zandvoort,Magnussen,0,Haas F1 Team,0,Sunny
+1476,2023,13,Circuit Park Zandvoort,Russell,3,Mercedes,0,Sunny
+1477,2023,13,Circuit Park Zandvoort,Zhou,15,Alfa Romeo,0,Sunny
+1478,2023,13,Circuit Park Zandvoort,Leclerc,9,Ferrari,0,Sunny
+1479,2023,13,Circuit Park Zandvoort,Sargeant,10,Williams,0,Sunny
+1480,2023,14,Autodromo Nazionale di Monza,Verstappen,2,Red Bull,1,Sunny
+1481,2023,14,Autodromo Nazionale di Monza,Perez,5,Red Bull,0,Sunny
+1482,2023,14,Autodromo Nazionale di Monza,Sainz,1,Ferrari,0,Sunny
+1483,2023,14,Autodromo Nazionale di Monza,Leclerc,3,Ferrari,0,Sunny
+1484,2023,14,Autodromo Nazionale di Monza,Russell,4,Mercedes,0,Sunny
+1485,2023,14,Autodromo Nazionale di Monza,Hamilton,8,Mercedes,0,Sunny
+1486,2023,14,Autodromo Nazionale di Monza,Albon,6,Williams,0,Sunny
+1487,2023,14,Autodromo Nazionale di Monza,Norris,9,McLaren,0,Sunny
+1488,2023,14,Autodromo Nazionale di Monza,Alonso,10,Aston Martin,0,Sunny
+1489,2023,14,Autodromo Nazionale di Monza,Bottas,14,Alfa Romeo,0,Sunny
+1490,2023,14,Autodromo Nazionale di Monza,Lawson,12,AlphaTauri,0,Sunny
+1491,2023,14,Autodromo Nazionale di Monza,Piastri,7,McLaren,0,Sunny
+1492,2023,14,Autodromo Nazionale di Monza,Sargeant,15,Williams,0,Sunny
+1493,2023,14,Autodromo Nazionale di Monza,Zhou,16,Alfa Romeo,0,Sunny
+1494,2023,14,Autodromo Nazionale di Monza,Gasly,17,Alpine F1 Team,0,Sunny
+1495,2023,14,Autodromo Nazionale di Monza,Stroll,20,Aston Martin,0,Sunny
+1496,2023,14,Autodromo Nazionale di Monza,Hulkenberg,13,Haas F1 Team,0,Sunny
+1497,2023,14,Autodromo Nazionale di Monza,Magnussen,19,Haas F1 Team,0,Sunny
+1498,2023,14,Autodromo Nazionale di Monza,Ocon,18,Alpine F1 Team,0,Sunny
+1499,2023,14,Autodromo Nazionale di Monza,Tsunoda,11,AlphaTauri,0,Sunny
+1500,2023,15,Marina Bay Street Circuit,Sainz,1,Ferrari,1,Sunny
+1501,2023,15,Marina Bay Street Circuit,Norris,4,McLaren,0,Sunny
+1502,2023,15,Marina Bay Street Circuit,Hamilton,5,Mercedes,0,Sunny
+1503,2023,15,Marina Bay Street Circuit,Leclerc,3,Ferrari,0,Sunny
+1504,2023,15,Marina Bay Street Circuit,Verstappen,11,Red Bull,0,Sunny
+1505,2023,15,Marina Bay Street Circuit,Gasly,12,Alpine F1 Team,0,Sunny
+1506,2023,15,Marina Bay Street Circuit,Piastri,17,McLaren,0,Sunny
+1507,2023,15,Marina Bay Street Circuit,Perez,13,Red Bull,0,Sunny
+1508,2023,15,Marina Bay Street Circuit,Lawson,10,AlphaTauri,0,Sunny
+1509,2023,15,Marina Bay Street Circuit,Magnussen,6,Haas F1 Team,0,Sunny
+1510,2023,15,Marina Bay Street Circuit,Albon,14,Williams,0,Sunny
+1511,2023,15,Marina Bay Street Circuit,Zhou,0,Alfa Romeo,0,Sunny
+1512,2023,15,Marina Bay Street Circuit,Hulkenberg,9,Haas F1 Team,0,Sunny
+1513,2023,15,Marina Bay Street Circuit,Sargeant,18,Williams,0,Sunny
+1514,2023,15,Marina Bay Street Circuit,Alonso,7,Aston Martin,0,Sunny
+1515,2023,15,Marina Bay Street Circuit,Russell,2,Mercedes,0,Sunny
+1516,2023,15,Marina Bay Street Circuit,Bottas,16,Alfa Romeo,0,Sunny
+1517,2023,15,Marina Bay Street Circuit,Ocon,8,Alpine F1 Team,0,Sunny
+1518,2023,15,Marina Bay Street Circuit,Tsunoda,15,AlphaTauri,0,Sunny
+1519,2023,15,Marina Bay Street Circuit,Stroll,0,Aston Martin,0,Sunny
+1520,2023,16,Suzuka Circuit,Verstappen,1,Red Bull,1,Sunny
+1521,2023,16,Suzuka Circuit,Norris,3,McLaren,0,Sunny
+1522,2023,16,Suzuka Circuit,Piastri,2,McLaren,0,Sunny
+1523,2023,16,Suzuka Circuit,Leclerc,4,Ferrari,0,Sunny
+1524,2023,16,Suzuka Circuit,Hamilton,7,Mercedes,0,Sunny
+1525,2023,16,Suzuka Circuit,Sainz,6,Ferrari,0,Sunny
+1526,2023,16,Suzuka Circuit,Russell,8,Mercedes,0,Sunny
+1527,2023,16,Suzuka Circuit,Alonso,10,Aston Martin,0,Sunny
+1528,2023,16,Suzuka Circuit,Ocon,14,Alpine F1 Team,0,Sunny
+1529,2023,16,Suzuka Circuit,Gasly,12,Alpine F1 Team,0,Sunny
+1530,2023,16,Suzuka Circuit,Lawson,11,AlphaTauri,0,Sunny
+1531,2023,16,Suzuka Circuit,Tsunoda,9,AlphaTauri,0,Sunny
+1532,2023,16,Suzuka Circuit,Zhou,19,Alfa Romeo,0,Sunny
+1533,2023,16,Suzuka Circuit,Hulkenberg,18,Haas F1 Team,0,Sunny
+1534,2023,16,Suzuka Circuit,Magnussen,15,Haas F1 Team,0,Sunny
+1535,2023,16,Suzuka Circuit,Albon,13,Williams,0,Sunny
+1536,2023,16,Suzuka Circuit,Sargeant,0,Williams,0,Sunny
+1537,2023,16,Suzuka Circuit,Stroll,17,Aston Martin,0,Sunny
+1538,2023,16,Suzuka Circuit,Perez,5,Red Bull,0,Sunny
+1539,2023,16,Suzuka Circuit,Bottas,16,Alfa Romeo,0,Sunny
+1540,2023,17,Losail International Circuit,Verstappen,1,Red Bull,1,Sunny
+1541,2023,17,Losail International Circuit,Piastri,6,McLaren,0,Sunny
+1542,2023,17,Losail International Circuit,Norris,10,McLaren,0,Sunny
+1543,2023,17,Losail International Circuit,Russell,2,Mercedes,0,Sunny
+1544,2023,17,Losail International Circuit,Leclerc,5,Ferrari,0,Sunny
+1545,2023,17,Losail International Circuit,Alonso,4,Aston Martin,0,Sunny
+1546,2023,17,Losail International Circuit,Ocon,8,Alpine F1 Team,0,Sunny
+1547,2023,17,Losail International Circuit,Bottas,9,Alfa Romeo,0,Sunny
+1548,2023,17,Losail International Circuit,Zhou,19,Alfa Romeo,0,Sunny
+1549,2023,17,Losail International Circuit,Perez,0,Red Bull,0,Sunny
+1550,2023,17,Losail International Circuit,Stroll,16,Aston Martin,0,Sunny
+1551,2023,17,Losail International Circuit,Gasly,7,Alpine F1 Team,0,Sunny
+1552,2023,17,Losail International Circuit,Albon,13,Williams,0,Sunny
+1553,2023,17,Losail International Circuit,Magnussen,18,Haas F1 Team,0,Sunny
+1554,2023,17,Losail International Circuit,Tsunoda,11,AlphaTauri,0,Sunny
+1555,2023,17,Losail International Circuit,Hulkenberg,14,Haas F1 Team,0,Sunny
+1556,2023,17,Losail International Circuit,Lawson,17,AlphaTauri,0,Sunny
+1557,2023,17,Losail International Circuit,Sargeant,15,Williams,0,Sunny
+1558,2023,17,Losail International Circuit,Hamilton,3,Mercedes,0,Sunny
+1559,2023,17,Losail International Circuit,Sainz,12,Ferrari,0,Sunny
+1560,2023,18,Circuit of the Americas,Verstappen,6,Red Bull,1,Sunny
+1561,2023,18,Circuit of the Americas,Norris,2,McLaren,0,Sunny
+1562,2023,18,Circuit of the Americas,Sainz,4,Ferrari,0,Sunny
+1563,2023,18,Circuit of the Americas,Perez,9,Red Bull,0,Sunny
+1564,2023,18,Circuit of the Americas,Russell,5,Mercedes,0,Sunny
+1565,2023,18,Circuit of the Americas,Gasly,7,Alpine F1 Team,0,Sunny
+1566,2023,18,Circuit of the Americas,Stroll,0,Aston Martin,0,Sunny
+1567,2023,18,Circuit of the Americas,Tsunoda,11,AlphaTauri,0,Sunny
+1568,2023,18,Circuit of the Americas,Albon,15,Williams,0,Sunny
+1569,2023,18,Circuit of the Americas,Sargeant,16,Williams,0,Sunny
+1570,2023,18,Circuit of the Americas,Hulkenberg,0,Haas F1 Team,0,Sunny
+1571,2023,18,Circuit of the Americas,Bottas,13,Alfa Romeo,0,Sunny
+1572,2023,18,Circuit of the Americas,Zhou,12,Alfa Romeo,0,Sunny
+1573,2023,18,Circuit of the Americas,Magnussen,0,Haas F1 Team,0,Sunny
+1574,2023,18,Circuit of the Americas,Ricciardo,14,AlphaTauri,0,Sunny
+1575,2023,18,Circuit of the Americas,Alonso,0,Aston Martin,0,Sunny
+1576,2023,18,Circuit of the Americas,Piastri,10,McLaren,0,Sunny
+1577,2023,18,Circuit of the Americas,Ocon,8,Alpine F1 Team,0,Sunny
+1578,2023,18,Circuit of the Americas,Hamilton,3,Mercedes,0,Sunny
+1579,2023,18,Circuit of the Americas,Leclerc,1,Ferrari,0,Sunny
+1580,2023,19,Autodromo Hermanos Rodriguez,Verstappen,3,Red Bull,1,Sunny
+1581,2023,19,Autodromo Hermanos Rodriguez,Hamilton,6,Mercedes,0,Sunny
+1582,2023,19,Autodromo Hermanos Rodriguez,Leclerc,1,Ferrari,0,Sunny
+1583,2023,19,Autodromo Hermanos Rodriguez,Sainz,2,Ferrari,0,Sunny
+1584,2023,19,Autodromo Hermanos Rodriguez,Norris,17,McLaren,0,Sunny
+1585,2023,19,Autodromo Hermanos Rodriguez,Russell,8,Mercedes,0,Sunny
+1586,2023,19,Autodromo Hermanos Rodriguez,Ricciardo,4,AlphaTauri,0,Sunny
+1587,2023,19,Autodromo Hermanos Rodriguez,Piastri,7,McLaren,0,Sunny
+1588,2023,19,Autodromo Hermanos Rodriguez,Albon,14,Williams,0,Sunny
+1589,2023,19,Autodromo Hermanos Rodriguez,Ocon,15,Alpine F1 Team,0,Sunny
+1590,2023,19,Autodromo Hermanos Rodriguez,Gasly,11,Alpine F1 Team,0,Sunny
+1591,2023,19,Autodromo Hermanos Rodriguez,Tsunoda,18,AlphaTauri,0,Sunny
+1592,2023,19,Autodromo Hermanos Rodriguez,Hulkenberg,12,Haas F1 Team,0,Sunny
+1593,2023,19,Autodromo Hermanos Rodriguez,Zhou,10,Alfa Romeo,0,Sunny
+1594,2023,19,Autodromo Hermanos Rodriguez,Bottas,9,Alfa Romeo,0,Sunny
+1595,2023,19,Autodromo Hermanos Rodriguez,Sargeant,19,Williams,0,Sunny
+1596,2023,19,Autodromo Hermanos Rodriguez,Stroll,0,Aston Martin,0,Sunny
+1597,2023,19,Autodromo Hermanos Rodriguez,Alonso,13,Aston Martin,0,Sunny
+1598,2023,19,Autodromo Hermanos Rodriguez,Magnussen,16,Haas F1 Team,0,Sunny
+1599,2023,19,Autodromo Hermanos Rodriguez,Perez,5,Red Bull,0,Sunny
+1600,2023,20,Autodromo Jose Carlos Pace,Verstappen,1,Red Bull,1,Sunny
+1601,2023,20,Autodromo Jose Carlos Pace,Norris,6,McLaren,0,Sunny
+1602,2023,20,Autodromo Jose Carlos Pace,Alonso,4,Aston Martin,0,Sunny
+1603,2023,20,Autodromo Jose Carlos Pace,Perez,9,Red Bull,0,Sunny
+1604,2023,20,Autodromo Jose Carlos Pace,Stroll,3,Aston Martin,0,Sunny
+1605,2023,20,Autodromo Jose Carlos Pace,Sainz,7,Ferrari,0,Sunny
+1606,2023,20,Autodromo Jose Carlos Pace,Gasly,15,Alpine F1 Team,0,Sunny
+1607,2023,20,Autodromo Jose Carlos Pace,Hamilton,5,Mercedes,0,Sunny
+1608,2023,20,Autodromo Jose Carlos Pace,Tsunoda,16,AlphaTauri,0,Sunny
+1609,2023,20,Autodromo Jose Carlos Pace,Ocon,14,Alpine F1 Team,0,Sunny
+1610,2023,20,Autodromo Jose Carlos Pace,Sargeant,19,Williams,0,Sunny
+1611,2023,20,Autodromo Jose Carlos Pace,Hulkenberg,11,Haas F1 Team,0,Sunny
+1612,2023,20,Autodromo Jose Carlos Pace,Ricciardo,17,AlphaTauri,0,Sunny
+1613,2023,20,Autodromo Jose Carlos Pace,Piastri,10,McLaren,0,Sunny
+1614,2023,20,Autodromo Jose Carlos Pace,Russell,8,Mercedes,0,Sunny
+1615,2023,20,Autodromo Jose Carlos Pace,Bottas,18,Alfa Romeo,0,Sunny
+1616,2023,20,Autodromo Jose Carlos Pace,Zhou,20,Alfa Romeo,0,Sunny
+1617,2023,20,Autodromo Jose Carlos Pace,Magnussen,12,Haas F1 Team,0,Sunny
+1618,2023,20,Autodromo Jose Carlos Pace,Albon,13,Williams,0,Sunny
+1619,2023,20,Autodromo Jose Carlos Pace,Leclerc,0,Ferrari,0,Sunny
+1620,2023,21,Las Vegas Strip Street Circuit,Verstappen,2,Red Bull,1,Sunny
+1621,2023,21,Las Vegas Strip Street Circuit,Leclerc,1,Ferrari,0,Sunny
+1622,2023,21,Las Vegas Strip Street Circuit,Perez,11,Red Bull,0,Sunny
+1623,2023,21,Las Vegas Strip Street Circuit,Ocon,16,Alpine F1 Team,0,Sunny
+1624,2023,21,Las Vegas Strip Street Circuit,Stroll,19,Aston Martin,0,Sunny
+1625,2023,21,Las Vegas Strip Street Circuit,Sainz,12,Ferrari,0,Sunny
+1626,2023,21,Las Vegas Strip Street Circuit,Hamilton,10,Mercedes,0,Sunny
+1627,2023,21,Las Vegas Strip Street Circuit,Russell,3,Mercedes,0,Sunny
+1628,2023,21,Las Vegas Strip Street Circuit,Alonso,9,Aston Martin,0,Sunny
+1629,2023,21,Las Vegas Strip Street Circuit,Piastri,18,McLaren,0,Sunny
+1630,2023,21,Las Vegas Strip Street Circuit,Gasly,4,Alpine F1 Team,0,Sunny
+1631,2023,21,Las Vegas Strip Street Circuit,Albon,5,Williams,0,Sunny
+1632,2023,21,Las Vegas Strip Street Circuit,Magnussen,8,Haas F1 Team,0,Sunny
+1633,2023,21,Las Vegas Strip Street Circuit,Ricciardo,14,AlphaTauri,0,Sunny
+1634,2023,21,Las Vegas Strip Street Circuit,Zhou,17,Alfa Romeo,0,Sunny
+1635,2023,21,Las Vegas Strip Street Circuit,Sargeant,6,Williams,0,Sunny
+1636,2023,21,Las Vegas Strip Street Circuit,Bottas,7,Alfa Romeo,0,Sunny
+1637,2023,21,Las Vegas Strip Street Circuit,Tsunoda,20,AlphaTauri,0,Sunny
+1638,2023,21,Las Vegas Strip Street Circuit,Hulkenberg,13,Haas F1 Team,0,Sunny
+1639,2023,21,Las Vegas Strip Street Circuit,Norris,15,McLaren,0,Sunny
+1640,2023,22,Yas Marina Circuit,Verstappen,1,Red Bull,1,Sunny
+1641,2023,22,Yas Marina Circuit,Leclerc,2,Ferrari,0,Sunny
+1642,2023,22,Yas Marina Circuit,Russell,4,Mercedes,0,Sunny
+1643,2023,22,Yas Marina Circuit,Perez,9,Red Bull,0,Sunny
+1644,2023,22,Yas Marina Circuit,Norris,5,McLaren,0,Sunny
+1645,2023,22,Yas Marina Circuit,Piastri,3,McLaren,0,Sunny
+1646,2023,22,Yas Marina Circuit,Alonso,7,Aston Martin,0,Sunny
+1647,2023,22,Yas Marina Circuit,Tsunoda,6,AlphaTauri,0,Sunny
+1648,2023,22,Yas Marina Circuit,Hamilton,11,Mercedes,0,Sunny
+1649,2023,22,Yas Marina Circuit,Stroll,13,Aston Martin,0,Sunny
+1650,2023,22,Yas Marina Circuit,Ricciardo,15,AlphaTauri,0,Sunny
+1651,2023,22,Yas Marina Circuit,Ocon,12,Alpine F1 Team,0,Sunny
+1652,2023,22,Yas Marina Circuit,Gasly,10,Alpine F1 Team,0,Sunny
+1653,2023,22,Yas Marina Circuit,Albon,14,Williams,0,Sunny
+1654,2023,22,Yas Marina Circuit,Hulkenberg,8,Haas F1 Team,0,Sunny
+1655,2023,22,Yas Marina Circuit,Sargeant,20,Williams,0,Sunny
+1656,2023,22,Yas Marina Circuit,Zhou,19,Alfa Romeo,0,Sunny
+1657,2023,22,Yas Marina Circuit,Sainz,16,Ferrari,0,Sunny
+1658,2023,22,Yas Marina Circuit,Bottas,18,Alfa Romeo,0,Sunny
+1659,2023,22,Yas Marina Circuit,Magnussen,17,Haas F1 Team,0,Sunny
+1660,2024,1,Bahrain International Circuit,Verstappen,1,Red Bull,1,Sunny
+1661,2024,1,Bahrain International Circuit,Perez,5,Red Bull,0,Sunny
+1662,2024,1,Bahrain International Circuit,Sainz,4,Ferrari,0,Sunny
+1663,2024,1,Bahrain International Circuit,Leclerc,2,Ferrari,0,Sunny
+1664,2024,1,Bahrain International Circuit,Russell,3,Mercedes,0,Sunny
+1665,2024,1,Bahrain International Circuit,Norris,7,McLaren,0,Sunny
+1666,2024,1,Bahrain International Circuit,Hamilton,9,Mercedes,0,Sunny
+1667,2024,1,Bahrain International Circuit,Piastri,8,McLaren,0,Sunny
+1668,2024,1,Bahrain International Circuit,Alonso,6,Aston Martin,0,Sunny
+1669,2024,1,Bahrain International Circuit,Stroll,12,Aston Martin,0,Sunny
+1670,2024,1,Bahrain International Circuit,Zhou,17,Sauber,0,Sunny
+1671,2024,1,Bahrain International Circuit,Magnussen,15,Haas F1 Team,0,Sunny
+1672,2024,1,Bahrain International Circuit,Ricciardo,14,RB F1 Team,0,Sunny
+1673,2024,1,Bahrain International Circuit,Tsunoda,11,RB F1 Team,0,Sunny
+1674,2024,1,Bahrain International Circuit,Albon,13,Williams,0,Sunny
+1675,2024,1,Bahrain International Circuit,Hulkenberg,10,Haas F1 Team,0,Sunny
+1676,2024,1,Bahrain International Circuit,Ocon,19,Alpine F1 Team,0,Sunny
+1677,2024,1,Bahrain International Circuit,Gasly,20,Alpine F1 Team,0,Sunny
+1678,2024,1,Bahrain International Circuit,Bottas,16,Sauber,0,Sunny
+1679,2024,1,Bahrain International Circuit,Sargeant,18,Williams,0,Sunny
+1680,2024,2,Jeddah Corniche Circuit,Verstappen,1,Red Bull,1,Sunny
+1681,2024,2,Jeddah Corniche Circuit,Perez,3,Red Bull,0,Sunny
+1682,2024,2,Jeddah Corniche Circuit,Leclerc,2,Ferrari,0,Sunny
+1683,2024,2,Jeddah Corniche Circuit,Piastri,5,McLaren,0,Sunny
+1684,2024,2,Jeddah Corniche Circuit,Alonso,4,Aston Martin,0,Sunny
+1685,2024,2,Jeddah Corniche Circuit,Russell,7,Mercedes,0,Sunny
+1686,2024,2,Jeddah Corniche Circuit,Bearman,11,Ferrari,0,Sunny
+1687,2024,2,Jeddah Corniche Circuit,Norris,6,McLaren,0,Sunny
+1688,2024,2,Jeddah Corniche Circuit,Hamilton,8,Mercedes,0,Sunny
+1689,2024,2,Jeddah Corniche Circuit,Hulkenberg,15,Haas F1 Team,0,Sunny
+1690,2024,2,Jeddah Corniche Circuit,Albon,12,Williams,0,Sunny
+1691,2024,2,Jeddah Corniche Circuit,Magnussen,13,Haas F1 Team,0,Sunny
+1692,2024,2,Jeddah Corniche Circuit,Ocon,17,Alpine F1 Team,0,Sunny
+1693,2024,2,Jeddah Corniche Circuit,Sargeant,19,Williams,0,Sunny
+1694,2024,2,Jeddah Corniche Circuit,Tsunoda,9,RB F1 Team,0,Sunny
+1695,2024,2,Jeddah Corniche Circuit,Ricciardo,14,RB F1 Team,0,Sunny
+1696,2024,2,Jeddah Corniche Circuit,Bottas,16,Sauber,0,Sunny
+1697,2024,2,Jeddah Corniche Circuit,Zhou,20,Sauber,0,Sunny
+1698,2024,2,Jeddah Corniche Circuit,Stroll,10,Aston Martin,0,Sunny
+1699,2024,2,Jeddah Corniche Circuit,Gasly,18,Alpine F1 Team,0,Sunny
+1700,2024,3,Albert Park Grand Prix Circuit,Sainz,2,Ferrari,1,Sunny
+1701,2024,3,Albert Park Grand Prix Circuit,Leclerc,4,Ferrari,0,Sunny
+1702,2024,3,Albert Park Grand Prix Circuit,Norris,3,McLaren,0,Sunny
+1703,2024,3,Albert Park Grand Prix Circuit,Piastri,5,McLaren,0,Sunny
+1704,2024,3,Albert Park Grand Prix Circuit,Perez,6,Red Bull,0,Sunny
+1705,2024,3,Albert Park Grand Prix Circuit,Stroll,9,Aston Martin,0,Sunny
+1706,2024,3,Albert Park Grand Prix Circuit,Tsunoda,8,RB F1 Team,0,Sunny
+1707,2024,3,Albert Park Grand Prix Circuit,Alonso,10,Aston Martin,0,Sunny
+1708,2024,3,Albert Park Grand Prix Circuit,Hulkenberg,16,Haas F1 Team,0,Sunny
+1709,2024,3,Albert Park Grand Prix Circuit,Magnussen,14,Haas F1 Team,0,Sunny
+1710,2024,3,Albert Park Grand Prix Circuit,Albon,12,Williams,0,Sunny
+1711,2024,3,Albert Park Grand Prix Circuit,Ricciardo,18,RB F1 Team,0,Sunny
+1712,2024,3,Albert Park Grand Prix Circuit,Gasly,17,Alpine F1 Team,0,Sunny
+1713,2024,3,Albert Park Grand Prix Circuit,Bottas,13,Sauber,0,Sunny
+1714,2024,3,Albert Park Grand Prix Circuit,Zhou,19,Sauber,0,Sunny
+1715,2024,3,Albert Park Grand Prix Circuit,Ocon,15,Alpine F1 Team,0,Sunny
+1716,2024,3,Albert Park Grand Prix Circuit,Russell,7,Mercedes,0,Sunny
+1717,2024,3,Albert Park Grand Prix Circuit,Hamilton,11,Mercedes,0,Sunny
+1718,2024,3,Albert Park Grand Prix Circuit,Verstappen,1,Red Bull,0,Sunny
+1719,2024,4,Suzuka Circuit,Verstappen,1,Red Bull,1,Sunny
+1720,2024,4,Suzuka Circuit,Perez,2,Red Bull,0,Sunny
+1721,2024,4,Suzuka Circuit,Sainz,4,Ferrari,0,Sunny
+1722,2024,4,Suzuka Circuit,Leclerc,8,Ferrari,0,Sunny
+1723,2024,4,Suzuka Circuit,Norris,3,McLaren,0,Sunny
+1724,2024,4,Suzuka Circuit,Alonso,5,Aston Martin,0,Sunny
+1725,2024,4,Suzuka Circuit,Russell,9,Mercedes,0,Sunny
+1726,2024,4,Suzuka Circuit,Piastri,6,McLaren,0,Sunny
+1727,2024,4,Suzuka Circuit,Hamilton,7,Mercedes,0,Sunny
+1728,2024,4,Suzuka Circuit,Tsunoda,10,RB F1 Team,0,Sunny
+1729,2024,4,Suzuka Circuit,Hulkenberg,12,Haas F1 Team,0,Sunny
+1730,2024,4,Suzuka Circuit,Stroll,16,Aston Martin,0,Sunny
+1731,2024,4,Suzuka Circuit,Magnussen,18,Haas F1 Team,0,Sunny
+1732,2024,4,Suzuka Circuit,Bottas,13,Sauber,0,Sunny
+1733,2024,4,Suzuka Circuit,Ocon,15,Alpine F1 Team,0,Sunny
+1734,2024,4,Suzuka Circuit,Gasly,17,Alpine F1 Team,0,Sunny
+1735,2024,4,Suzuka Circuit,Sargeant,19,Williams,0,Sunny
+1736,2024,4,Suzuka Circuit,Zhou,20,Sauber,0,Sunny
+1737,2024,4,Suzuka Circuit,Ricciardo,11,RB F1 Team,0,Sunny
+1738,2024,4,Suzuka Circuit,Albon,14,Williams,0,Sunny
+1739,2024,5,Shanghai International Circuit,Verstappen,1,Red Bull,1,Sunny
+1740,2024,5,Shanghai International Circuit,Norris,4,McLaren,0,Sunny
+1741,2024,5,Shanghai International Circuit,Perez,2,Red Bull,0,Sunny
+1742,2024,5,Shanghai International Circuit,Leclerc,6,Ferrari,0,Sunny
+1743,2024,5,Shanghai International Circuit,Sainz,7,Ferrari,0,Sunny
+1744,2024,5,Shanghai International Circuit,Russell,8,Mercedes,0,Sunny
+1745,2024,5,Shanghai International Circuit,Alonso,3,Aston Martin,0,Sunny
+1746,2024,5,Shanghai International Circuit,Piastri,5,McLaren,0,Sunny
+1747,2024,5,Shanghai International Circuit,Hamilton,18,Mercedes,0,Sunny
+1748,2024,5,Shanghai International Circuit,Hulkenberg,9,Haas F1 Team,0,Sunny
+1749,2024,5,Shanghai International Circuit,Ocon,13,Alpine F1 Team,0,Sunny
+1750,2024,5,Shanghai International Circuit,Albon,14,Williams,0,Sunny
+1751,2024,5,Shanghai International Circuit,Gasly,15,Alpine F1 Team,0,Sunny
+1752,2024,5,Shanghai International Circuit,Zhou,16,Sauber,0,Sunny
+1753,2024,5,Shanghai International Circuit,Stroll,11,Aston Martin,0,Sunny
+1754,2024,5,Shanghai International Circuit,Magnussen,17,Haas F1 Team,0,Sunny
+1755,2024,5,Shanghai International Circuit,Sargeant,20,Williams,0,Sunny
+1756,2024,5,Shanghai International Circuit,Ricciardo,12,RB F1 Team,0,Sunny
+1757,2024,5,Shanghai International Circuit,Tsunoda,19,RB F1 Team,0,Sunny
+1758,2024,5,Shanghai International Circuit,Bottas,10,Sauber,0,Sunny
+1759,2024,6,Miami International Autodrome,Norris,5,McLaren,1,Sunny
+1760,2024,6,Miami International Autodrome,Verstappen,1,Red Bull,0,Sunny
+1761,2024,6,Miami International Autodrome,Leclerc,2,Ferrari,0,Sunny
+1762,2024,6,Miami International Autodrome,Perez,4,Red Bull,0,Sunny
+1763,2024,6,Miami International Autodrome,Sainz,3,Ferrari,0,Sunny
+1764,2024,6,Miami International Autodrome,Hamilton,8,Mercedes,0,Sunny
+1765,2024,6,Miami International Autodrome,Tsunoda,10,RB F1 Team,0,Sunny
+1766,2024,6,Miami International Autodrome,Russell,7,Mercedes,0,Sunny
+1767,2024,6,Miami International Autodrome,Alonso,15,Aston Martin,0,Sunny
+1768,2024,6,Miami International Autodrome,Ocon,13,Alpine F1 Team,0,Sunny
+1769,2024,6,Miami International Autodrome,Hulkenberg,9,Haas F1 Team,0,Sunny
+1770,2024,6,Miami International Autodrome,Gasly,12,Alpine F1 Team,0,Sunny
+1771,2024,6,Miami International Autodrome,Piastri,6,McLaren,0,Sunny
+1772,2024,6,Miami International Autodrome,Zhou,19,Sauber,0,Sunny
+1773,2024,6,Miami International Autodrome,Ricciardo,20,RB F1 Team,0,Sunny
+1774,2024,6,Miami International Autodrome,Bottas,16,Sauber,0,Sunny
+1775,2024,6,Miami International Autodrome,Stroll,11,Aston Martin,0,Sunny
+1776,2024,6,Miami International Autodrome,Albon,14,Williams,0,Sunny
+1777,2024,6,Miami International Autodrome,Magnussen,18,Haas F1 Team,0,Sunny
+1778,2024,6,Miami International Autodrome,Sargeant,17,Williams,0,Sunny
+1779,2024,7,Autodromo Enzo e Dino Ferrari,Verstappen,1,Red Bull,1,Sunny
+1780,2024,7,Autodromo Enzo e Dino Ferrari,Norris,2,McLaren,0,Sunny
+1781,2024,7,Autodromo Enzo e Dino Ferrari,Leclerc,3,Ferrari,0,Sunny
+1782,2024,7,Autodromo Enzo e Dino Ferrari,Piastri,5,McLaren,0,Sunny
+1783,2024,7,Autodromo Enzo e Dino Ferrari,Sainz,4,Ferrari,0,Sunny
+1784,2024,7,Autodromo Enzo e Dino Ferrari,Hamilton,8,Mercedes,0,Sunny
+1785,2024,7,Autodromo Enzo e Dino Ferrari,Russell,6,Mercedes,0,Sunny
+1786,2024,7,Autodromo Enzo e Dino Ferrari,Perez,11,Red Bull,0,Sunny
+1787,2024,7,Autodromo Enzo e Dino Ferrari,Stroll,13,Aston Martin,0,Sunny
+1788,2024,7,Autodromo Enzo e Dino Ferrari,Tsunoda,7,RB F1 Team,0,Sunny
+1789,2024,7,Autodromo Enzo e Dino Ferrari,Hulkenberg,10,Haas F1 Team,0,Sunny
+1790,2024,7,Autodromo Enzo e Dino Ferrari,Magnussen,18,Haas F1 Team,0,Sunny
+1791,2024,7,Autodromo Enzo e Dino Ferrari,Ricciardo,9,RB F1 Team,0,Sunny
+1792,2024,7,Autodromo Enzo e Dino Ferrari,Ocon,12,Alpine F1 Team,0,Sunny
+1793,2024,7,Autodromo Enzo e Dino Ferrari,Zhou,17,Sauber,0,Sunny
+1794,2024,7,Autodromo Enzo e Dino Ferrari,Gasly,15,Alpine F1 Team,0,Sunny
+1795,2024,7,Autodromo Enzo e Dino Ferrari,Sargeant,19,Williams,0,Sunny
+1796,2024,7,Autodromo Enzo e Dino Ferrari,Bottas,16,Sauber,0,Sunny
+1797,2024,7,Autodromo Enzo e Dino Ferrari,Alonso,20,Aston Martin,0,Sunny
+1798,2024,7,Autodromo Enzo e Dino Ferrari,Albon,14,Williams,0,Sunny
+1799,2024,8,Circuit de Monaco,Leclerc,1,Ferrari,1,Sunny
+1800,2024,8,Circuit de Monaco,Piastri,2,McLaren,0,Sunny
+1801,2024,8,Circuit de Monaco,Sainz,3,Ferrari,0,Sunny
+1802,2024,8,Circuit de Monaco,Norris,4,McLaren,0,Sunny
+1803,2024,8,Circuit de Monaco,Russell,5,Mercedes,0,Sunny
+1804,2024,8,Circuit de Monaco,Verstappen,6,Red Bull,0,Sunny
+1805,2024,8,Circuit de Monaco,Hamilton,7,Mercedes,0,Sunny
+1806,2024,8,Circuit de Monaco,Tsunoda,8,RB F1 Team,0,Sunny
+1807,2024,8,Circuit de Monaco,Albon,9,Williams,0,Sunny
+1808,2024,8,Circuit de Monaco,Gasly,10,Alpine F1 Team,0,Sunny
+1809,2024,8,Circuit de Monaco,Alonso,14,Aston Martin,0,Sunny
+1810,2024,8,Circuit de Monaco,Ricciardo,12,RB F1 Team,0,Sunny
+1811,2024,8,Circuit de Monaco,Bottas,17,Sauber,0,Sunny
+1812,2024,8,Circuit de Monaco,Stroll,13,Aston Martin,0,Sunny
+1813,2024,8,Circuit de Monaco,Sargeant,15,Williams,0,Sunny
+1814,2024,8,Circuit de Monaco,Zhou,18,Sauber,0,Sunny
+1815,2024,8,Circuit de Monaco,Ocon,11,Alpine F1 Team,0,Sunny
+1816,2024,8,Circuit de Monaco,Perez,16,Red Bull,0,Sunny
+1817,2024,8,Circuit de Monaco,Hulkenberg,19,Haas F1 Team,0,Sunny
+1818,2024,8,Circuit de Monaco,Magnussen,20,Haas F1 Team,0,Sunny
+1819,2024,9,Circuit Gilles Villeneuve,Verstappen,2,Red Bull,1,Sunny
+1820,2024,9,Circuit Gilles Villeneuve,Norris,3,McLaren,0,Sunny
+1821,2024,9,Circuit Gilles Villeneuve,Russell,1,Mercedes,0,Sunny
+1822,2024,9,Circuit Gilles Villeneuve,Hamilton,7,Mercedes,0,Sunny
+1823,2024,9,Circuit Gilles Villeneuve,Piastri,4,McLaren,0,Sunny
+1824,2024,9,Circuit Gilles Villeneuve,Alonso,6,Aston Martin,0,Sunny
+1825,2024,9,Circuit Gilles Villeneuve,Stroll,9,Aston Martin,0,Sunny
+1826,2024,9,Circuit Gilles Villeneuve,Ricciardo,5,RB F1 Team,0,Sunny
+1827,2024,9,Circuit Gilles Villeneuve,Gasly,15,Alpine F1 Team,0,Sunny
+1828,2024,9,Circuit Gilles Villeneuve,Ocon,18,Alpine F1 Team,0,Sunny
+1829,2024,9,Circuit Gilles Villeneuve,Hulkenberg,17,Haas F1 Team,0,Sunny
+1830,2024,9,Circuit Gilles Villeneuve,Magnussen,14,Haas F1 Team,0,Sunny
+1831,2024,9,Circuit Gilles Villeneuve,Bottas,0,Sauber,0,Sunny
+1832,2024,9,Circuit Gilles Villeneuve,Tsunoda,8,RB F1 Team,0,Sunny
+1833,2024,9,Circuit Gilles Villeneuve,Zhou,0,Sauber,0,Sunny
+1834,2024,9,Circuit Gilles Villeneuve,Sainz,12,Ferrari,0,Sunny
+1835,2024,9,Circuit Gilles Villeneuve,Albon,10,Williams,0,Sunny
+1836,2024,9,Circuit Gilles Villeneuve,Perez,16,Red Bull,0,Sunny
+1837,2024,9,Circuit Gilles Villeneuve,Leclerc,11,Ferrari,0,Sunny
+1838,2024,9,Circuit Gilles Villeneuve,Sargeant,13,Williams,0,Sunny
+1839,2024,10,Circuit de Barcelona-Catalunya,Verstappen,2,Red Bull,1,Sunny
+1840,2024,10,Circuit de Barcelona-Catalunya,Norris,1,McLaren,0,Sunny
+1841,2024,10,Circuit de Barcelona-Catalunya,Hamilton,3,Mercedes,0,Sunny
+1842,2024,10,Circuit de Barcelona-Catalunya,Russell,4,Mercedes,0,Sunny
+1843,2024,10,Circuit de Barcelona-Catalunya,Leclerc,5,Ferrari,0,Sunny
+1844,2024,10,Circuit de Barcelona-Catalunya,Sainz,6,Ferrari,0,Sunny
+1845,2024,10,Circuit de Barcelona-Catalunya,Piastri,9,McLaren,0,Sunny
+1846,2024,10,Circuit de Barcelona-Catalunya,Perez,11,Red Bull,0,Sunny
+1847,2024,10,Circuit de Barcelona-Catalunya,Gasly,7,Alpine F1 Team,0,Sunny
+1848,2024,10,Circuit de Barcelona-Catalunya,Ocon,8,Alpine F1 Team,0,Sunny
+1849,2024,10,Circuit de Barcelona-Catalunya,Hulkenberg,13,Haas F1 Team,0,Sunny
+1850,2024,10,Circuit de Barcelona-Catalunya,Alonso,10,Aston Martin,0,Sunny
+1851,2024,10,Circuit de Barcelona-Catalunya,Zhou,15,Sauber,0,Sunny
+1852,2024,10,Circuit de Barcelona-Catalunya,Stroll,14,Aston Martin,0,Sunny
+1853,2024,10,Circuit de Barcelona-Catalunya,Ricciardo,18,RB F1 Team,0,Sunny
+1854,2024,10,Circuit de Barcelona-Catalunya,Bottas,12,Sauber,0,Sunny
+1855,2024,10,Circuit de Barcelona-Catalunya,Magnussen,16,Haas F1 Team,0,Sunny
+1856,2024,10,Circuit de Barcelona-Catalunya,Albon,0,Williams,0,Sunny
+1857,2024,10,Circuit de Barcelona-Catalunya,Tsunoda,17,RB F1 Team,0,Sunny
+1858,2024,10,Circuit de Barcelona-Catalunya,Sargeant,19,Williams,0,Sunny
+1859,2024,11,Red Bull Ring,Russell,3,Mercedes,1,Sunny
+1860,2024,11,Red Bull Ring,Piastri,7,McLaren,0,Sunny
+1861,2024,11,Red Bull Ring,Sainz,4,Ferrari,0,Sunny
+1862,2024,11,Red Bull Ring,Hamilton,5,Mercedes,0,Sunny
+1863,2024,11,Red Bull Ring,Verstappen,1,Red Bull,0,Sunny
+1864,2024,11,Red Bull Ring,Hulkenberg,9,Haas F1 Team,0,Sunny
+1865,2024,11,Red Bull Ring,Perez,8,Red Bull,0,Sunny
+1866,2024,11,Red Bull Ring,Magnussen,12,Haas F1 Team,0,Sunny
+1867,2024,11,Red Bull Ring,Ricciardo,11,RB F1 Team,0,Sunny
+1868,2024,11,Red Bull Ring,Gasly,13,Alpine F1 Team,0,Sunny
+1869,2024,11,Red Bull Ring,Leclerc,6,Ferrari,0,Sunny
+1870,2024,11,Red Bull Ring,Ocon,10,Alpine F1 Team,0,Sunny
+1871,2024,11,Red Bull Ring,Stroll,17,Aston Martin,0,Sunny
+1872,2024,11,Red Bull Ring,Tsunoda,14,RB F1 Team,0,Sunny
+1873,2024,11,Red Bull Ring,Albon,16,Williams,0,Sunny
+1874,2024,11,Red Bull Ring,Bottas,18,Sauber,0,Sunny
+1875,2024,11,Red Bull Ring,Zhou,20,Sauber,0,Sunny
+1876,2024,11,Red Bull Ring,Alonso,15,Aston Martin,0,Sunny
+1877,2024,11,Red Bull Ring,Sargeant,19,Williams,0,Sunny
+1878,2024,11,Red Bull Ring,Norris,2,McLaren,0,Sunny
+1879,2024,12,Silverstone Circuit,Hamilton,2,Mercedes,1,Sunny
+1880,2024,12,Silverstone Circuit,Verstappen,4,Red Bull,0,Sunny
+1881,2024,12,Silverstone Circuit,Norris,3,McLaren,0,Sunny
+1882,2024,12,Silverstone Circuit,Piastri,5,McLaren,0,Sunny
+1883,2024,12,Silverstone Circuit,Sainz,7,Ferrari,0,Sunny
+1884,2024,12,Silverstone Circuit,Hulkenberg,6,Haas F1 Team,0,Sunny
+1885,2024,12,Silverstone Circuit,Stroll,8,Aston Martin,0,Sunny
+1886,2024,12,Silverstone Circuit,Alonso,10,Aston Martin,0,Sunny
+1887,2024,12,Silverstone Circuit,Albon,9,Williams,0,Sunny
+1888,2024,12,Silverstone Circuit,Tsunoda,13,RB F1 Team,0,Sunny
+1889,2024,12,Silverstone Circuit,Sargeant,12,Williams,0,Sunny
+1890,2024,12,Silverstone Circuit,Magnussen,17,Haas F1 Team,0,Sunny
+1891,2024,12,Silverstone Circuit,Ricciardo,15,RB F1 Team,0,Sunny
+1892,2024,12,Silverstone Circuit,Leclerc,11,Ferrari,0,Sunny
+1893,2024,12,Silverstone Circuit,Bottas,16,Sauber,0,Sunny
+1894,2024,12,Silverstone Circuit,Ocon,18,Alpine F1 Team,0,Sunny
+1895,2024,12,Silverstone Circuit,Perez,0,Red Bull,0,Sunny
+1896,2024,12,Silverstone Circuit,Zhou,14,Sauber,0,Sunny
+1897,2024,12,Silverstone Circuit,Russell,1,Mercedes,0,Sunny
+1898,2024,12,Silverstone Circuit,Gasly,19,Alpine F1 Team,0,Sunny
+1899,2024,13,Hungaroring,Piastri,2,McLaren,1,Sunny
+1900,2024,13,Hungaroring,Norris,1,McLaren,0,Sunny
+1901,2024,13,Hungaroring,Hamilton,5,Mercedes,0,Sunny
+1902,2024,13,Hungaroring,Leclerc,6,Ferrari,0,Sunny
+1903,2024,13,Hungaroring,Verstappen,3,Red Bull,0,Sunny
+1904,2024,13,Hungaroring,Sainz,4,Ferrari,0,Sunny
+1905,2024,13,Hungaroring,Perez,16,Red Bull,0,Sunny
+1906,2024,13,Hungaroring,Russell,17,Mercedes,0,Sunny
+1907,2024,13,Hungaroring,Tsunoda,10,RB F1 Team,0,Sunny
+1908,2024,13,Hungaroring,Stroll,8,Aston Martin,0,Sunny
+1909,2024,13,Hungaroring,Alonso,7,Aston Martin,0,Sunny
+1910,2024,13,Hungaroring,Ricciardo,9,RB F1 Team,0,Sunny
+1911,2024,13,Hungaroring,Hulkenberg,11,Haas F1 Team,0,Sunny
+1912,2024,13,Hungaroring,Albon,13,Williams,0,Sunny
+1913,2024,13,Hungaroring,Magnussen,15,Haas F1 Team,0,Sunny
+1914,2024,13,Hungaroring,Bottas,12,Sauber,0,Sunny
+1915,2024,13,Hungaroring,Sargeant,14,Williams,0,Sunny
+1916,2024,13,Hungaroring,Ocon,19,Alpine F1 Team,0,Sunny
+1917,2024,13,Hungaroring,Zhou,18,Sauber,0,Sunny
+1918,2024,13,Hungaroring,Gasly,0,Alpine F1 Team,0,Sunny
+1919,2024,14,Circuit de Spa-Francorchamps,Hamilton,3,Mercedes,1,Sunny
+1920,2024,14,Circuit de Spa-Francorchamps,Piastri,5,McLaren,0,Sunny
+1921,2024,14,Circuit de Spa-Francorchamps,Leclerc,1,Ferrari,0,Sunny
+1922,2024,14,Circuit de Spa-Francorchamps,Verstappen,11,Red Bull,0,Sunny
+1923,2024,14,Circuit de Spa-Francorchamps,Norris,4,McLaren,0,Sunny
+1924,2024,14,Circuit de Spa-Francorchamps,Sainz,7,Ferrari,0,Sunny
+1925,2024,14,Circuit de Spa-Francorchamps,Perez,2,Red Bull,0,Sunny
+1926,2024,14,Circuit de Spa-Francorchamps,Alonso,8,Aston Martin,0,Sunny
+1927,2024,14,Circuit de Spa-Francorchamps,Ocon,9,Alpine F1 Team,0,Sunny
+1928,2024,14,Circuit de Spa-Francorchamps,Ricciardo,13,RB F1 Team,0,Sunny
+1929,2024,14,Circuit de Spa-Francorchamps,Stroll,15,Aston Martin,0,Sunny
+1930,2024,14,Circuit de Spa-Francorchamps,Albon,10,Williams,0,Sunny
+1931,2024,14,Circuit de Spa-Francorchamps,Gasly,12,Alpine F1 Team,0,Sunny
+1932,2024,14,Circuit de Spa-Francorchamps,Magnussen,17,Haas F1 Team,0,Sunny
+1933,2024,14,Circuit de Spa-Francorchamps,Bottas,14,Sauber,0,Sunny
+1934,2024,14,Circuit de Spa-Francorchamps,Tsunoda,20,RB F1 Team,0,Sunny
+1935,2024,14,Circuit de Spa-Francorchamps,Sargeant,18,Williams,0,Sunny
+1936,2024,14,Circuit de Spa-Francorchamps,Hulkenberg,16,Haas F1 Team,0,Sunny
+1937,2024,14,Circuit de Spa-Francorchamps,Zhou,19,Sauber,0,Sunny
+1938,2024,14,Circuit de Spa-Francorchamps,Russell,6,Mercedes,0,Sunny
+1939,2024,15,Circuit Park Zandvoort,Norris,1,McLaren,1,Sunny
+1940,2024,15,Circuit Park Zandvoort,Verstappen,2,Red Bull,0,Sunny
+1941,2024,15,Circuit Park Zandvoort,Leclerc,6,Ferrari,0,Sunny
+1942,2024,15,Circuit Park Zandvoort,Piastri,3,McLaren,0,Sunny
+1943,2024,15,Circuit Park Zandvoort,Sainz,10,Ferrari,0,Sunny
+1944,2024,15,Circuit Park Zandvoort,Perez,5,Red Bull,0,Sunny
+1945,2024,15,Circuit Park Zandvoort,Russell,4,Mercedes,0,Sunny
+1946,2024,15,Circuit Park Zandvoort,Hamilton,14,Mercedes,0,Sunny
+1947,2024,15,Circuit Park Zandvoort,Gasly,9,Alpine F1 Team,0,Sunny
+1948,2024,15,Circuit Park Zandvoort,Alonso,7,Aston Martin,0,Sunny
+1949,2024,15,Circuit Park Zandvoort,Hulkenberg,12,Haas F1 Team,0,Sunny
+1950,2024,15,Circuit Park Zandvoort,Ricciardo,13,RB F1 Team,0,Sunny
+1951,2024,15,Circuit Park Zandvoort,Stroll,8,Aston Martin,0,Sunny
+1952,2024,15,Circuit Park Zandvoort,Albon,19,Williams,0,Sunny
+1953,2024,15,Circuit Park Zandvoort,Ocon,15,Alpine F1 Team,0,Sunny
+1954,2024,15,Circuit Park Zandvoort,Sargeant,18,Williams,0,Sunny
+1955,2024,15,Circuit Park Zandvoort,Tsunoda,11,RB F1 Team,0,Sunny
+1956,2024,15,Circuit Park Zandvoort,Magnussen,0,Haas F1 Team,0,Sunny
+1957,2024,15,Circuit Park Zandvoort,Bottas,16,Sauber,0,Sunny
+1958,2024,15,Circuit Park Zandvoort,Zhou,17,Sauber,0,Sunny
+1959,2024,16,Autodromo Nazionale di Monza,Leclerc,4,Ferrari,1,Sunny
+1960,2024,16,Autodromo Nazionale di Monza,Piastri,2,McLaren,0,Sunny
+1961,2024,16,Autodromo Nazionale di Monza,Norris,1,McLaren,0,Sunny
+1962,2024,16,Autodromo Nazionale di Monza,Sainz,5,Ferrari,0,Sunny
+1963,2024,16,Autodromo Nazionale di Monza,Hamilton,6,Mercedes,0,Sunny
+1964,2024,16,Autodromo Nazionale di Monza,Verstappen,7,Red Bull,0,Sunny
+1965,2024,16,Autodromo Nazionale di Monza,Russell,3,Mercedes,0,Sunny
+1966,2024,16,Autodromo Nazionale di Monza,Perez,8,Red Bull,0,Sunny
+1967,2024,16,Autodromo Nazionale di Monza,Albon,9,Williams,0,Sunny
+1968,2024,16,Autodromo Nazionale di Monza,Magnussen,13,Haas F1 Team,0,Sunny
+1969,2024,16,Autodromo Nazionale di Monza,Alonso,11,Aston Martin,0,Sunny
+1970,2024,16,Autodromo Nazionale di Monza,Colapinto,18,Williams,0,Sunny
+1971,2024,16,Autodromo Nazionale di Monza,Ricciardo,12,RB F1 Team,0,Sunny
+1972,2024,16,Autodromo Nazionale di Monza,Ocon,15,Alpine F1 Team,0,Sunny
+1973,2024,16,Autodromo Nazionale di Monza,Gasly,14,Alpine F1 Team,0,Sunny
+1974,2024,16,Autodromo Nazionale di Monza,Bottas,19,Sauber,0,Sunny
+1975,2024,16,Autodromo Nazionale di Monza,Hulkenberg,10,Haas F1 Team,0,Sunny
+1976,2024,16,Autodromo Nazionale di Monza,Zhou,20,Sauber,0,Sunny
+1977,2024,16,Autodromo Nazionale di Monza,Stroll,17,Aston Martin,0,Sunny
+1978,2024,16,Autodromo Nazionale di Monza,Tsunoda,16,RB F1 Team,0,Sunny
+1979,2024,17,Baku City Circuit,Piastri,2,McLaren,1,Sunny
+1980,2024,17,Baku City Circuit,Leclerc,1,Ferrari,0,Sunny
+1981,2024,17,Baku City Circuit,Russell,5,Mercedes,0,Sunny
+1982,2024,17,Baku City Circuit,Norris,15,McLaren,0,Sunny
+1983,2024,17,Baku City Circuit,Verstappen,6,Red Bull,0,Sunny
+1984,2024,17,Baku City Circuit,Alonso,7,Aston Martin,0,Sunny
+1985,2024,17,Baku City Circuit,Albon,9,Williams,0,Sunny
+1986,2024,17,Baku City Circuit,Colapinto,8,Williams,0,Sunny
+1987,2024,17,Baku City Circuit,Hamilton,0,Mercedes,0,Sunny
+1988,2024,17,Baku City Circuit,Bearman,10,Haas F1 Team,0,Sunny
+1989,2024,17,Baku City Circuit,Hulkenberg,12,Haas F1 Team,0,Sunny
+1990,2024,17,Baku City Circuit,Gasly,18,Alpine F1 Team,0,Sunny
+1991,2024,17,Baku City Circuit,Ricciardo,14,RB F1 Team,0,Sunny
+1992,2024,17,Baku City Circuit,Zhou,17,Sauber,0,Sunny
+1993,2024,17,Baku City Circuit,Ocon,0,Alpine F1 Team,0,Sunny
+1994,2024,17,Baku City Circuit,Bottas,16,Sauber,0,Sunny
+1995,2024,17,Baku City Circuit,Perez,4,Red Bull,0,Sunny
+1996,2024,17,Baku City Circuit,Sainz,3,Ferrari,0,Sunny
+1997,2024,17,Baku City Circuit,Stroll,13,Aston Martin,0,Sunny
+1998,2024,17,Baku City Circuit,Tsunoda,11,RB F1 Team,0,Sunny
+1999,2024,18,Marina Bay Street Circuit,Norris,1,McLaren,1,Sunny
+2000,2024,18,Marina Bay Street Circuit,Verstappen,2,Red Bull,0,Sunny
+2001,2024,18,Marina Bay Street Circuit,Piastri,5,McLaren,0,Sunny
+2002,2024,18,Marina Bay Street Circuit,Russell,4,Mercedes,0,Sunny
+2003,2024,18,Marina Bay Street Circuit,Leclerc,9,Ferrari,0,Sunny
+2004,2024,18,Marina Bay Street Circuit,Hamilton,3,Mercedes,0,Sunny
+2005,2024,18,Marina Bay Street Circuit,Sainz,10,Ferrari,0,Sunny
+2006,2024,18,Marina Bay Street Circuit,Alonso,7,Aston Martin,0,Sunny
+2007,2024,18,Marina Bay Street Circuit,Hulkenberg,6,Haas F1 Team,0,Sunny
+2008,2024,18,Marina Bay Street Circuit,Perez,13,Red Bull,0,Sunny
+2009,2024,18,Marina Bay Street Circuit,Colapinto,12,Williams,0,Sunny
+2010,2024,18,Marina Bay Street Circuit,Tsunoda,8,RB F1 Team,0,Sunny
+2011,2024,18,Marina Bay Street Circuit,Ocon,15,Alpine F1 Team,0,Sunny
+2012,2024,18,Marina Bay Street Circuit,Stroll,17,Aston Martin,0,Sunny
+2013,2024,18,Marina Bay Street Circuit,Zhou,20,Sauber,0,Sunny
+2014,2024,18,Marina Bay Street Circuit,Bottas,19,Sauber,0,Sunny
+2015,2024,18,Marina Bay Street Circuit,Gasly,18,Alpine F1 Team,0,Sunny
+2016,2024,18,Marina Bay Street Circuit,Ricciardo,16,RB F1 Team,0,Sunny
+2017,2024,18,Marina Bay Street Circuit,Magnussen,14,Haas F1 Team,0,Sunny
+2018,2024,18,Marina Bay Street Circuit,Albon,11,Williams,0,Sunny
+2019,2024,19,Circuit of the Americas,Leclerc,4,Ferrari,1,Sunny
+2020,2024,19,Circuit of the Americas,Sainz,3,Ferrari,0,Sunny
+2021,2024,19,Circuit of the Americas,Verstappen,2,Red Bull,0,Sunny
+2022,2024,19,Circuit of the Americas,Norris,1,McLaren,0,Sunny
+2023,2024,19,Circuit of the Americas,Piastri,5,McLaren,0,Sunny
+2024,2024,19,Circuit of the Americas,Russell,20,Mercedes,0,Sunny
+2025,2024,19,Circuit of the Americas,Perez,9,Red Bull,0,Sunny
+2026,2024,19,Circuit of the Americas,Hulkenberg,11,Haas F1 Team,0,Sunny
+2027,2024,19,Circuit of the Americas,Lawson,19,RB F1 Team,0,Sunny
+2028,2024,19,Circuit of the Americas,Colapinto,15,Williams,0,Sunny
+2029,2024,19,Circuit of the Americas,Magnussen,8,Haas F1 Team,0,Sunny
+2030,2024,19,Circuit of the Americas,Gasly,6,Alpine F1 Team,0,Sunny
+2031,2024,19,Circuit of the Americas,Alonso,7,Aston Martin,0,Sunny
+2032,2024,19,Circuit of the Americas,Tsunoda,10,RB F1 Team,0,Sunny
+2033,2024,19,Circuit of the Americas,Stroll,13,Aston Martin,0,Sunny
+2034,2024,19,Circuit of the Americas,Albon,14,Williams,0,Sunny
+2035,2024,19,Circuit of the Americas,Bottas,16,Sauber,0,Sunny
+2036,2024,19,Circuit of the Americas,Ocon,12,Alpine F1 Team,0,Sunny
+2037,2024,19,Circuit of the Americas,Zhou,18,Sauber,0,Sunny
+2038,2024,19,Circuit of the Americas,Hamilton,17,Mercedes,0,Sunny
+2039,2024,20,Autodromo Hermanos Rodriguez,Sainz,1,Ferrari,1,Sunny
+2040,2024,20,Autodromo Hermanos Rodriguez,Norris,3,McLaren,0,Sunny
+2041,2024,20,Autodromo Hermanos Rodriguez,Leclerc,4,Ferrari,0,Sunny
+2042,2024,20,Autodromo Hermanos Rodriguez,Hamilton,6,Mercedes,0,Sunny
+2043,2024,20,Autodromo Hermanos Rodriguez,Russell,5,Mercedes,0,Sunny
+2044,2024,20,Autodromo Hermanos Rodriguez,Verstappen,2,Red Bull,0,Sunny
+2045,2024,20,Autodromo Hermanos Rodriguez,Magnussen,7,Haas F1 Team,0,Sunny
+2046,2024,20,Autodromo Hermanos Rodriguez,Piastri,17,McLaren,0,Sunny
+2047,2024,20,Autodromo Hermanos Rodriguez,Hulkenberg,10,Haas F1 Team,0,Sunny
+2048,2024,20,Autodromo Hermanos Rodriguez,Gasly,8,Alpine F1 Team,0,Sunny
+2049,2024,20,Autodromo Hermanos Rodriguez,Stroll,14,Aston Martin,0,Sunny
+2050,2024,20,Autodromo Hermanos Rodriguez,Colapinto,16,Williams,0,Sunny
+2051,2024,20,Autodromo Hermanos Rodriguez,Ocon,0,Alpine F1 Team,0,Sunny
+2052,2024,20,Autodromo Hermanos Rodriguez,Bottas,15,Sauber,0,Sunny
+2053,2024,20,Autodromo Hermanos Rodriguez,Zhou,19,Sauber,0,Sunny
+2054,2024,20,Autodromo Hermanos Rodriguez,Lawson,12,RB F1 Team,0,Sunny
+2055,2024,20,Autodromo Hermanos Rodriguez,Perez,18,Red Bull,0,Sunny
+2056,2024,20,Autodromo Hermanos Rodriguez,Alonso,13,Aston Martin,0,Sunny
+2057,2024,20,Autodromo Hermanos Rodriguez,Albon,9,Williams,0,Sunny
+2058,2024,20,Autodromo Hermanos Rodriguez,Tsunoda,11,RB F1 Team,0,Sunny
+2059,2024,21,Autodromo Jose Carlos Pace,Verstappen,17,Red Bull,1,Sunny
+2060,2024,21,Autodromo Jose Carlos Pace,Ocon,4,Alpine F1 Team,0,Sunny
+2061,2024,21,Autodromo Jose Carlos Pace,Gasly,13,Alpine F1 Team,0,Sunny
+2062,2024,21,Autodromo Jose Carlos Pace,Russell,2,Mercedes,0,Sunny
+2063,2024,21,Autodromo Jose Carlos Pace,Leclerc,6,Ferrari,0,Sunny
+2064,2024,21,Autodromo Jose Carlos Pace,Norris,1,McLaren,0,Sunny
+2065,2024,21,Autodromo Jose Carlos Pace,Tsunoda,3,RB F1 Team,0,Sunny
+2066,2024,21,Autodromo Jose Carlos Pace,Piastri,8,McLaren,0,Sunny
+2067,2024,21,Autodromo Jose Carlos Pace,Lawson,5,RB F1 Team,0,Sunny
+2068,2024,21,Autodromo Jose Carlos Pace,Hamilton,14,Mercedes,0,Sunny
+2069,2024,21,Autodromo Jose Carlos Pace,Perez,12,Red Bull,0,Sunny
+2070,2024,21,Autodromo Jose Carlos Pace,Bearman,15,Haas F1 Team,0,Sunny
+2071,2024,21,Autodromo Jose Carlos Pace,Bottas,11,Sauber,0,Sunny
+2072,2024,21,Autodromo Jose Carlos Pace,Alonso,9,Aston Martin,0,Sunny
+2073,2024,21,Autodromo Jose Carlos Pace,Zhou,19,Sauber,0,Sunny
+2074,2024,21,Autodromo Jose Carlos Pace,Sainz,0,Ferrari,0,Sunny
+2075,2024,21,Autodromo Jose Carlos Pace,Colapinto,16,Williams,0,Sunny
+2076,2024,21,Autodromo Jose Carlos Pace,Albon,7,Williams,0,Sunny
+2077,2024,21,Autodromo Jose Carlos Pace,Stroll,10,Aston Martin,0,Sunny
+2078,2024,21,Autodromo Jose Carlos Pace,Hulkenberg,17,Haas F1 Team,0,Sunny
+2079,2024,22,Las Vegas Strip Street Circuit,Russell,1,Mercedes,1,Sunny
+2080,2024,22,Las Vegas Strip Street Circuit,Hamilton,10,Mercedes,0,Sunny
+2081,2024,22,Las Vegas Strip Street Circuit,Sainz,2,Ferrari,0,Sunny
+2082,2024,22,Las Vegas Strip Street Circuit,Leclerc,4,Ferrari,0,Sunny
+2083,2024,22,Las Vegas Strip Street Circuit,Verstappen,5,Red Bull,0,Sunny
+2084,2024,22,Las Vegas Strip Street Circuit,Norris,6,McLaren,0,Sunny
+2085,2024,22,Las Vegas Strip Street Circuit,Piastri,8,McLaren,0,Sunny
+2086,2024,22,Las Vegas Strip Street Circuit,Hulkenberg,9,Haas F1 Team,0,Sunny
+2087,2024,22,Las Vegas Strip Street Circuit,Tsunoda,7,RB F1 Team,0,Sunny
+2088,2024,22,Las Vegas Strip Street Circuit,Perez,15,Red Bull,0,Sunny
+2089,2024,22,Las Vegas Strip Street Circuit,Alonso,16,Aston Martin,0,Sunny
+2090,2024,22,Las Vegas Strip Street Circuit,Magnussen,12,Haas F1 Team,0,Sunny
+2091,2024,22,Las Vegas Strip Street Circuit,Zhou,13,Sauber,0,Sunny
+2092,2024,22,Las Vegas Strip Street Circuit,Colapinto,0,Williams,0,Sunny
+2093,2024,22,Las Vegas Strip Street Circuit,Stroll,18,Aston Martin,0,Sunny
+2094,2024,22,Las Vegas Strip Street Circuit,Lawson,14,RB F1 Team,0,Sunny
+2095,2024,22,Las Vegas Strip Street Circuit,Ocon,11,Alpine F1 Team,0,Sunny
+2096,2024,22,Las Vegas Strip Street Circuit,Bottas,19,Sauber,0,Sunny
+2097,2024,22,Las Vegas Strip Street Circuit,Albon,17,Williams,0,Sunny
+2098,2024,22,Las Vegas Strip Street Circuit,Gasly,3,Alpine F1 Team,0,Sunny
+2099,2024,23,Losail International Circuit,Verstappen,2,Red Bull,1,Sunny
+2100,2024,23,Losail International Circuit,Leclerc,5,Ferrari,0,Sunny
+2101,2024,23,Losail International Circuit,Piastri,4,McLaren,0,Sunny
+2102,2024,23,Losail International Circuit,Russell,1,Mercedes,0,Sunny
+2103,2024,23,Losail International Circuit,Gasly,11,Alpine F1 Team,0,Sunny
+2104,2024,23,Losail International Circuit,Sainz,7,Ferrari,0,Sunny
+2105,2024,23,Losail International Circuit,Alonso,8,Aston Martin,0,Sunny
+2106,2024,23,Losail International Circuit,Zhou,12,Sauber,0,Sunny
+2107,2024,23,Losail International Circuit,Magnussen,10,Haas F1 Team,0,Sunny
+2108,2024,23,Losail International Circuit,Norris,3,McLaren,0,Sunny
+2109,2024,23,Losail International Circuit,Bottas,13,Sauber,0,Sunny
+2110,2024,23,Losail International Circuit,Hamilton,6,Mercedes,0,Sunny
+2111,2024,23,Losail International Circuit,Tsunoda,14,RB F1 Team,0,Sunny
+2112,2024,23,Losail International Circuit,Lawson,17,RB F1 Team,0,Sunny
+2113,2024,23,Losail International Circuit,Albon,16,Williams,0,Sunny
+2114,2024,23,Losail International Circuit,Hulkenberg,18,Haas F1 Team,0,Sunny
+2115,2024,23,Losail International Circuit,Perez,9,Red Bull,0,Sunny
+2116,2024,23,Losail International Circuit,Stroll,15,Aston Martin,0,Sunny
+2117,2024,23,Losail International Circuit,Colapinto,19,Williams,0,Sunny
+2118,2024,23,Losail International Circuit,Ocon,20,Alpine F1 Team,0,Sunny
+2119,2024,24,Yas Marina Circuit,Norris,1,McLaren,1,Sunny
+2120,2024,24,Yas Marina Circuit,Sainz,3,Ferrari,0,Sunny
+2121,2024,24,Yas Marina Circuit,Leclerc,19,Ferrari,0,Sunny
+2122,2024,24,Yas Marina Circuit,Hamilton,16,Mercedes,0,Sunny
+2123,2024,24,Yas Marina Circuit,Russell,6,Mercedes,0,Sunny
+2124,2024,24,Yas Marina Circuit,Verstappen,4,Red Bull,0,Sunny
+2125,2024,24,Yas Marina Circuit,Gasly,5,Alpine F1 Team,0,Sunny
+2126,2024,24,Yas Marina Circuit,Hulkenberg,7,Haas F1 Team,0,Sunny
+2127,2024,24,Yas Marina Circuit,Alonso,8,Aston Martin,0,Sunny
+2128,2024,24,Yas Marina Circuit,Piastri,2,McLaren,0,Sunny
+2129,2024,24,Yas Marina Circuit,Albon,18,Williams,0,Sunny
+2130,2024,24,Yas Marina Circuit,Tsunoda,11,RB F1 Team,0,Sunny
+2131,2024,24,Yas Marina Circuit,Zhou,15,Sauber,0,Sunny
+2132,2024,24,Yas Marina Circuit,Stroll,13,Aston Martin,0,Sunny
+2133,2024,24,Yas Marina Circuit,Doohan,17,Alpine F1 Team,0,Sunny
+2134,2024,24,Yas Marina Circuit,Magnussen,14,Haas F1 Team,0,Sunny
+2135,2024,24,Yas Marina Circuit,Lawson,12,RB F1 Team,0,Sunny
+2136,2024,24,Yas Marina Circuit,Bottas,9,Sauber,0,Sunny
+2137,2024,24,Yas Marina Circuit,Colapinto,20,Williams,0,Sunny
+2138,2024,24,Yas Marina Circuit,Perez,10,Red Bull,0,Sunny
+2139,2025,1,Albert Park Grand Prix Circuit,Norris,1,McLaren,1,Rainy
+2140,2025,1,Albert Park Grand Prix Circuit,Piatri,2,McLaren,0,Rainy
+2141,2025,1,Albert Park Grand Prix Circuit,Vertappen,3,Red Bull,0,Rainy
+2142,2025,1,Albert Park Grand Prix Circuit,Russell,4,Mercedes,0,Rainy
+2143,2025,1,Albert Park Grand Prix Circuit,Tsunoda,5,RB F1 Team,0,Rainy
+2144,2025,1,Albert Park Grand Prix Circuit,Albon,6,Williams,0,Rainy
+2145,2025,1,Albert Park Grand Prix Circuit,Leclerc,7,Ferrari,0,Rainy
+2146,2025,1,Albert Park Grand Prix Circuit,Hamilton,8,Ferrari,0,Rainy
+2147,2025,1,Albert Park Grand Prix Circuit,Gasly,9,Alpine F1 Team,0,Rainy
+2148,2025,1,Albert Park Grand Prix Circuit,Sainz,10,Williams,0,Rainy
+2149,2025,1,Albert Park Grand Prix Circuit,Hadjar,11,RB F1 Team,0,Rainy
+2150,2025,1,Albert Park Grand Prix Circuit,Alonso,12,Aston Martin,0,Rainy
+2151,2025,1,Albert Park Grand Prix Circuit,Stroll,13,Aston Martin,0,Rainy
+2152,2025,1,Albert Park Grand Prix Circuit,Doohan,14,Alpine F1 Team,0,Rainy
+2153,2025,1,Albert Park Grand Prix Circuit,Bortoleto,15,Sauber,0,Rainy
+2154,2025,1,Albert Park Grand Prix Circuit,Antonelli,16,Mercedes,0,Rainy
+2155,2025,1,Albert Park Grand Prix Circuit,Hulkenberg,17,Sauber,0,Rainy
+2156,2025,1,Albert Park Grand Prix Circuit,Lawson,18,Red Bull,0,Rainy
+2157,2025,1,Albert Park Grand Prix Circuit,Ocon,19,Haas F1 Team,0,Rainy
+2158,2025,1,Albert Park Grand Prix Circuit,Bearman,20,Haas F1 Team,0,Rainy
+2159,2025,2,Shanghai International Circuit,Piastri,1,McLaren,1,Rainy
+2160,2025,2,Shanghai International Circuit,Russell,2,Mercedes,0,Rainy
+2161,2025,2,Shanghai International Circuit,Norris,3,McLaren,0,Rainy
+2162,2025,2,Shanghai International Circuit,Verstappen,4,Red Bull,0,Sunny
+2163,2025,2,Shanghai International Circuit,Hamilton,5,Ferrari,0,Sunny
+2164,2025,2,Shanghai International Circuit,Leclerc,6,Ferrari,0,Sunny
+2165,2025,2,Shanghai International Circuit,Hadjar,7,RB F1 Team,0,Sunny
+2166,2025,2,Shanghai International Circuit,Antonelli,8,Mercedes,0,Sunny
+2167,2025,2,Shanghai International Circuit,Tsunoda,9,RB F1 Team,0,Sunny
+2168,2025,2,Shanghai International Circuit,Albon,10,Williams,0,Sunny
+2169,2025,2,Shanghai International Circuit,Ocon,11,Haas F1 Team,0,Sunny
+2170,2025,2,Shanghai International Circuit,Hulkenberg,12,Sauber,0,Sunny
+2171,2025,2,Shanghai International Circuit,Alonso,13,Aston Martin,0,Sunny
+2172,2025,2,Shanghai International Circuit,Stroll,14,Aston Martin,0,Sunny
+2173,2025,2,Shanghai International Circuit,Sainz,15,Williams,0,Sunny
+2174,2025,2,Shanghai International Circuit,Gasly,16,Alpine F1 Team,0,Sunny
+2175,2025,2,Shanghai International Circuit,Bearman,17,Haas F1 Team,0,Sunny
+2176,2025,2,Shanghai International Circuit,Doohan,18,Alpine F1 Team,0,Sunny
+2177,2025,2,Shanghai International Circuit,Bortoleto,19,Sauber,0,Sunny
+2178,2025,2,Shanghai International Circuit,Lawson,20,Red Bull,0,Sunny
+2179,2025,3,Suzuka Circuit,Verstappen,1,Red Bull,1,Sunny
+2180,2025,3,Suzuka Circuit,Norris,2,McLaren,0,Sunny
+2181,2025,3,Suzuka Circuit,Piastri,3,McLaren,0,Sunny
+2182,2025,3,Suzuka Circuit,Leclerc,4,Ferrari,0,Sunny
+2183,2025,3,Suzuka Circuit,Russell,5,Mercedes,0,Sunny
+2184,2025,3,Suzuka Circuit,Antonelli,6,Mercedes,0,Sunny
+2185,2025,3,Suzuka Circuit,Hamilton,7,Ferrari,0,Sunny
+2186,2025,3,Suzuka Circuit,Hadjar,8,RB F1 Team,0,Sunny
+2187,2025,3,Suzuka Circuit,Albon,9,Williams,0,Sunny
+2188,2025,3,Suzuka Circuit,Bearman,10,Haas F1 Team,0,Sunny
+2189,2025,3,Suzuka Circuit,Alonso,11,Aston Martin,0,Sunny
+2190,2025,3,Suzuka Circuit,Tsunoda,12,Red Bull,0,Sunny
+2191,2025,3,Suzuka Circuit,Gasly,13,Alpine F1 Team,0,Sunny
+2192,2025,3,Suzuka Circuit,Sainz,14,Williams,0,Sunny
+2193,2025,3,Suzuka Circuit,Doohan,15,Alpine F1 Team,0,Sunny
+2194,2025,3,Suzuka Circuit,Hulkenberg,16,Sauber,0,Sunny
+2195,2025,3,Suzuka Circuit,Lawson,17,RB F1 Team,0,Sunny
+2196,2025,3,Suzuka Circuit,Ocon,18,Haas F1 Team,0,Sunny
+2197,2025,3,Suzuka Circuit,Bortoleto,19,Sauber,0,Sunny
+2198,2025,3,Suzuka Circuit,Stroll,20,Aston Martin,0,Sunny
+2199,2025,4,Bahrain International Circuit,Piastri,1,McLaren,1,Sunny
+2200,2025,4,Bahrain International Circuit,Russell,2,Mercedes,0,Sunny
+2201,2025,4,Bahrain International Circuit,Leclerc,3,Ferrari,0,Sunny
+2202,2025,4,Bahrain International Circuit,Antonelli,4,Mercedes,0,Sunny
+2203,2025,4,Bahrain International Circuit,Gasly,5,Alpine F1 Team,0,Sunny
+2204,2025,4,Bahrain International Circuit,Norris,6,McLaren,0,Sunny
+2205,2025,4,Bahrain International Circuit,Verstappen,7,Red Bull,0,Sunny
+2206,2025,4,Bahrain International Circuit,Sainz,8,Williams,0,Sunny
+2207,2025,4,Bahrain International Circuit,Hamilton,9,Ferrari,0,Sunny
+2208,2025,4,Bahrain International Circuit,Tsunoda,10,Red Bull,0,Sunny
+2209,2025,4,Bahrain International Circuit,Doohan,11,Alpine F1 Team,0,Sunny
+2210,2025,4,Bahrain International Circuit,Hadjar,12,RB F1 Team,0,Sunny
+2211,2025,4,Bahrain International Circuit,Alonso,13,Aston Martin,0,Sunny
+2212,2025,4,Bahrain International Circuit,Ocon,14,Haas F1 Team,0,Sunny
+2213,2025,4,Bahrain International Circuit,Albon,15,Williams,0,Sunny
+2214,2025,4,Bahrain International Circuit,Hulkenberg,16,Sauber,0,Sunny
+2215,2025,4,Bahrain International Circuit,Lawson,17,RB F1 Team,0,Sunny
+2216,2025,4,Bahrain International Circuit,Bortoleto,18,Sauber,0,Sunny
+2217,2025,4,Bahrain International Circuit,Stroll,19,Aston Martin,0,Sunny
+2218,2025,4,Bahrain International Circuit,Bearman,20,Haas F1 Team,0,Sunny
+2219,2025,5,Jeddah Corniche Circuit,Piastri,1,McLaren,1,Sunny
+2220,2025,5,Jeddah Corniche Circuit,Verstappen,2,Red Bull,0,Sunny
+2221,2025,5,Jeddah Corniche Circuit,Leclerc,3,Ferrari,0,Sunny
+2222,2025,5,Jeddah Corniche Circuit,Norris,4,McLaren,0,Sunny
+2223,2025,5,Jeddah Corniche Circuit,Russell,5,Mercedes,0,Sunny
+2224,2025,5,Jeddah Corniche Circuit,Antonelli,6,Mercedes,0,Sunny
+2225,2025,5,Jeddah Corniche Circuit,Hamilton,7,Ferrari,0,Sunny
+2226,2025,5,Jeddah Corniche Circuit,Sainz,8,Williams,0,Sunny
+2227,2025,5,Jeddah Corniche Circuit,Albon,9,Williams,0,Sunny
+2228,2025,5,Jeddah Corniche Circuit,Hadjar,10,RB F1 Team,0,Sunny
+2229,2025,5,Jeddah Corniche Circuit,Alonso,11,Aston Martin,0,Sunny
+2230,2025,5,Jeddah Corniche Circuit,Bearman,12,Haas F1 Team,0,Sunny
+2231,2025,5,Jeddah Corniche Circuit,Ocon,13,Haas F1 Team,0,Sunny
+2232,2025,5,Jeddah Corniche Circuit,Hulkenberg,14,Sauber,0,Sunny
+2233,2025,5,Jeddah Corniche Circuit,Stroll,15,Aston Martin,0,Sunny
+2234,2025,5,Jeddah Corniche Circuit,Doohan,16,Alpine F1 Team,0,Sunny
+2235,2025,5,Jeddah Corniche Circuit,Bortoleto,17,Sauber,0,Sunny
+2236,2025,5,Jeddah Corniche Circuit,Tsunoda,18,Red Bull,0,Sunny
+2237,2025,5,Jeddah Corniche Circuit,Gasly,19,Alpine F1 Team,0,Sunny
+2238,2025,6,Miami International Autodrome,Piastri,1,McLaren,1,Sunny
+2239,2025,6,Miami International Autodrome,Norris,2,McLaren,0,Sunny
+2240,2025,6,Miami International Autodrome,Russell,3,Mercedes,0,Sunny
+2241,2025,6,Miami International Autodrome,Verstappen,4,Red Bull,0,Sunny
+2242,2025,6,Miami International Autodrome,Albon,5,Williams,0,Sunny
+2243,2025,6,Miami International Autodrome,Antonelli,6,Mercedes,0,Sunny
+2244,2025,6,Miami International Autodrome,Leclerc,7,Ferrari,0,Sunny
+2245,2025,6,Miami International Autodrome,Hamilton,8,Ferrari,0,Sunny
+2246,2025,6,Miami International Autodrome,Sainz,9,Williams,0,Sunny
+2247,2025,6,Miami International Autodrome,Tsunoda,10,Red Bull,0,Sunny
+2248,2025,6,Miami International Autodrome,Hadjar,11,RB F1 Team,0,Sunny
+2249,2025,6,Miami International Autodrome,Ocon,12,Haas F1 Team,0,Sunny
+2250,2025,6,Miami International Autodrome,Gasly,13,Alpine F1 Team,0,Sunny
+2251,2025,6,Miami International Autodrome,Hulkenberg,14,Sauber,0,Sunny
+2252,2025,6,Miami International Autodrome,Alonso,15,Aston Martin,0,Sunny
+2253,2025,6,Miami International Autodrome,Stroll,16,Aston Martin,0,Sunny
+2254,2025,6,Miami International Autodrome,Lawson,17,RB F1 Team,0,Sunny
+2255,2025,6,Miami International Autodrome,Bortoleto,18,Sauber,0,Sunny
+2256,2025,6,Miami International Autodrome,Bearman,19,Haas F1 Team,0,Sunny
+2257,2025,6,Miami International Autodrome,Doohan,20,Alpine F1 Team,0,Sunny
+2258,2025,7,Autodromo Enzo e Dino Ferrari,Verstappen,1,Red Bull,1,Sunny
+2259,2025,7,Autodromo Enzo e Dino Ferrari,Norris,2,McLaren,0,Sunny
+2260,2025,7,Autodromo Enzo e Dino Ferrari,Piastri,3,McLaren,0,Sunny
+2261,2025,7,Autodromo Enzo e Dino Ferrari,Hamilton,4,Ferrari,0,Sunny
+2262,2025,7,Autodromo Enzo e Dino Ferrari,Albon,5,Williams,0,Sunny
+2263,2025,7,Autodromo Enzo e Dino Ferrari,Leclerc,6,Ferrari,0,Sunny
+2264,2025,7,Autodromo Enzo e Dino Ferrari,Russell,7,Mercedes,0,Sunny
+2265,2025,7,Autodromo Enzo e Dino Ferrari,Sainz,8,Williams,0,Sunny
+2266,2025,7,Autodromo Enzo e Dino Ferrari,Hadjar,9,RB F1 Team,0,Sunny
+2267,2025,7,Autodromo Enzo e Dino Ferrari,Tsunoda,10,Red Bull,0,Sunny
+2268,2025,7,Autodromo Enzo e Dino Ferrari,Alonso,11,Aston Martin,0,Sunny
+2269,2025,7,Autodromo Enzo e Dino Ferrari,Hulkenberg,12,Sauber,0,Sunny
+2270,2025,7,Autodromo Enzo e Dino Ferrari,Gasly,13,Alpine F1 Team,0,Sunny
+2271,2025,7,Autodromo Enzo e Dino Ferrari,Lawson,14,RB F1 Team,0,Sunny
+2272,2025,7,Autodromo Enzo e Dino Ferrari,Stroll,15,Aston Martin,0,Sunny
+2273,2025,7,Autodromo Enzo e Dino Ferrari,Colapinto,16,Alpine F1 Team,0,Sunny
+2274,2025,7,Autodromo Enzo e Dino Ferrari,Bearman,17,Haas F1 Team,0,Sunny
+2275,2025,7,Autodromo Enzo e Dino Ferrari,Bortoleto,18,Sauber,0,Sunny
+2276,2025,7,Autodromo Enzo e Dino Ferrari,Antonelli,19,Mercedes,0,Sunny
+2277,2025,7,Autodromo Enzo e Dino Ferrari,Ocon,20,Haas F1 Team,0,Sunny
+2278,2025,8,Circuit de Monaco,Norris,1,McLaren,1,Sunny
+2279,2025,8,Circuit de Monaco,Leclerc,2,Ferrari,0,Sunny
+2280,2025,8,Circuit de Monaco,Piastri,3,McLaren,0,Sunny
+2281,2025,8,Circuit de Monaco,Verstappen,4,Red Bull,0,Sunny
+2282,2025,8,Circuit de Monaco,Hamilton,5,Ferrari,0,Sunny
+2283,2025,8,Circuit de Monaco,Hadjar,6,RB F1 Team,0,Sunny
+2284,2025,8,Circuit de Monaco,Ocon,7,Haas F1 Team,0,Sunny
+2285,2025,8,Circuit de Monaco,Lawson,8,RB F1 Team,0,Sunny
+2286,2025,8,Circuit de Monaco,Albon,9,Williams,0,Sunny
+2287,2025,8,Circuit de Monaco,Sainz,10,Williams,0,Sunny
+2288,2025,8,Circuit de Monaco,Russell,11,Mercedes,0,Sunny
+2289,2025,8,Circuit de Monaco,Bearman,12,Haas F1 Team,0,Sunny
+2290,2025,8,Circuit de Monaco,Colapinto,13,Alpine F1 Team,0,Sunny
+2291,2025,8,Circuit de Monaco,Bortoleto,14,Sauber,0,Sunny
+2292,2025,8,Circuit de Monaco,Stroll,15,Aston Martin,0,Sunny
+2293,2025,8,Circuit de Monaco,Hulkenberg,16,Sauber,0,Sunny
+2294,2025,8,Circuit de Monaco,Tsunoda,17,Red Bull,0,Sunny
+2295,2025,8,Circuit de Monaco,Antonelli,18,Mercedes,0,Sunny
+2296,2025,8,Circuit de Monaco,Alonso,19,Aston Martin,0,Sunny
+2297,2025,8,Circuit de Monaco,Gasly,20,Alpine F1 Team,0,Sunny
+2298,2025,9,Circuit de Barcelona-Catalunya,Piastri,1,McLaren,1,Sunny
+2299,2025,9,Circuit de Barcelona-Catalunya,Norris,2,McLaren,0,Sunny
+2300,2025,9,Circuit de Barcelona-Catalunya,Verstappen,3,Red Bull,0,Sunny
+2301,2025,9,Circuit de Barcelona-Catalunya,Russell,4,Mercedes,0,Sunny
+2302,2025,9,Circuit de Barcelona-Catalunya,Hamilton,5,Ferrari,0,Sunny
+2303,2025,9,Circuit de Barcelona-Catalunya,Antonelli,6,Mercedes,0,Sunny
+2304,2025,9,Circuit de Barcelona-Catalunya,Leclerc,7,Ferrari,0,Sunny
+2305,2025,9,Circuit de Barcelona-Catalunya,Gasly,8,Alpine F1 Team,0,Sunny
+2306,2025,9,Circuit de Barcelona-Catalunya,Hadjar,9,RB F1 Team,0,Sunny
+2307,2025,9,Circuit de Barcelona-Catalunya,Alonso,10,Aston Martin,0,Sunny
+2308,2025,9,Circuit de Barcelona-Catalunya,Albon,11,Williams,0,Sunny
+2309,2025,9,Circuit de Barcelona-Catalunya,Bortoleto,12,Sauber,0,Sunny
+2310,2025,9,Circuit de Barcelona-Catalunya,Lawson,13,RB F1 Team,0,Sunny
+2311,2025,9,Circuit de Barcelona-Catalunya,Stroll,14,Aston Martin,0,Sunny
+2312,2025,9,Circuit de Barcelona-Catalunya,Bearman,15,Haas F1 Team,0,Sunny
+2313,2025,9,Circuit de Barcelona-Catalunya,Hulkenberg,16,Sauber,0,Sunny
+2314,2025,9,Circuit de Barcelona-Catalunya,Ocon,17,Haas F1 Team,0,Sunny
+2315,2025,9,Circuit de Barcelona-Catalunya,Sainz,18,Williams,0,Sunny
+2316,2025,9,Circuit de Barcelona-Catalunya,Colapinto,19,Alpine F1 Team,0,Sunny
+2317,2025,9,Circuit de Barcelona-Catalunya,Tsunoda,20,Red Bull,0,Sunny
+2318,2025,10,Circuit Gilles Villeneuve,Russell,1,Mercedes,,Sunny
+2319,2025,10,Circuit Gilles Villeneuve,Verstappen,2,Red Bull,,Sunny
+2320,2025,10,Circuit Gilles Villeneuve,Piastri,3,McLaren,,Sunny
+2321,2025,10,Circuit Gilles Villeneuve,Antonelli,4,Mercedes,,Sunny
+2322,2025,10,Circuit Gilles Villeneuve,Hamilton,5,Ferrari,,Sunny
+2323,2025,10,Circuit Gilles Villeneuve,Alonso,6,Aston Martin,,Sunny
+2324,2025,10,Circuit Gilles Villeneuve,Norris,7,McLaren,,Sunny
+2325,2025,10,Circuit Gilles Villeneuve,Leclerc,8,Ferrari,,Sunny
+2326,2025,10,Circuit Gilles Villeneuve,Hadjar,9,RB F1 Team,,Sunny
+2327,2025,10,Circuit Gilles Villeneuve,Albon,10,Williams,,Sunny
+2328,2025,10,Circuit Gilles Villeneuve,Tsunoda,11,RB F1 Team,,Sunny
+2329,2025,10,Circuit Gilles Villeneuve,Colapinto,12,Alpine F1 Team,,Sunny
+2330,2025,10,Circuit Gilles Villeneuve,Hulkenberg,13,Sauber,,Sunny
+2331,2025,10,Circuit Gilles Villeneuve,Bearman,14,Haas F1 Team,,Sunny
+2332,2025,10,Circuit Gilles Villeneuve,Ocon,15,Haas F1 Team,,Sunny
+2333,2025,10,Circuit Gilles Villeneuve,Bortoleto,16,Sauber,,Sunny
+2334,2025,10,Circuit Gilles Villeneuve,Sainz,17,Williams,,Sunny
+2335,2025,10,Circuit Gilles Villeneuve,Stroll,18,Aston Martin,,Sunny
+2336,2025,10,Circuit Gilles Villeneuve,Lawson,19,RB F1 Team,,Sunny
+2337,2025,10,Circuit Gilles Villeneuve,Gasly,20,Alpine F1 Team,,Sunny
