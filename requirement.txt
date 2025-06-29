@@ -1,0 +1,5 @@
+#Necessary Libraries to run the code:
+
+streamlit==1.44.1
+pandas==2.2.3
+scikit-learn==1.6.1
