@@ -3,7 +3,6 @@ import streamlit as st
 import pandas as pd
 from sklearn.tree import DecisionTreeClassifier
 
-
 # Configures and loads the page with a title and wide layout
 st.set_page_config(page_title="F1 Race Winner Predictor", layout="wide")    
 
@@ -107,7 +106,7 @@ with col1:
     # Prompts the user to select a race year and allows the user to decide whether they want to include
     # qualifying data into the prediction or not and puts a predict winner button on the screen
     race_year = st.selectbox("Select Race Year:", [str(y) for y in range(2020, 2026)])
-    include_qualifying = st.toggle("Include Qualifying Data")
+    include_qualifying = st.checkbox("Include Qualifying Data")
     st.write("Selected Race:", selected_race)
 
     predict_button = st.button("🚦 Predict Winner")
