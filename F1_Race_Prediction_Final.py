@@ -3,12 +3,11 @@ import streamlit as st
 import pandas as pd
 from sklearn.tree import DecisionTreeClassifier
 
-
 # Configures and loads the page with a title and wide layout
 st.set_page_config(page_title="F1 Race Winner Predictor", layout="wide")    
 
 # Defines the function to predict the race winner and reads the CSV file containing all of the stats and data
-def predict_winner(track_name, year, include_qualifying):
+def predict_winner(track_name, year):
     df = pd.read_csv("F1_Race_Data.csv")
 
     # Clean and convert data values from the CSV file (e.g. Won, weather_code) to make it readable for the model
@@ -42,8 +41,7 @@ def predict_winner(track_name, year, include_qualifying):
     if predict_rows.empty:
         return "No prediction – race data not available."
 
-    # Prepares the data for prediction by converting categorical variables to numerical codes
-    # So the model can process the data
+    # Prepares the data for prediction by converting categorical variables to numerical codes so the model can process the data
     predict_rows["constructor_strength"] = predict_rows["Constructor"].astype('category').cat.codes
     predict_rows["weather_code"] = predict_rows["Weather"].map({"Sunny": 0, "Overcast": 1, "Rainy": 2})
     predict_rows["Grid"] = predict_rows["Grid"].astype(int)
@@ -57,22 +55,6 @@ def predict_winner(track_name, year, include_qualifying):
     predicted_driver = top_prediction["Driver"]
     win_chance = top_prediction["win_prob"]
     return f"{predicted_driver} (Win chance: {win_chance:.2%})"
-    
-    # Checks if the predict_row is empty, if it is empty returns a message saying that
-    #if predict_row.empty:
-     #   return "No prediction – race data not available."
-
-    #predict_row["constructor_strength"] = predict_row["Constructor"].astype('category').cat.codes
-    #predict_row["constructor_strength"] = predict_row["constructor_strength"].astype(int)
-    #predict_row["weather_code"] = predict_row["Weather"].map({"Sunny": 0, "Overcast": 1, "Rainy": 2})
-    #predict_row["weather_code"] = predict_row["weather_code"].astype(int)
-    #predict_row["Grid"] = predict_row["Grid"].astype(int)
-    
-    #pred_features = predict_row[["Grid", "constructor_strength", "weather_code"]]
-    #prediction = model.predict(pred_features)
-
-    #predicted_driver = predict_row.iloc[0]["Driver"] if prediction[0] == 1 else "Unknown"
-    #return predicted_driver
 
 # A header consisting of the official F1 logo, sourced from the web and formatted in HTLML to be compatible in streamlit
 st.markdown(
@@ -99,42 +81,39 @@ with col1:
         "Circuit of the Americas", "Circuit de Spa-Francorchamps", "Losail International Circuit", "Suzuka Circuit",
         "Red Bull Ring", "Shanghai International Circuit", "Hungaroring", "Silverstone Circuit",
         "Circuit de Barcelona-Catalunya", "Autodromo Nazionale di Monza", "Autodromo Internazionale del Mugello",
-        "Sochi Autodrom", "Nürburgring", "Autódromo Internacional do Algarve", "Autodromo Enzo e Dino Ferrari",
-        "Istanbul Park", "Bahrain International Circuit", "Yas Marina Circuit", "Autódromo Hermanos Rodríguez",
-        "Autódromo José Carlos Pace", "Las Vegas Strip Street Circuit"
+        "Sochi Autodrom", "Nurburgring", "Autodromo Internacional do Algarve", "Autodromo Enzo e Dino Ferrari",
+        "Istanbul Park", "Bahrain International Circuit", "Yas Marina Circuit", "Autodromo Hermanos Rodríguez",
+        "Autodromo Jose Carlos Pace", "Las Vegas Strip Street Circuit"
     ])
 
-    # Prompts the user to select a race year and allows the user to decide whether they want to include
-    # qualifying data into the prediction or not and puts a predict winner button on the screen
+    # Prompts the user to select a race year
     race_year = st.selectbox("Select Race Year:", [str(y) for y in range(2020, 2026)])
-    include_qualifying = st.toggle("Include Qualifying Data")
     st.write("Selected Race:", selected_race)
 
     predict_button = st.button("🚦 Predict Winner")
 
-# Creates a header for the prediciton outcomes, and if no input is provided yet it states that
+# Creates a header for the prediciton outcomes, and if no input is provided it will display a message saying that the prediction will appear once inputs are provided
 with col2:
     st.header("🏎️ Prediction Panel")
     if predict_button:
-        predicted_driver = predict_winner(selected_race, race_year, include_qualifying)
+        predicted_driver = predict_winner(selected_race, race_year)
         st.success(f"🏆 Predicted Winner: **{predicted_driver}**")
     else:
         st.info("Prediction will appear here once inputs are provided.")
 
     st.markdown("---")
     st.subheader("📊 Historical Stats")
-    
-    # Reads the CSV file and displays the historical winners for the past 3 years at the selected track 
-    # and if the race selected is invalid it displays 'historical data not available'
+
+    # Reads the CSV file and displays the historical winners for the past 5 years at the selected track and if the race selected is invalid it displays 'historical data not available'
     try:
         df = pd.read_csv("F1_Race_Data.csv")
-        track_history = df[(df["Circuit"] == selected_race) & (df["Won"] == 1)].sort_values("Season", ascending=False).head(3)
+        track_history = df[(df["Circuit"] == selected_race) & (df["Won"] == 1)].sort_values("Season", ascending=False).head(6)
         for _, row in track_history.iterrows():
             st.markdown(f"- {int(row['Season'])}: {row['Driver']}")
     except:
         st.write("Historical data not available.")
 
-    # Displays some info regarding weather insights
+    # Displays a stat regarding weather insights
     st.markdown("**Weather Impact Insights:**")
     st.write("Rainy races historically increase unpredictability by 32%.")
 
